@@ -1,0 +1,459 @@
+;;;;;;Dane
+;;;;;;Suma koñcowa
+Produkt.Nazwa;Produkt.Symbol;Produkt.Jednostka podstawowa;Czas.Kalendarzowy.Rok;Czas.Kalendarzowy.Data;Dokument.Dokument.Rodzaj.Typ dokumentu;Sprzeda¿ Iloœæ
+Pas wielorowkowy Micro-V;PJ 610/240J;ªbr;2021;23.02.2021;WZ;80
+Pas wielorowkowy Micro-V;PJ 610/240J;ªbr;2021;23.04.2021;WZ;64
+Pas wielorowkowy Micro-V;PJ 610/240J;ªbr;2021;7.05.2021;WZ;128
+Pas wielorowkowy Micro-V;PJ 610/240J;ªbr;2021;20.05.2021;WZ;64
+Pas wielorowkowy Micro-V;PJ 610/240J;ªbr;2021;13.08.2021;WZ;100
+Pas wielorowkowy Micro-V;PJ 610/240J;ªbr;2021;14.09.2021;WZ;8
+Pas wielorowkowy Micro-V;PJ 610/240J;ªbr;2021;16.12.2021;WZ;100
+Pas wielorowkowy Micro-V;PJ 610/240J;ªbr;2021 Razem;;;544
+Pas wielorowkowy Micro-V;PJ 610/240J;ªbr;2022;8.02.2022;WZ;192
+Pas wielorowkowy Micro-V;PJ 610/240J;ªbr;2022;10.02.2022;WZ;64
+Pas wielorowkowy Micro-V;PJ 610/240J;ªbr;2022;6.04.2022;WZ;64
+Pas wielorowkowy Micro-V;PJ 610/240J;ªbr;2022;12.08.2022;WZ;220
+Pas wielorowkowy Micro-V;PJ 610/240J;ªbr;2022;29.08.2022;WZ;8
+Pas wielorowkowy Micro-V;PJ 610/240J;ªbr;2022 Razem;;;548
+Pas wielorowkowy Micro-V;PJ 610/240J;ªbr;2023;12.10.2023;PA;7
+Pas wielorowkowy Micro-V;PJ 610/240J;ªbr Razem;;;;1 099,00
+Pas klinowy Hi Power;A 26 13x670Li;szt;2020;28.01.2020;WZ;14
+Pas klinowy Hi Power;A 26 13x670Li;szt;2020;14.02.2020;WZ;4
+Pas klinowy Hi Power;A 26 13x670Li;szt;2020;6.05.2020;WZ;20
+Pas klinowy Hi Power;A 26 13x670Li;szt;2020;21.05.2020;WZ;16
+Pas klinowy Hi Power;A 26 13x670Li;szt;2020;7.08.2020;WZ;16
+Pas klinowy Hi Power;A 26 13x670Li;szt;2020;13.11.2020;WZ;16
+Pas klinowy Hi Power;A 26 13x670Li;szt;2020;27.11.2020;WZ;10
+Pas klinowy Hi Power;A 26 13x670Li;szt;2020 Razem;;;96
+Pas klinowy Hi Power;A 26 13x670Li;szt;2021;8.07.2021;WZ;20
+Pas klinowy Hi Power;A 26 13x670Li;szt;2021;9.09.2021;WZ;20
+Pas klinowy Hi Power;A 26 13x670Li;szt;2021;26.10.2021;FSL;0
+Pas klinowy Hi Power;A 26 13x670Li;szt;2021;4.11.2021;WZ;4
+Pas klinowy Hi Power;A 26 13x670Li;szt;2021;16.11.2021;WZ;8
+Pas klinowy Hi Power;A 26 13x670Li;szt;2021;22.11.2021;WZ;20
+Pas klinowy Hi Power;A 26 13x670Li;szt;2021 Razem;;;72
+Pas klinowy Hi Power;A 26 13x670Li;szt;2022;11.01.2022;WZ;8
+Pas klinowy Hi Power;A 26 13x670Li;szt;2022;24.03.2022;WZ;8
+Pas klinowy Hi Power;A 26 13x670Li;szt;2022;19.04.2022;WZ;20
+Pas klinowy Hi Power;A 26 13x670Li;szt;2022;3.06.2022;WZ;10
+Pas klinowy Hi Power;A 26 13x670Li;szt;2022;25.07.2022;WZ;20
+Pas klinowy Hi Power;A 26 13x670Li;szt;2022;14.09.2022;WZ;20
+Pas klinowy Hi Power;A 26 13x670Li;szt;2022;24.10.2022;WZ;10
+Pas klinowy Hi Power;A 26 13x670Li;szt;2022;18.11.2022;WZ;20
+Pas klinowy Hi Power;A 26 13x670Li;szt;2022 Razem;;;116
+Pas klinowy Hi Power;A 26 13x670Li;szt;2023;7.04.2023;WZ;30
+Pas klinowy Hi Power;A 26 13x670Li;szt;2023;20.06.2023;WZ;20
+Pas klinowy Hi Power;A 26 13x670Li;szt;2023;3.07.2023;WZ;10
+Pas klinowy Hi Power;A 26 13x670Li;szt;2023;13.09.2023;WZ;20
+Pas klinowy Hi Power;A 26 13x670Li;szt;2023;13.12.2023;WZ;10
+Pas klinowy Hi Power;A 26 13x670Li;szt;2023 Razem;;;90
+Pas klinowy Hi Power;A 26 13x670Li;szt;2024;29.02.2024;WZ;10
+Pas klinowy Hi Power;A 26 13x670Li;szt;2024;21.03.2024;WZ;10
+Pas klinowy Hi Power;A 26 13x670Li;szt;2024;20.06.2024;WZ;14
+Pas klinowy Hi Power;A 26 13x670Li;szt;2024;12.09.2024;WZ;14
+Pas klinowy Hi Power;A 26 13x670Li;szt;2024 Razem;;;48
+Pas klinowy Hi Power;A 26 13x670Li;szt;2025;12.02.2025;FSL;0
+Pas klinowy Hi Power;A 26 13x670Li;szt;2025;19.02.2025;WZ;10
+Pas klinowy Hi Power;A 26 13x670Li;szt;2025;24.02.2025;WZ;20
+Pas klinowy Hi Power;A 26 13x670Li;szt;2025;19.05.2025;WZ;10
+Pas klinowy Hi Power;A 26 13x670Li;szt;2025;14.07.2025;WZ;10
+Pas klinowy Hi Power;A 26 13x670Li;szt;2025;24.07.2025;WZ;20
+Pas klinowy Hi Power;A 26 13x670Li;szt;2025;23.09.2025;FSL;0
+Pas klinowy Hi Power;A 26 13x670Li;szt;2025;3.10.2025;WZ;10
+Pas klinowy Hi Power;A 26 13x670Li;szt;2025 Razem;;;80
+Pas klinowy Hi Power;A 26 13x670Li;szt Razem;;;;502
+Pas wielorowkowy Micro-V;PJ 1549/610J;ªbr;2023;15.03.2023;WZ;16
+Pas wielorowkowy Micro-V;PJ 1549/610J;ªbr;2023;7.08.2023;WZ;16
+Pas wielorowkowy Micro-V;PJ 1549/610J;ªbr;2023;12.09.2023;FSL;0
+Pas wielorowkowy Micro-V;PJ 1549/610J;ªbr;2023;25.09.2023;WZ;16
+Pas wielorowkowy Micro-V;PJ 1549/610J;ªbr;2023;4.10.2023;WZ;32
+Pas wielorowkowy Micro-V;PJ 1549/610J;ªbr;2023;19.10.2023;WZ;16
+Pas wielorowkowy Micro-V;PJ 1549/610J;ªbr;2023 Razem;;;96
+Pas wielorowkowy Micro-V;PJ 1549/610J;ªbr;2024;18.04.2024;WZ;16
+Pas wielorowkowy Micro-V;PJ 1549/610J;ªbr;2024;26.04.2024;WZ;16
+Pas wielorowkowy Micro-V;PJ 1549/610J;ªbr;2024;7.05.2024;WZ;16
+Pas wielorowkowy Micro-V;PJ 1549/610J;ªbr;2024;21.05.2024;WZ;16
+Pas wielorowkowy Micro-V;PJ 1549/610J;ªbr;2024;23.05.2024;WZ;32
+Pas wielorowkowy Micro-V;PJ 1549/610J;ªbr;2024;27.05.2024;WZ;32
+Pas wielorowkowy Micro-V;PJ 1549/610J;ªbr;2024;28.08.2024;WZ;16
+Pas wielorowkowy Micro-V;PJ 1549/610J;ªbr;2024;29.08.2024;WZ;32
+Pas wielorowkowy Micro-V;PJ 1549/610J;ªbr;2024 Razem;;;176
+Pas wielorowkowy Micro-V;PJ 1549/610J;ªbr;2025;17.02.2025;FSL;0
+Pas wielorowkowy Micro-V;PJ 1549/610J;ªbr;2025;28.02.2025;WZ;40
+Pas wielorowkowy Micro-V;PJ 1549/610J;ªbr;2025;7.03.2025;WZ;24
+Pas wielorowkowy Micro-V;PJ 1549/610J;ªbr;2025;16.05.2025;FSL;0
+Pas wielorowkowy Micro-V;PJ 1549/610J;ªbr;2025;23.06.2025;WZ;20
+Pas wielorowkowy Micro-V;PJ 1549/610J;ªbr;2025;28.10.2025;WZ;24
+Pas wielorowkowy Micro-V;PJ 1549/610J;ªbr;2025;19.11.2025;FSL;0
+Pas wielorowkowy Micro-V;PJ 1549/610J;ªbr;2025;21.11.2025;WZ;20
+Pas wielorowkowy Micro-V;PJ 1549/610J;ªbr;2025 Razem;;;128
+Pas wielorowkowy Micro-V;PJ 1549/610J;ªbr Razem;;;;400
+Pas wielorowkowy Micro-V;PJ 711/280J;ªbr;2021;28.07.2021;WZ;96
+Pas wielorowkowy Micro-V;PJ 711/280J;ªbr;2021;16.12.2021;WZ;80
+Pas wielorowkowy Micro-V;PJ 711/280J;ªbr;2021 Razem;;;176
+Pas wielorowkowy Micro-V;PJ 711/280J;ªbr;2023;1.03.2023;WZ;48
+Pas wielorowkowy Micro-V;PJ 711/280J;ªbr;2023;18.10.2023;WZ;48
+Pas wielorowkowy Micro-V;PJ 711/280J;ªbr;2023 Razem;;;96
+Pas wielorowkowy Micro-V;PJ 711/280J;ªbr;2024;15.02.2024;WZ;12
+Pas wielorowkowy Micro-V;PJ 711/280J;ªbr;2024;5.04.2024;WZ;16
+Pas wielorowkowy Micro-V;PJ 711/280J;ªbr;2024 Razem;;;28
+Pas wielorowkowy Micro-V;PJ 711/280J;ªbr Razem;;;;300
+Pas wielorowkowy Micro-V;PJ 864/340J;ªbr;2020;29.04.2020;WZ;80
+Pas wielorowkowy Micro-V;PJ 864/340J;ªbr;2022;10.06.2022;WZ;8
+Pas wielorowkowy Micro-V;PJ 864/340J;ªbr;2022;3.11.2022;WZ;40
+Pas wielorowkowy Micro-V;PJ 864/340J;ªbr;2022 Razem;;;48
+Pas wielorowkowy Micro-V;PJ 864/340J;ªbr;2023;26.07.2023;WZ;80
+Pas wielorowkowy Micro-V;PJ 864/340J;ªbr;2024;20.02.2024;WZ;80
+Pas wielorowkowy Micro-V;PJ 864/340J;ªbr Razem;;;;288
+Pas klinowy Continental PowerSpan A196;A196 13X 4980/5010;szt;2022;15.02.2022;WZ;20
+Pas klinowy Continental PowerSpan A196;A196 13X 4980/5010;szt;2022;30.03.2022;WZ;20
+Pas klinowy Continental PowerSpan A196;A196 13X 4980/5010;szt;2022;13.04.2022;WZ;30
+Pas klinowy Continental PowerSpan A196;A196 13X 4980/5010;szt;2022;13.06.2022;WZ;2
+Pas klinowy Continental PowerSpan A196;A196 13X 4980/5010;szt;2022;10.08.2022;WZ;6
+Pas klinowy Continental PowerSpan A196;A196 13X 4980/5010;szt;2022 Razem;;;78
+Pas klinowy Continental PowerSpan A196;A196 13X 4980/5010;szt;2024;18.06.2024;WZ;30
+Pas klinowy Continental PowerSpan A196;A196 13X 4980/5010;szt;2024;23.07.2024;WZ;20
+Pas klinowy Continental PowerSpan A196;A196 13X 4980/5010;szt;2024;9.10.2024;WZ;20
+Pas klinowy Continental PowerSpan A196;A196 13X 4980/5010;szt;2024 Razem;;;70
+Pas klinowy Continental PowerSpan A196;A196 13X 4980/5010;szt;2025;23.01.2025;WZ;30
+Pas klinowy Continental PowerSpan A196;A196 13X 4980/5010;szt;2025;16.04.2025;WZ;30
+Pas klinowy Continental PowerSpan A196;A196 13X 4980/5010;szt;2025;27.05.2025;WZ;20
+Pas klinowy Continental PowerSpan A196;A196 13X 4980/5010;szt;2025;10.09.2025;WZ;20
+Pas klinowy Continental PowerSpan A196;A196 13X 4980/5010;szt;2025;7.10.2025;WZ;30
+Pas klinowy Continental PowerSpan A196;A196 13X 4980/5010;szt;2025 Razem;;;130
+Pas klinowy Continental PowerSpan A196;A196 13X 4980/5010;szt Razem;;;;278
+Pas wielorowkowy 8PJ 864/340J;501185;szt.;2020;27.01.2020;WZE;4
+Pas wielorowkowy 8PJ 864/340J;501185;szt.;2020;27.02.2020;WZE;8
+Pas wielorowkowy 8PJ 864/340J;501185;szt.;2020;16.03.2020;WZE;1
+Pas wielorowkowy 8PJ 864/340J;501185;szt.;2020;14.04.2020;WZE;1
+Pas wielorowkowy 8PJ 864/340J;501185;szt.;2020;2.06.2020;WZE;1
+Pas wielorowkowy 8PJ 864/340J;501185;szt.;2020;9.06.2020;WZE;2
+Pas wielorowkowy 8PJ 864/340J;501185;szt.;2020;31.07.2020;WZE;5
+Pas wielorowkowy 8PJ 864/340J;501185;szt.;2020;6.08.2020;WZE;1
+Pas wielorowkowy 8PJ 864/340J;501185;szt.;2020;7.09.2020;WZE;1
+Pas wielorowkowy 8PJ 864/340J;501185;szt.;2020;16.09.2020;WZE;5
+Pas wielorowkowy 8PJ 864/340J;501185;szt.;2020;30.09.2020;WZE;7
+Pas wielorowkowy 8PJ 864/340J;501185;szt.;2020;30.10.2020;WZE;1
+Pas wielorowkowy 8PJ 864/340J;501185;szt.;2020;26.11.2020;WZE;3
+Pas wielorowkowy 8PJ 864/340J;501185;szt.;2020;9.12.2020;WZE;3
+Pas wielorowkowy 8PJ 864/340J;501185;szt.;2020 Razem;;;43
+Pas wielorowkowy 8PJ 864/340J;501185;szt.;2021;7.01.2021;WZE;2
+Pas wielorowkowy 8PJ 864/340J;501185;szt.;2021;2.02.2021;WZE;4
+Pas wielorowkowy 8PJ 864/340J;501185;szt.;2021;16.02.2021;WZE;3
+Pas wielorowkowy 8PJ 864/340J;501185;szt.;2021;1.03.2021;WZE;2
+Pas wielorowkowy 8PJ 864/340J;501185;szt.;2021;17.03.2021;WZE;6
+Pas wielorowkowy 8PJ 864/340J;501185;szt.;2021;13.04.2021;WZE;6
+Pas wielorowkowy 8PJ 864/340J;501185;szt.;2021;20.04.2021;WZE;5
+Pas wielorowkowy 8PJ 864/340J;501185;szt.;2021;12.05.2021;WZE;2
+Pas wielorowkowy 8PJ 864/340J;501185;szt.;2021;31.05.2021;WZE;4
+Pas wielorowkowy 8PJ 864/340J;501185;szt.;2021;15.06.2021;WZE;8
+Pas wielorowkowy 8PJ 864/340J;501185;szt.;2021;22.06.2021;WZE;2
+Pas wielorowkowy 8PJ 864/340J;501185;szt.;2021;28.06.2021;WZE;4
+Pas wielorowkowy 8PJ 864/340J;501185;szt.;2021;5.07.2021;WZE;2
+Pas wielorowkowy 8PJ 864/340J;501185;szt.;2021;9.08.2021;WZE;2
+Pas wielorowkowy 8PJ 864/340J;501185;szt.;2021;16.08.2021;WZE;5
+Pas wielorowkowy 8PJ 864/340J;501185;szt.;2021;7.09.2021;WZE;1
+Pas wielorowkowy 8PJ 864/340J;501185;szt.;2021;20.09.2021;WZE;5
+Pas wielorowkowy 8PJ 864/340J;501185;szt.;2021;5.10.2021;WZE;4
+Pas wielorowkowy 8PJ 864/340J;501185;szt.;2021;19.10.2021;WZE;1
+Pas wielorowkowy 8PJ 864/340J;501185;szt.;2021;25.10.2021;WZE;1
+Pas wielorowkowy 8PJ 864/340J;501185;szt.;2021;9.11.2021;WZE;2
+Pas wielorowkowy 8PJ 864/340J;501185;szt.;2021;17.11.2021;WZE;2
+Pas wielorowkowy 8PJ 864/340J;501185;szt.;2021;23.11.2021;WZE;3
+Pas wielorowkowy 8PJ 864/340J;501185;szt.;2021 Razem;;;76
+Pas wielorowkowy 8PJ 864/340J;501185;szt.;2022;5.01.2022;WZE;3
+Pas wielorowkowy 8PJ 864/340J;501185;szt.;2022;25.01.2022;WZE;6
+Pas wielorowkowy 8PJ 864/340J;501185;szt.;2022;8.02.2022;WZE;2
+Pas wielorowkowy 8PJ 864/340J;501185;szt.;2022;15.02.2022;WZE;5
+Pas wielorowkowy 8PJ 864/340J;501185;szt.;2022;28.02.2022;WZE;1
+Pas wielorowkowy 8PJ 864/340J;501185;szt.;2022;7.03.2022;WZE;5
+Pas wielorowkowy 8PJ 864/340J;501185;szt.;2022;16.03.2022;WZE;5
+Pas wielorowkowy 8PJ 864/340J;501185;szt.;2022;22.03.2022;WZE;1
+Pas wielorowkowy 8PJ 864/340J;501185;szt.;2022;11.04.2022;WZE;5
+Pas wielorowkowy 8PJ 864/340J;501185;szt.;2022;25.04.2022;WZE;1
+Pas wielorowkowy 8PJ 864/340J;501185;szt.;2022;9.05.2022;WZE;3
+Pas wielorowkowy 8PJ 864/340J;501185;szt.;2022;16.05.2022;WZE;4
+Pas wielorowkowy 8PJ 864/340J;501185;szt.;2022;15.06.2022;WZE;1
+Pas wielorowkowy 8PJ 864/340J;501185;szt.;2022;28.06.2022;WZE;7
+Pas wielorowkowy 8PJ 864/340J;501185;szt.;2022;6.07.2022;WZE;1
+Pas wielorowkowy 8PJ 864/340J;501185;szt.;2022;11.07.2022;WZE;6
+Pas wielorowkowy 8PJ 864/340J;501185;szt.;2022;12.07.2022;WZE;4
+Pas wielorowkowy 8PJ 864/340J;501185;szt.;2022;29.07.2022;WZE;6
+Pas wielorowkowy 8PJ 864/340J;501185;szt.;2022;5.09.2022;WZE;2
+Pas wielorowkowy 8PJ 864/340J;501185;szt.;2022;12.09.2022;WZE;3
+Pas wielorowkowy 8PJ 864/340J;501185;szt.;2022;26.09.2022;WZE;5
+Pas wielorowkowy 8PJ 864/340J;501185;szt.;2022;30.09.2022;WZE;1
+Pas wielorowkowy 8PJ 864/340J;501185;szt.;2022;3.10.2022;WZE;1
+Pas wielorowkowy 8PJ 864/340J;501185;szt.;2022;17.10.2022;WZE;5
+Pas wielorowkowy 8PJ 864/340J;501185;szt.;2022;24.10.2022;WZE;2
+Pas wielorowkowy 8PJ 864/340J;501185;szt.;2022;28.10.2022;WZE;2
+Pas wielorowkowy 8PJ 864/340J;501185;szt.;2022;21.11.2022;WZE;10
+Pas wielorowkowy 8PJ 864/340J;501185;szt.;2022;5.12.2022;WZE;6
+Pas wielorowkowy 8PJ 864/340J;501185;szt.;2022 Razem;;;103
+Pas wielorowkowy 8PJ 864/340J;501185;szt.;2023;10.01.2023;WZE;2
+Pas wielorowkowy 8PJ 864/340J;501185;szt.;2023;20.02.2023;WZE;2
+Pas wielorowkowy 8PJ 864/340J;501185;szt.;2023;17.04.2023;WZE;1
+Pas wielorowkowy 8PJ 864/340J;501185;szt.;2023;24.04.2023;WZE;2
+Pas wielorowkowy 8PJ 864/340J;501185;szt.;2023;8.05.2023;WZE;5
+Pas wielorowkowy 8PJ 864/340J;501185;szt.;2023;11.09.2023;WZE;2
+Pas wielorowkowy 8PJ 864/340J;501185;szt.;2023;18.09.2023;WZE;1
+Pas wielorowkowy 8PJ 864/340J;501185;szt.;2023;30.10.2023;WZE;1
+Pas wielorowkowy 8PJ 864/340J;501185;szt.;2023;28.11.2023;WZE;2
+Pas wielorowkowy 8PJ 864/340J;501185;szt.;2023 Razem;;;18
+Pas wielorowkowy 8PJ 864/340J;501185;szt.;2024;4.03.2024;WZE;5
+Pas wielorowkowy 8PJ 864/340J;501185;szt.;2024;28.03.2024;WZE;1
+Pas wielorowkowy 8PJ 864/340J;501185;szt.;2024;13.05.2024;WZE;2
+Pas wielorowkowy 8PJ 864/340J;501185;szt.;2024;18.06.2024;WZE;1
+Pas wielorowkowy 8PJ 864/340J;501185;szt.;2024;5.08.2024;WZE;3
+Pas wielorowkowy 8PJ 864/340J;501185;szt.;2024;28.10.2024;WZE;1
+Pas wielorowkowy 8PJ 864/340J;501185;szt.;2024 Razem;;;13
+Pas wielorowkowy 8PJ 864/340J;501185;szt.;2025;17.03.2025;WZE;1
+Pas wielorowkowy 8PJ 864/340J;501185;szt.;2025;7.04.2025;WZE;3
+Pas wielorowkowy 8PJ 864/340J;501185;szt.;2025;27.06.2025;WZE;1
+Pas wielorowkowy 8PJ 864/340J;501185;szt.;2025;5.08.2025;WZE;1
+Pas wielorowkowy 8PJ 864/340J;501185;szt.;2025;18.08.2025;WZE;3
+Pas wielorowkowy 8PJ 864/340J;501185;szt.;2025;22.08.2025;WZE;1
+Pas wielorowkowy 8PJ 864/340J;501185;szt.;2025 Razem;;;10
+Pas wielorowkowy 8PJ 864/340J;501185;szt. Razem;;;;263
+Pas klinowy Quad-Power 4;XPA 2180;szt;2020;20.01.2020;WZ;4
+Pas klinowy Quad-Power 4;XPA 2180;szt;2020;16.03.2020;WZ;5
+Pas klinowy Quad-Power 4;XPA 2180;szt;2020;15.10.2020;WZ;5
+Pas klinowy Quad-Power 4;XPA 2180;szt;2020;21.10.2020;WZ;10
+Pas klinowy Quad-Power 4;XPA 2180;szt;2020 Razem;;;24
+Pas klinowy Quad-Power 4;XPA 2180;szt;2021;29.01.2021;WZ;4
+Pas klinowy Quad-Power 4;XPA 2180;szt;2021;22.04.2021;WZ;2
+Pas klinowy Quad-Power 4;XPA 2180;szt;2021;12.05.2021;WZ;5
+Pas klinowy Quad-Power 4;XPA 2180;szt;2021;29.06.2021;WZ;4
+Pas klinowy Quad-Power 4;XPA 2180;szt;2021;11.08.2021;WZ;5
+Pas klinowy Quad-Power 4;XPA 2180;szt;2021;24.09.2021;WZ;2
+Pas klinowy Quad-Power 4;XPA 2180;szt;2021;5.11.2021;WZ;4
+Pas klinowy Quad-Power 4;XPA 2180;szt;2021;15.12.2021;WZ;15
+Pas klinowy Quad-Power 4;XPA 2180;szt;2021;16.12.2021;WZ;1
+Pas klinowy Quad-Power 4;XPA 2180;szt;2021 Razem;;;42
+Pas klinowy Quad-Power 4;XPA 2180;szt;2022;15.07.2022;WZ;10
+Pas klinowy Quad-Power 4;XPA 2180;szt;2022;28.07.2022;WZ;5
+Pas klinowy Quad-Power 4;XPA 2180;szt;2022;14.09.2022;WZ;5
+Pas klinowy Quad-Power 4;XPA 2180;szt;2022;12.12.2022;WZ;3
+Pas klinowy Quad-Power 4;XPA 2180;szt;2022 Razem;;;23
+Pas klinowy Quad-Power 4;XPA 2180;szt;2023;27.04.2023;WZ;2
+Pas klinowy Quad-Power 4;XPA 2180;szt;2023;12.07.2023;WZ;5
+Pas klinowy Quad-Power 4;XPA 2180;szt;2023;10.08.2023;WZ;2
+Pas klinowy Quad-Power 4;XPA 2180;szt;2023;23.08.2023;WZ;5
+Pas klinowy Quad-Power 4;XPA 2180;szt;2023;26.10.2023;WZ;35
+Pas klinowy Quad-Power 4;XPA 2180;szt;2023;22.12.2023;WZ;4
+Pas klinowy Quad-Power 4;XPA 2180;szt;2023 Razem;;;53
+Pas klinowy Quad-Power 4;XPA 2180;szt;2024;14.02.2024;WZ;5
+Pas klinowy Quad-Power 4;XPA 2180;szt;2024;15.03.2024;WZ;5
+Pas klinowy Quad-Power 4;XPA 2180;szt;2024;26.06.2024;WZ;5
+Pas klinowy Quad-Power 4;XPA 2180;szt;2024;4.07.2024;WZ;10
+Pas klinowy Quad-Power 4;XPA 2180;szt;2024;3.10.2024;WZ;10
+Pas klinowy Quad-Power 4;XPA 2180;szt;2024 Razem;;;35
+Pas klinowy Quad-Power 4;XPA 2180;szt;2025;6.02.2025;WZ;10
+Pas klinowy Quad-Power 4;XPA 2180;szt;2025;28.02.2025;WZ;10
+Pas klinowy Quad-Power 4;XPA 2180;szt;2025;3.04.2025;WZ;10
+Pas klinowy Quad-Power 4;XPA 2180;szt;2025;25.06.2025;WZ;30
+Pas klinowy Quad-Power 4;XPA 2180;szt;2025;31.10.2025;WZ;10
+Pas klinowy Quad-Power 4;XPA 2180;szt;2025 Razem;;;70
+Pas klinowy Quad-Power 4;XPA 2180;szt Razem;;;;247
+Pas Micro-V;PJ 1200/473J;ªbr;2020;16.09.2020;WZ;32
+Pas Micro-V;PJ 1200/473J;ªbr;2021;6.10.2021;WZ;192
+Pas Micro-V;PJ 1200/473J;ªbr;2024;10.12.2024;WZ;12
+Pas Micro-V;PJ 1200/473J;ªbr Razem;;;;236
+Pas klinowy Quad-Power 4 XPA 1030;535083;szt;2020;4.03.2020;WZE;2
+Pas klinowy Quad-Power 4 XPA 1030;535083;szt;2020;31.07.2020;WZE;2
+Pas klinowy Quad-Power 4 XPA 1030;535083;szt;2020;31.08.2020;WZE;2
+Pas klinowy Quad-Power 4 XPA 1030;535083;szt;2020;30.11.2020;WZE;2
+Pas klinowy Quad-Power 4 XPA 1030;535083;szt;2020 Razem;;;8
+Pas klinowy Quad-Power 4 XPA 1030;535083;szt;2021;19.01.2021;WZE;2
+Pas klinowy Quad-Power 4 XPA 1030;535083;szt;2021;16.02.2021;WZE;6
+Pas klinowy Quad-Power 4 XPA 1030;535083;szt;2021;23.02.2021;WZE;2
+Pas klinowy Quad-Power 4 XPA 1030;535083;szt;2021;1.03.2021;WZE;4
+Pas klinowy Quad-Power 4 XPA 1030;535083;szt;2021;13.04.2021;WZE;2
+Pas klinowy Quad-Power 4 XPA 1030;535083;szt;2021;20.07.2021;WZE;2
+Pas klinowy Quad-Power 4 XPA 1030;535083;szt;2021;30.08.2021;WZE;2
+Pas klinowy Quad-Power 4 XPA 1030;535083;szt;2021;7.09.2021;WZE;2
+Pas klinowy Quad-Power 4 XPA 1030;535083;szt;2021;20.09.2021;WZE;2
+Pas klinowy Quad-Power 4 XPA 1030;535083;szt;2021;19.10.2021;WZE;2
+Pas klinowy Quad-Power 4 XPA 1030;535083;szt;2021;23.11.2021;WZE;2
+Pas klinowy Quad-Power 4 XPA 1030;535083;szt;2021;6.12.2021;WZE;2
+Pas klinowy Quad-Power 4 XPA 1030;535083;szt;2021 Razem;;;30
+Pas klinowy Quad-Power 4 XPA 1030;535083;szt;2022;5.01.2022;WZE;2
+Pas klinowy Quad-Power 4 XPA 1030;535083;szt;2022;11.01.2022;WZE;2
+Pas klinowy Quad-Power 4 XPA 1030;535083;szt;2022;17.01.2022;WZE;2
+Pas klinowy Quad-Power 4 XPA 1030;535083;szt;2022;22.02.2022;WZE;2
+Pas klinowy Quad-Power 4 XPA 1030;535083;szt;2022;28.02.2022;WZE;2
+Pas klinowy Quad-Power 4 XPA 1030;535083;szt;2022;7.03.2022;WZE;2
+Pas klinowy Quad-Power 4 XPA 1030;535083;szt;2022;22.03.2022;WZE;2
+Pas klinowy Quad-Power 4 XPA 1030;535083;szt;2022;16.05.2022;WZE;4
+Pas klinowy Quad-Power 4 XPA 1030;535083;szt;2022;23.05.2022;WZE;2
+Pas klinowy Quad-Power 4 XPA 1030;535083;szt;2022;6.07.2022;WZE;2
+Pas klinowy Quad-Power 4 XPA 1030;535083;szt;2022;8.08.2022;WZE;2
+Pas klinowy Quad-Power 4 XPA 1030;535083;szt;2022;5.09.2022;WZE;4
+Pas klinowy Quad-Power 4 XPA 1030;535083;szt;2022;19.09.2022;WZE;6
+Pas klinowy Quad-Power 4 XPA 1030;535083;szt;2022;26.09.2022;WZE;4
+Pas klinowy Quad-Power 4 XPA 1030;535083;szt;2022;10.10.2022;WZE;2
+Pas klinowy Quad-Power 4 XPA 1030;535083;szt;2022;24.10.2022;WZE;2
+Pas klinowy Quad-Power 4 XPA 1030;535083;szt;2022;28.10.2022;WZE;2
+Pas klinowy Quad-Power 4 XPA 1030;535083;szt;2022 Razem;;;44
+Pas klinowy Quad-Power 4 XPA 1030;535083;szt;2023;23.01.2023;WZE;4
+Pas klinowy Quad-Power 4 XPA 1030;535083;szt;2023;6.02.2023;WZE;4
+Pas klinowy Quad-Power 4 XPA 1030;535083;szt;2023;13.02.2023;WZE;4
+Pas klinowy Quad-Power 4 XPA 1030;535083;szt;2023;1.03.2023;WZE;6
+Pas klinowy Quad-Power 4 XPA 1030;535083;szt;2023;13.03.2023;WZE;4
+Pas klinowy Quad-Power 4 XPA 1030;535083;szt;2023;27.03.2023;WZE;4
+Pas klinowy Quad-Power 4 XPA 1030;535083;szt;2023;11.04.2023;WZE;4
+Pas klinowy Quad-Power 4 XPA 1030;535083;szt;2023;17.04.2023;WZE;4
+Pas klinowy Quad-Power 4 XPA 1030;535083;szt;2023;15.05.2023;WZE;2
+Pas klinowy Quad-Power 4 XPA 1030;535083;szt;2023;29.05.2023;WZE;2
+Pas klinowy Quad-Power 4 XPA 1030;535083;szt;2023;14.06.2023;WZE;1
+Pas klinowy Quad-Power 4 XPA 1030;535083;szt;2023;3.07.2023;WZE;2
+Pas klinowy Quad-Power 4 XPA 1030;535083;szt;2023;11.09.2023;WZE;2
+Pas klinowy Quad-Power 4 XPA 1030;535083;szt;2023;29.09.2023;WZE;6
+Pas klinowy Quad-Power 4 XPA 1030;535083;szt;2023;23.10.2023;WZE;6
+Pas klinowy Quad-Power 4 XPA 1030;535083;szt;2023;28.11.2023;WZE;2
+Pas klinowy Quad-Power 4 XPA 1030;535083;szt;2023;30.11.2023;WZE;2
+Pas klinowy Quad-Power 4 XPA 1030;535083;szt;2023;5.12.2023;WZE;6
+Pas klinowy Quad-Power 4 XPA 1030;535083;szt;2023 Razem;;;65
+Pas klinowy Quad-Power 4 XPA 1030;535083;szt;2024;15.01.2024;WZE;2
+Pas klinowy Quad-Power 4 XPA 1030;535083;szt;2024;15.04.2024;WZE;2
+Pas klinowy Quad-Power 4 XPA 1030;535083;szt;2024;20.05.2024;WZE;2
+Pas klinowy Quad-Power 4 XPA 1030;535083;szt;2024;4.06.2024;WZE;4
+Pas klinowy Quad-Power 4 XPA 1030;535083;szt;2024;10.06.2024;WZE;10
+Pas klinowy Quad-Power 4 XPA 1030;535083;szt;2024;30.09.2024;WZE;4
+Pas klinowy Quad-Power 4 XPA 1030;535083;szt;2024;24.10.2024;WZE;4
+Pas klinowy Quad-Power 4 XPA 1030;535083;szt;2024;30.10.2024;WZE;8
+Pas klinowy Quad-Power 4 XPA 1030;535083;szt;2024;12.11.2024;WZE;6
+Pas klinowy Quad-Power 4 XPA 1030;535083;szt;2024;9.12.2024;WZE;4
+Pas klinowy Quad-Power 4 XPA 1030;535083;szt;2024 Razem;;;46
+Pas klinowy Quad-Power 4 XPA 1030;535083;szt;2025;27.01.2025;WZE;2
+Pas klinowy Quad-Power 4 XPA 1030;535083;szt;2025;24.02.2025;WZE;4
+Pas klinowy Quad-Power 4 XPA 1030;535083;szt;2025;29.04.2025;WZE;8
+Pas klinowy Quad-Power 4 XPA 1030;535083;szt;2025;2.06.2025;WZE;6
+Pas klinowy Quad-Power 4 XPA 1030;535083;szt;2025;10.06.2025;WZE;2
+Pas klinowy Quad-Power 4 XPA 1030;535083;szt;2025;7.08.2025;WZE;2
+Pas klinowy Quad-Power 4 XPA 1030;535083;szt;2025;22.08.2025;WZE;2
+Pas klinowy Quad-Power 4 XPA 1030;535083;szt;2025;17.11.2025;WZE;2
+Pas klinowy Quad-Power 4 XPA 1030;535083;szt;2025;24.11.2025;WZE;2
+Pas klinowy Quad-Power 4 XPA 1030;535083;szt;2025;28.11.2025;WZE;2
+Pas klinowy Quad-Power 4 XPA 1030;535083;szt;2025 Razem;;;32
+Pas klinowy Quad-Power 4 XPA 1030;535083;szt Razem;;;;225
+Pas wielorowkowy Micro-V;PJ 1270/500J;ªbr;2020;9.01.2020;WZ;1
+Pas wielorowkowy Micro-V;PJ 1270/500J;ªbr;2024;21.03.2024;WZ;224
+Pas wielorowkowy Micro-V;PJ 1270/500J;ªbr Razem;;;;225
+Pas wielorowkowy Micro-V;PJ 660/260J;ªbr;2020;17.03.2020;WZ;12
+Pas wielorowkowy Micro-V;PJ 660/260J;ªbr;2020;1.09.2020;PA;8
+Pas wielorowkowy Micro-V;PJ 660/260J;ªbr;2020;3.12.2020;WZ;40
+Pas wielorowkowy Micro-V;PJ 660/260J;ªbr;2020 Razem;;;60
+Pas wielorowkowy Micro-V;PJ 660/260J;ªbr;2021;5.02.2021;WZ;120
+Pas wielorowkowy Micro-V;PJ 660/260J;ªbr;2021;28.07.2021;WZ;8
+Pas wielorowkowy Micro-V;PJ 660/260J;ªbr;2021 Razem;;;128
+Pas wielorowkowy Micro-V;PJ 660/260J;ªbr;2022;23.02.2022;WZ;4
+Pas wielorowkowy Micro-V;PJ 660/260J;ªbr;2022;6.09.2022;WZ;8
+Pas wielorowkowy Micro-V;PJ 660/260J;ªbr;2022 Razem;;;12
+Pas wielorowkowy Micro-V;PJ 660/260J;ªbr Razem;;;;200
+Pas klinowy   Polyflex;7M 500;szt;2020;27.01.2020;WZ;20
+Pas klinowy   Polyflex;7M 500;szt;2020;8.05.2020;WZ;20
+Pas klinowy   Polyflex;7M 500;szt;2020;16.06.2020;WZ;20
+Pas klinowy   Polyflex;7M 500;szt;2020;22.09.2020;WZ;20
+Pas klinowy   Polyflex;7M 500;szt;2020;26.10.2020;WZ;10
+Pas klinowy   Polyflex;7M 500;szt;2020 Razem;;;90
+Pas klinowy   Polyflex;7M 500;szt;2021;10.02.2021;WZ;10
+Pas klinowy   Polyflex;7M 500;szt;2021;12.02.2021;WZ;20
+Pas klinowy   Polyflex;7M 500;szt;2021 Razem;;;30
+Pas klinowy   Polyflex;7M 500;szt;2022;4.08.2022;WZ;20
+Pas klinowy   Polyflex;7M 500;szt Razem;;;;140
+Pas wielorowkowy 8PJ 914/360J;505615;szt.;2020;27.02.2020;WZE;2
+Pas wielorowkowy 8PJ 914/360J;505615;szt.;2020;14.04.2020;WZE;1
+Pas wielorowkowy 8PJ 914/360J;505615;szt.;2020;19.05.2020;WZE;1
+Pas wielorowkowy 8PJ 914/360J;505615;szt.;2020;9.06.2020;WZE;1
+Pas wielorowkowy 8PJ 914/360J;505615;szt.;2020;31.07.2020;WZE;3
+Pas wielorowkowy 8PJ 914/360J;505615;szt.;2020;30.10.2020;WZE;2
+Pas wielorowkowy 8PJ 914/360J;505615;szt.;2020;30.11.2020;WZE;1
+Pas wielorowkowy 8PJ 914/360J;505615;szt.;2020 Razem;;;11
+Pas wielorowkowy 8PJ 914/360J;505615;szt.;2021;15.06.2021;WZE;10
+Pas wielorowkowy 8PJ 914/360J;505615;szt.;2021;16.08.2021;WZE;1
+Pas wielorowkowy 8PJ 914/360J;505615;szt.;2021;5.10.2021;WZE;1
+Pas wielorowkowy 8PJ 914/360J;505615;szt.;2021;25.10.2021;WZE;9
+Pas wielorowkowy 8PJ 914/360J;505615;szt.;2021;9.11.2021;WZE;3
+Pas wielorowkowy 8PJ 914/360J;505615;szt.;2021;17.11.2021;WZE;3
+Pas wielorowkowy 8PJ 914/360J;505615;szt.;2021 Razem;;;27
+Pas wielorowkowy 8PJ 914/360J;505615;szt.;2022;22.02.2022;WZE;5
+Pas wielorowkowy 8PJ 914/360J;505615;szt.;2022;28.02.2022;WZE;5
+Pas wielorowkowy 8PJ 914/360J;505615;szt.;2022;22.03.2022;WZE;5
+Pas wielorowkowy 8PJ 914/360J;505615;szt.;2022;28.03.2022;WZE;5
+Pas wielorowkowy 8PJ 914/360J;505615;szt.;2022;5.04.2022;WZE;5
+Pas wielorowkowy 8PJ 914/360J;505615;szt.;2022;11.04.2022;WZE;5
+Pas wielorowkowy 8PJ 914/360J;505615;szt.;2022;19.09.2022;WZE;5
+Pas wielorowkowy 8PJ 914/360J;505615;szt.;2022;26.09.2022;WZE;1
+Pas wielorowkowy 8PJ 914/360J;505615;szt.;2022;7.11.2022;WZE;5
+Pas wielorowkowy 8PJ 914/360J;505615;szt.;2022;14.11.2022;WZE;4
+Pas wielorowkowy 8PJ 914/360J;505615;szt.;2022;5.12.2022;WZE;1
+Pas wielorowkowy 8PJ 914/360J;505615;szt.;2022 Razem;;;46
+Pas wielorowkowy 8PJ 914/360J;505615;szt.;2023;5.01.2023;WZE;4
+Pas wielorowkowy 8PJ 914/360J;505615;szt.;2023;20.01.2023;WZE;4
+Pas wielorowkowy 8PJ 914/360J;505615;szt.;2023;30.01.2023;WZE;8
+Pas wielorowkowy 8PJ 914/360J;505615;szt.;2023;3.02.2023;WZE;2
+Pas wielorowkowy 8PJ 914/360J;505615;szt.;2023;13.02.2023;WZE;4
+Pas wielorowkowy 8PJ 914/360J;505615;szt.;2023;23.02.2023;WZE;4
+Pas wielorowkowy 8PJ 914/360J;505615;szt.;2023;1.03.2023;WZE;4
+Pas wielorowkowy 8PJ 914/360J;505615;szt.;2023;6.03.2023;WZE;4
+Pas wielorowkowy 8PJ 914/360J;505615;szt.;2023;13.03.2023;WZE;4
+Pas wielorowkowy 8PJ 914/360J;505615;szt.;2023;20.03.2023;WZE;4
+Pas wielorowkowy 8PJ 914/360J;505615;szt.;2023;31.07.2023;WZE;2
+Pas wielorowkowy 8PJ 914/360J;505615;szt.;2023;26.10.2023;WZE;2
+Pas wielorowkowy 8PJ 914/360J;505615;szt.;2023 Razem;;;46
+Pas wielorowkowy 8PJ 914/360J;505615;szt.;2024;10.06.2024;WZE;4
+Pas wielorowkowy 8PJ 914/360J;505615;szt.;2024;24.10.2024;WZE;2
+Pas wielorowkowy 8PJ 914/360J;505615;szt.;2024 Razem;;;6
+Pas wielorowkowy 8PJ 914/360J;505615;szt.;2025;20.01.2025;WZE;2
+Pas wielorowkowy 8PJ 914/360J;505615;szt. Razem;;;;138
+Pas klinowy Hi Power;B 63 17x1600Li/1650;szt;2020;24.01.2020;WZ;10
+Pas klinowy Hi Power;B 63 17x1600Li/1650;szt;2020;11.05.2020;WZ;10
+Pas klinowy Hi Power;B 63 17x1600Li/1650;szt;2020;28.05.2020;WZ;10
+Pas klinowy Hi Power;B 63 17x1600Li/1650;szt;2020;20.11.2020;WZ;10
+Pas klinowy Hi Power;B 63 17x1600Li/1650;szt;2020 Razem;;;40
+Pas klinowy Hi Power;B 63 17x1600Li/1650;szt;2021;3.03.2021;WZ;10
+Pas klinowy Hi Power;B 63 17x1600Li/1650;szt;2022;26.01.2022;WZ;10
+Pas klinowy Hi Power;B 63 17x1600Li/1650;szt;2022;26.05.2022;WZ;10
+Pas klinowy Hi Power;B 63 17x1600Li/1650;szt;2022;12.12.2022;WZ;10
+Pas klinowy Hi Power;B 63 17x1600Li/1650;szt;2022 Razem;;;30
+Pas klinowy Hi Power;B 63 17x1600Li/1650;szt;2023;21.06.2023;WZ;10
+Pas klinowy Hi Power;B 63 17x1600Li/1650;szt;2024;23.02.2024;WZ;10
+Pas klinowy Hi Power;B 63 17x1600Li/1650;szt;2024;18.06.2024;WZ;10
+Pas klinowy Hi Power;B 63 17x1600Li/1650;szt;2024;2.10.2024;WZ;10
+Pas klinowy Hi Power;B 63 17x1600Li/1650;szt;2024 Razem;;;30
+Pas klinowy Hi Power;B 63 17x1600Li/1650;szt;2025;3.06.2025;WZ;10
+Pas klinowy Hi Power;B 63 17x1600Li/1650;szt Razem;;;;130
+Pas wielorowkowy Micro-V;PJ 914/360J;ªbr;2020;5.11.2020;WZ;32
+Pas wielorowkowy Micro-V;PJ 914/360J;ªbr;2021;14.09.2021;WZ;86
+Pas wielorowkowy Micro-V;PJ 914/360J;ªbr Razem;;;;118
+Pas klinowy Quad-Power 4;XPZ 1060/3VX419;szt;2020;20.01.2020;WZ;8
+Pas klinowy Quad-Power 4;XPZ 1060/3VX419;szt;2020;13.03.2020;WZ;8
+Pas klinowy Quad-Power 4;XPZ 1060/3VX419;szt;2020;13.08.2020;WZ;2
+Pas klinowy Quad-Power 4;XPZ 1060/3VX419;szt;2020 Razem;;;18
+Pas klinowy Quad-Power 4;XPZ 1060/3VX419;szt;2021;29.01.2021;WZ;10
+Pas klinowy Quad-Power 4;XPZ 1060/3VX419;szt;2021;8.02.2021;WZ;6
+Pas klinowy Quad-Power 4;XPZ 1060/3VX419;szt;2021;22.04.2021;WZ;6
+Pas klinowy Quad-Power 4;XPZ 1060/3VX419;szt;2021;29.06.2021;WZ;18
+Pas klinowy Quad-Power 4;XPZ 1060/3VX419;szt;2021;26.07.2021;WZ;2
+Pas klinowy Quad-Power 4;XPZ 1060/3VX419;szt;2021;24.09.2021;WZ;2
+Pas klinowy Quad-Power 4;XPZ 1060/3VX419;szt;2021;16.12.2021;WZ;16
+Pas klinowy Quad-Power 4;XPZ 1060/3VX419;szt;2021 Razem;;;60
+Pas klinowy Quad-Power 4;XPZ 1060/3VX419;szt;2023;11.01.2023;WZ;3
+Pas klinowy Quad-Power 4;XPZ 1060/3VX419;szt;2023;27.04.2023;WZ;4
+Pas klinowy Quad-Power 4;XPZ 1060/3VX419;szt;2023;10.08.2023;WZ;4
+Pas klinowy Quad-Power 4;XPZ 1060/3VX419;szt;2023;30.11.2023;WZ;4
+Pas klinowy Quad-Power 4;XPZ 1060/3VX419;szt;2023 Razem;;;15
+Pas klinowy Quad-Power 4;XPZ 1060/3VX419;szt;2024;26.01.2024;WZ;4
+Pas klinowy Quad-Power 4;XPZ 1060/3VX419;szt;2025;14.02.2025;WZ;4
+Pas klinowy Quad-Power 4;XPZ 1060/3VX419;szt;2025;30.10.2025;WZ;6
+Pas klinowy Quad-Power 4;XPZ 1060/3VX419;szt;2025 Razem;;;10
+Pas klinowy Quad-Power 4;XPZ 1060/3VX419;szt Razem;;;;107
+Pas klinowy Quad-Power 4;XPZ 812/3VX321;szt;2021;28.04.2021;WZ;8
+Pas klinowy Quad-Power 4;XPZ 812/3VX321;szt;2021;10.05.2021;WZ;2
+Pas klinowy Quad-Power 4;XPZ 812/3VX321;szt;2021;24.06.2021;WZ;38
+Pas klinowy Quad-Power 4;XPZ 812/3VX321;szt;2021;16.07.2021;WZ;24
+Pas klinowy Quad-Power 4;XPZ 812/3VX321;szt;2021 Razem;;;72
+Pas klinowy Quad-Power 4;XPZ 812/3VX321;szt;2022;16.02.2022;WZ;30
+Pas klinowy Quad-Power 4;XPZ 812/3VX321;szt Razem;;;;102
+Suma koñcowa;;;;;;4 998,00

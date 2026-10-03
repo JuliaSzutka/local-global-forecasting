@@ -1,0 +1,810 @@
+;;;;;;Dane
+;;;;;;Suma koñcowa
+Produkt.Nazwa;Produkt.Symbol;Produkt.Jednostka podstawowa;Czas.Kalendarzowy.Rok;Czas.Kalendarzowy.Data;Dokument.Dokument.Rodzaj.Typ dokumentu;Sprzeda¿ Iloœæ
+Wa³ek wieloklinowy;KW 21x25 ocel C45;m;2020;9.01.2020;WZ;9
+Wa³ek wieloklinowy;KW 21x25 ocel C45;m;2020;31.01.2020;WZ;0,5
+Wa³ek wieloklinowy;KW 21x25 ocel C45;m;2020;12.02.2020;WZ;1,31
+Wa³ek wieloklinowy;KW 21x25 ocel C45;m;2020;26.02.2020;WZ;3
+Wa³ek wieloklinowy;KW 21x25 ocel C45;m;2020;4.03.2020;WZ;12
+Wa³ek wieloklinowy;KW 21x25 ocel C45;m;2020;5.03.2020;WZ;0,5
+Wa³ek wieloklinowy;KW 21x25 ocel C45;m;2020;16.03.2020;WZ;0,5
+Wa³ek wieloklinowy;KW 21x25 ocel C45;m;2020;17.03.2020;WZ;0,6
+Wa³ek wieloklinowy;KW 21x25 ocel C45;m;2020;17.06.2020;FSL;0
+Wa³ek wieloklinowy;KW 21x25 ocel C45;m;2020;18.06.2020;WZ;12
+Wa³ek wieloklinowy;KW 21x25 ocel C45;m;2020;25.06.2020;WZ;3
+Wa³ek wieloklinowy;KW 21x25 ocel C45;m;2020;2.07.2020;WZ;3
+Wa³ek wieloklinowy;KW 21x25 ocel C45;m;2020;10.07.2020;WZ;6
+Wa³ek wieloklinowy;KW 21x25 ocel C45;m;2020;16.07.2020;WZ;2,01
+Wa³ek wieloklinowy;KW 21x25 ocel C45;m;2020;17.07.2020;WZ;0,5
+Wa³ek wieloklinowy;KW 21x25 ocel C45;m;2020;21.07.2020;WZ;2
+Wa³ek wieloklinowy;KW 21x25 ocel C45;m;2020;6.08.2020;WZ;0,4
+Wa³ek wieloklinowy;KW 21x25 ocel C45;m;2020;10.08.2020;WZ;3
+Wa³ek wieloklinowy;KW 21x25 ocel C45;m;2020;3.09.2020;WZ;1
+Wa³ek wieloklinowy;KW 21x25 ocel C45;m;2020;9.09.2020;WZ;3
+Wa³ek wieloklinowy;KW 21x25 ocel C45;m;2020;22.09.2020;WZ;2
+Wa³ek wieloklinowy;KW 21x25 ocel C45;m;2020;2.10.2020;WZ;12
+Wa³ek wieloklinowy;KW 21x25 ocel C45;m;2020;27.10.2020;WZ;15
+Wa³ek wieloklinowy;KW 21x25 ocel C45;m;2020;29.10.2020;WZ;5
+Wa³ek wieloklinowy;KW 21x25 ocel C45;m;2020;2.11.2020;WZ;1,5
+Wa³ek wieloklinowy;KW 21x25 ocel C45;m;2020;6.11.2020;WZ;2,45
+Wa³ek wieloklinowy;KW 21x25 ocel C45;m;2020;17.11.2020;WZ;2
+Wa³ek wieloklinowy;KW 21x25 ocel C45;m;2020;2.12.2020;WZ;1
+Wa³ek wieloklinowy;KW 21x25 ocel C45;m;2020;8.12.2020;WZ;1
+Wa³ek wieloklinowy;KW 21x25 ocel C45;m;2020;16.12.2020;WZ;3
+Wa³ek wieloklinowy;KW 21x25 ocel C45;m;2020;22.12.2020;WZ;2
+Wa³ek wieloklinowy;KW 21x25 ocel C45;m;2020 Razem;;;110,27
+Wa³ek wieloklinowy;KW 21x25 ocel C45;m;2021;14.01.2021;WZ;0,5
+Wa³ek wieloklinowy;KW 21x25 ocel C45;m;2021;29.01.2021;WZ;0,9
+Wa³ek wieloklinowy;KW 21x25 ocel C45;m;2021;4.02.2021;WZ;21
+Wa³ek wieloklinowy;KW 21x25 ocel C45;m;2021;16.02.2021;WZ;8
+Wa³ek wieloklinowy;KW 21x25 ocel C45;m;2021;19.02.2021;WZ;1
+Wa³ek wieloklinowy;KW 21x25 ocel C45;m;2021;24.02.2021;WZ;10
+Wa³ek wieloklinowy;KW 21x25 ocel C45;m;2021;26.02.2021;WZ;12
+Wa³ek wieloklinowy;KW 21x25 ocel C45;m;2021;23.03.2021;WZ;1
+Wa³ek wieloklinowy;KW 21x25 ocel C45;m;2021;10.05.2021;WZ;0,9
+Wa³ek wieloklinowy;KW 21x25 ocel C45;m;2021;21.05.2021;WZ;1
+Wa³ek wieloklinowy;KW 21x25 ocel C45;m;2021;26.05.2021;WZ;2
+Wa³ek wieloklinowy;KW 21x25 ocel C45;m;2021;2.06.2021;WZ;10
+Wa³ek wieloklinowy;KW 21x25 ocel C45;m;2021;7.06.2021;WZ;1
+Wa³ek wieloklinowy;KW 21x25 ocel C45;m;2021;15.06.2021;WZ;1
+Wa³ek wieloklinowy;KW 21x25 ocel C45;m;2021;22.06.2021;WZ;4
+Wa³ek wieloklinowy;KW 21x25 ocel C45;m;2021;23.06.2021;WZ;6
+Wa³ek wieloklinowy;KW 21x25 ocel C45;m;2021;24.06.2021;WZ;0,5
+Wa³ek wieloklinowy;KW 21x25 ocel C45;m;2021;7.07.2021;WZ;3
+Wa³ek wieloklinowy;KW 21x25 ocel C45;m;2021;16.07.2021;WZ;3
+Wa³ek wieloklinowy;KW 21x25 ocel C45;m;2021;10.08.2021;WZ;24
+Wa³ek wieloklinowy;KW 21x25 ocel C45;m;2021;24.08.2021;WZ;1
+Wa³ek wieloklinowy;KW 21x25 ocel C45;m;2021;7.09.2021;WZ;9
+Wa³ek wieloklinowy;KW 21x25 ocel C45;m;2021;14.09.2021;WZ;1
+Wa³ek wieloklinowy;KW 21x25 ocel C45;m;2021;17.09.2021;WZ;2,36
+Wa³ek wieloklinowy;KW 21x25 ocel C45;m;2021;4.10.2021;WZ;1
+Wa³ek wieloklinowy;KW 21x25 ocel C45;m;2021;20.10.2021;WZ;9
+Wa³ek wieloklinowy;KW 21x25 ocel C45;m;2021;3.12.2021;WZ;3
+Wa³ek wieloklinowy;KW 21x25 ocel C45;m;2021;22.12.2021;WZ;1,5
+Wa³ek wieloklinowy;KW 21x25 ocel C45;m;2021 Razem;;;138,66
+Wa³ek wieloklinowy;KW 21x25 ocel C45;m;2022;10.01.2022;WZ;2,55
+Wa³ek wieloklinowy;KW 21x25 ocel C45;m;2022;17.01.2022;WZ;9
+Wa³ek wieloklinowy;KW 21x25 ocel C45;m;2022;24.01.2022;WZ;1
+Wa³ek wieloklinowy;KW 21x25 ocel C45;m;2022;18.02.2022;WZ;2
+Wa³ek wieloklinowy;KW 21x25 ocel C45;m;2022;3.03.2022;WZ;9
+Wa³ek wieloklinowy;KW 21x25 ocel C45;m;2022;18.03.2022;WZ;0,45
+Wa³ek wieloklinowy;KW 21x25 ocel C45;m;2022;1.04.2022;WZ;0,85
+Wa³ek wieloklinowy;KW 21x25 ocel C45;m;2022;14.04.2022;WZ;9
+Wa³ek wieloklinowy;KW 21x25 ocel C45;m;2022;22.04.2022;WZ;30
+Wa³ek wieloklinowy;KW 21x25 ocel C45;m;2022;20.06.2022;WZ;0,5
+Wa³ek wieloklinowy;KW 21x25 ocel C45;m;2022;22.06.2022;WZ;7,5
+Wa³ek wieloklinowy;KW 21x25 ocel C45;m;2022;23.06.2022;WZ;6
+Wa³ek wieloklinowy;KW 21x25 ocel C45;m;2022;25.07.2022;WZ;4
+Wa³ek wieloklinowy;KW 21x25 ocel C45;m;2022;27.07.2022;WZ;15
+Wa³ek wieloklinowy;KW 21x25 ocel C45;m;2022;29.07.2022;WZ;2
+Wa³ek wieloklinowy;KW 21x25 ocel C45;m;2022;2.08.2022;WZ;18
+Wa³ek wieloklinowy;KW 21x25 ocel C45;m;2022;5.08.2022;WZ;2
+Wa³ek wieloklinowy;KW 21x25 ocel C45;m;2022;8.08.2022;WZ;0,1
+Wa³ek wieloklinowy;KW 21x25 ocel C45;m;2022;5.09.2022;WZ;0,38
+Wa³ek wieloklinowy;KW 21x25 ocel C45;m;2022;7.09.2022;WZ;9
+Wa³ek wieloklinowy;KW 21x25 ocel C45;m;2022;21.09.2022;WZ;6
+Wa³ek wieloklinowy;KW 21x25 ocel C45;m;2022;26.10.2022;WZ;0,2
+Wa³ek wieloklinowy;KW 21x25 ocel C45;m;2022;4.11.2022;WZ;1,5
+Wa³ek wieloklinowy;KW 21x25 ocel C45;m;2022;14.11.2022;WZ;12
+Wa³ek wieloklinowy;KW 21x25 ocel C45;m;2022;16.11.2022;WZ;3
+Wa³ek wieloklinowy;KW 21x25 ocel C45;m;2022;21.12.2022;WZ;0,9
+Wa³ek wieloklinowy;KW 21x25 ocel C45;m;2022 Razem;;;151,93
+Wa³ek wieloklinowy;KW 21x25 ocel C45;m;2023;24.01.2023;WZ;4
+Wa³ek wieloklinowy;KW 21x25 ocel C45;m;2023;3.02.2023;WZ;12
+Wa³ek wieloklinowy;KW 21x25 ocel C45;m;2023;23.02.2023;WZ;0,37
+Wa³ek wieloklinowy;KW 21x25 ocel C45;m;2023;1.03.2023;WZ;1
+Wa³ek wieloklinowy;KW 21x25 ocel C45;m;2023;23.03.2023;WZ;2
+Wa³ek wieloklinowy;KW 21x25 ocel C45;m;2023;31.03.2023;WZ;0,5
+Wa³ek wieloklinowy;KW 21x25 ocel C45;m;2023;3.04.2023;WZ;2
+Wa³ek wieloklinowy;KW 21x25 ocel C45;m;2023;12.04.2023;WZ;12
+Wa³ek wieloklinowy;KW 21x25 ocel C45;m;2023;25.04.2023;WZ;2,5
+Wa³ek wieloklinowy;KW 21x25 ocel C45;m;2023;27.04.2023;WZ;2
+Wa³ek wieloklinowy;KW 21x25 ocel C45;m;2023;18.05.2023;WZ;1,26
+Wa³ek wieloklinowy;KW 21x25 ocel C45;m;2023;19.05.2023;WZ;12
+Wa³ek wieloklinowy;KW 21x25 ocel C45;m;2023;22.05.2023;WZ;0,5
+Wa³ek wieloklinowy;KW 21x25 ocel C45;m;2023;23.05.2023;WZ;2,5
+Wa³ek wieloklinowy;KW 21x25 ocel C45;m;2023;20.07.2023;WZ;1
+Wa³ek wieloklinowy;KW 21x25 ocel C45;m;2023;24.07.2023;WZ;12
+Wa³ek wieloklinowy;KW 21x25 ocel C45;m;2023;27.07.2023;WZ;4
+Wa³ek wieloklinowy;KW 21x25 ocel C45;m;2023;31.07.2023;WZ;3
+Wa³ek wieloklinowy;KW 21x25 ocel C45;m;2023;8.08.2023;WZ;12
+Wa³ek wieloklinowy;KW 21x25 ocel C45;m;2023;22.08.2023;WZ;6
+Wa³ek wieloklinowy;KW 21x25 ocel C45;m;2023;5.09.2023;WZ;9
+Wa³ek wieloklinowy;KW 21x25 ocel C45;m;2023;12.09.2023;WZ;0,5
+Wa³ek wieloklinowy;KW 21x25 ocel C45;m;2023;6.10.2023;WZ;0,37
+Wa³ek wieloklinowy;KW 21x25 ocel C45;m;2023;23.10.2023;WZ;1
+Wa³ek wieloklinowy;KW 21x25 ocel C45;m;2023;24.10.2023;WZ;0,5
+Wa³ek wieloklinowy;KW 21x25 ocel C45;m;2023;14.11.2023;WZ;3
+Wa³ek wieloklinowy;KW 21x25 ocel C45;m;2023;15.11.2023;WZ;3,3
+Wa³ek wieloklinowy;KW 21x25 ocel C45;m;2023 Razem;;;110,3
+Wa³ek wieloklinowy;KW 21x25 ocel C45;m;2024;15.01.2024;WZ;6
+Wa³ek wieloklinowy;KW 21x25 ocel C45;m;2024;17.01.2024;WZ;2,9
+Wa³ek wieloklinowy;KW 21x25 ocel C45;m;2024;9.02.2024;WZ;1
+Wa³ek wieloklinowy;KW 21x25 ocel C45;m;2024;19.03.2024;WZ;1,4
+Wa³ek wieloklinowy;KW 21x25 ocel C45;m;2024;11.04.2024;WZ;18
+Wa³ek wieloklinowy;KW 21x25 ocel C45;m;2024;15.04.2024;WZ;18
+Wa³ek wieloklinowy;KW 21x25 ocel C45;m;2024;24.04.2024;WZ;5,36
+Wa³ek wieloklinowy;KW 21x25 ocel C45;m;2024;13.05.2024;WZ;7
+Wa³ek wieloklinowy;KW 21x25 ocel C45;m;2024;28.05.2024;WZ;1
+Wa³ek wieloklinowy;KW 21x25 ocel C45;m;2024;7.06.2024;WZ;1,61
+Wa³ek wieloklinowy;KW 21x25 ocel C45;m;2024;11.06.2024;WZ;3
+Wa³ek wieloklinowy;KW 21x25 ocel C45;m;2024;24.07.2024;WZ;9
+Wa³ek wieloklinowy;KW 21x25 ocel C45;m;2024;26.07.2024;WZ;12
+Wa³ek wieloklinowy;KW 21x25 ocel C45;m;2024;6.08.2024;WZ;1,4
+Wa³ek wieloklinowy;KW 21x25 ocel C45;m;2024;4.09.2024;WZ;2
+Wa³ek wieloklinowy;KW 21x25 ocel C45;m;2024;9.09.2024;WZ;6
+Wa³ek wieloklinowy;KW 21x25 ocel C45;m;2024;11.09.2024;WZ;1
+Wa³ek wieloklinowy;KW 21x25 ocel C45;m;2024;12.09.2024;WZ;0,5
+Wa³ek wieloklinowy;KW 21x25 ocel C45;m;2024;27.09.2024;WZ;9
+Wa³ek wieloklinowy;KW 21x25 ocel C45;m;2024;9.10.2024;WZ;0,9
+Wa³ek wieloklinowy;KW 21x25 ocel C45;m;2024 Razem;;;107,07
+Wa³ek wieloklinowy;KW 21x25 ocel C45;m;2025;7.01.2025;WZ;2
+Wa³ek wieloklinowy;KW 21x25 ocel C45;m;2025;10.01.2025;WZ;2,4
+Wa³ek wieloklinowy;KW 21x25 ocel C45;m;2025;15.01.2025;WZ;3
+Wa³ek wieloklinowy;KW 21x25 ocel C45;m;2025;21.01.2025;WZ;2
+Wa³ek wieloklinowy;KW 21x25 ocel C45;m;2025;10.02.2025;WZ;2,97
+Wa³ek wieloklinowy;KW 21x25 ocel C45;m;2025;12.02.2025;WZ;2,05
+Wa³ek wieloklinowy;KW 21x25 ocel C45;m;2025;14.02.2025;WZ;2
+Wa³ek wieloklinowy;KW 21x25 ocel C45;m;2025;19.02.2025;WZ;4
+Wa³ek wieloklinowy;KW 21x25 ocel C45;m;2025;7.03.2025;WZ;12
+Wa³ek wieloklinowy;KW 21x25 ocel C45;m;2025;10.03.2025;WZ;4
+Wa³ek wieloklinowy;KW 21x25 ocel C45;m;2025;11.03.2025;WZ;8
+Wa³ek wieloklinowy;KW 21x25 ocel C45;m;2025;7.05.2025;WZ;11,4
+Wa³ek wieloklinowy;KW 21x25 ocel C45;m;2025;19.05.2025;WZ;9
+Wa³ek wieloklinowy;KW 21x25 ocel C45;m;2025;1.07.2025;WZ;1
+Wa³ek wieloklinowy;KW 21x25 ocel C45;m;2025;21.07.2025;WZ;12
+Wa³ek wieloklinowy;KW 21x25 ocel C45;m;2025;7.08.2025;WZ;12
+Wa³ek wieloklinowy;KW 21x25 ocel C45;m;2025;21.08.2025;WZ;6
+Wa³ek wieloklinowy;KW 21x25 ocel C45;m;2025;9.09.2025;WZ;1,52
+Wa³ek wieloklinowy;KW 21x25 ocel C45;m;2025;28.11.2025;FSL;0
+Wa³ek wieloklinowy;KW 21x25 ocel C45;m;2025;1.12.2025;WZ;2,37
+Wa³ek wieloklinowy;KW 21x25 ocel C45;m;2025 Razem;;;99,71
+Wa³ek wieloklinowy;KW 21x25 ocel C45;m Razem;;;;717,94
+Wa³ek wieloklinowy;KW 16x20 ocel C45;m;2020;7.01.2020;WZ;2
+Wa³ek wieloklinowy;KW 16x20 ocel C45;m;2020;9.01.2020;WZ;9
+Wa³ek wieloklinowy;KW 16x20 ocel C45;m;2020;15.01.2020;WZ;5
+Wa³ek wieloklinowy;KW 16x20 ocel C45;m;2020;17.01.2020;WZ;6
+Wa³ek wieloklinowy;KW 16x20 ocel C45;m;2020;27.01.2020;WZ;4
+Wa³ek wieloklinowy;KW 16x20 ocel C45;m;2020;13.02.2020;WZ;3
+Wa³ek wieloklinowy;KW 16x20 ocel C45;m;2020;21.02.2020;WZ;2
+Wa³ek wieloklinowy;KW 16x20 ocel C45;m;2020;2.03.2020;WZ;3
+Wa³ek wieloklinowy;KW 16x20 ocel C45;m;2020;25.03.2020;WZ;1
+Wa³ek wieloklinowy;KW 16x20 ocel C45;m;2020;27.04.2020;WZ;3
+Wa³ek wieloklinowy;KW 16x20 ocel C45;m;2020;21.05.2020;WZ;0,5
+Wa³ek wieloklinowy;KW 16x20 ocel C45;m;2020;22.05.2020;WZ;3
+Wa³ek wieloklinowy;KW 16x20 ocel C45;m;2020;26.05.2020;WZ;3
+Wa³ek wieloklinowy;KW 16x20 ocel C45;m;2020;9.06.2020;WZ;5
+Wa³ek wieloklinowy;KW 16x20 ocel C45;m;2020;10.07.2020;WZ;9
+Wa³ek wieloklinowy;KW 16x20 ocel C45;m;2020;14.08.2020;WZ;24
+Wa³ek wieloklinowy;KW 16x20 ocel C45;m;2020;17.08.2020;WZ;4
+Wa³ek wieloklinowy;KW 16x20 ocel C45;m;2020;27.10.2020;WZ;6
+Wa³ek wieloklinowy;KW 16x20 ocel C45;m;2020 Razem;;;92,5
+Wa³ek wieloklinowy;KW 16x20 ocel C45;m;2021;4.02.2021;WZ;12
+Wa³ek wieloklinowy;KW 16x20 ocel C45;m;2021;15.03.2021;WZ;1,5
+Wa³ek wieloklinowy;KW 16x20 ocel C45;m;2021;22.04.2021;WZ;1
+Wa³ek wieloklinowy;KW 16x20 ocel C45;m;2021;5.05.2021;WZ;12
+Wa³ek wieloklinowy;KW 16x20 ocel C45;m;2021;7.05.2021;WZ;3,7
+Wa³ek wieloklinowy;KW 16x20 ocel C45;m;2021;10.05.2021;WZ;1
+Wa³ek wieloklinowy;KW 16x20 ocel C45;m;2021;20.05.2021;WZ;1,35
+Wa³ek wieloklinowy;KW 16x20 ocel C45;m;2021;27.05.2021;WZ;1
+Wa³ek wieloklinowy;KW 16x20 ocel C45;m;2021;16.06.2021;WZ;12
+Wa³ek wieloklinowy;KW 16x20 ocel C45;m;2021;22.06.2021;WZ;18
+Wa³ek wieloklinowy;KW 16x20 ocel C45;m;2021;8.07.2021;WZ;2
+Wa³ek wieloklinowy;KW 16x20 ocel C45;m;2021;23.07.2021;WZ;1
+Wa³ek wieloklinowy;KW 16x20 ocel C45;m;2021;7.09.2021;WZ;9
+Wa³ek wieloklinowy;KW 16x20 ocel C45;m;2021;24.09.2021;WZ;8
+Wa³ek wieloklinowy;KW 16x20 ocel C45;m;2021 Razem;;;83,55
+Wa³ek wieloklinowy;KW 16x20 ocel C45;m;2022;17.01.2022;WZ;1
+Wa³ek wieloklinowy;KW 16x20 ocel C45;m;2022;25.02.2022;WZ;3
+Wa³ek wieloklinowy;KW 16x20 ocel C45;m;2022;3.03.2022;WZ;12
+Wa³ek wieloklinowy;KW 16x20 ocel C45;m;2022;6.05.2022;WZ;1
+Wa³ek wieloklinowy;KW 16x20 ocel C45;m;2022;27.05.2022;WZ;12
+Wa³ek wieloklinowy;KW 16x20 ocel C45;m;2022;3.06.2022;WZ;4,8
+Wa³ek wieloklinowy;KW 16x20 ocel C45;m;2022;7.06.2022;WZ;39
+Wa³ek wieloklinowy;KW 16x20 ocel C45;m;2022;27.07.2022;WZ;6
+Wa³ek wieloklinowy;KW 16x20 ocel C45;m;2022;19.08.2022;WZ;2
+Wa³ek wieloklinowy;KW 16x20 ocel C45;m;2022;22.08.2022;WZ;2
+Wa³ek wieloklinowy;KW 16x20 ocel C45;m;2022;2.11.2022;WZ;6
+Wa³ek wieloklinowy;KW 16x20 ocel C45;m;2022;16.11.2022;WZ;12
+Wa³ek wieloklinowy;KW 16x20 ocel C45;m;2022 Razem;;;100,8
+Wa³ek wieloklinowy;KW 16x20 ocel C45;m;2023;15.03.2023;WZ;2
+Wa³ek wieloklinowy;KW 16x20 ocel C45;m;2023;20.03.2023;WZ;1
+Wa³ek wieloklinowy;KW 16x20 ocel C45;m;2023;10.07.2023;WZ;2
+Wa³ek wieloklinowy;KW 16x20 ocel C45;m;2023;18.07.2023;WZ;24
+Wa³ek wieloklinowy;KW 16x20 ocel C45;m;2023;23.10.2023;WZ;1
+Wa³ek wieloklinowy;KW 16x20 ocel C45;m;2023;21.11.2023;WZ;12
+Wa³ek wieloklinowy;KW 16x20 ocel C45;m;2023;30.11.2023;WZ;2
+Wa³ek wieloklinowy;KW 16x20 ocel C45;m;2023;7.12.2023;WZ;1,7
+Wa³ek wieloklinowy;KW 16x20 ocel C45;m;2023;13.12.2023;WZ;1,04
+Wa³ek wieloklinowy;KW 16x20 ocel C45;m;2023 Razem;;;46,74
+Wa³ek wieloklinowy;KW 16x20 ocel C45;m;2024;12.01.2024;WZ;8
+Wa³ek wieloklinowy;KW 16x20 ocel C45;m;2024;22.01.2024;WZ;1
+Wa³ek wieloklinowy;KW 16x20 ocel C45;m;2024;22.02.2024;WZ;2
+Wa³ek wieloklinowy;KW 16x20 ocel C45;m;2024;5.03.2024;WZ;3
+Wa³ek wieloklinowy;KW 16x20 ocel C45;m;2024;8.03.2024;WZ;12
+Wa³ek wieloklinowy;KW 16x20 ocel C45;m;2024;17.04.2024;WZ;4,07
+Wa³ek wieloklinowy;KW 16x20 ocel C45;m;2024;17.06.2024;WZ;7
+Wa³ek wieloklinowy;KW 16x20 ocel C45;m;2024;24.06.2024;WZ;15
+Wa³ek wieloklinowy;KW 16x20 ocel C45;m;2024;3.07.2024;WZ;12
+Wa³ek wieloklinowy;KW 16x20 ocel C45;m;2024;12.07.2024;WZ;30
+Wa³ek wieloklinowy;KW 16x20 ocel C45;m;2024;18.07.2024;WZ;1,5
+Wa³ek wieloklinowy;KW 16x20 ocel C45;m;2024;2.09.2024;WZ;4
+Wa³ek wieloklinowy;KW 16x20 ocel C45;m;2024;5.09.2024;WZ;1
+Wa³ek wieloklinowy;KW 16x20 ocel C45;m;2024;12.12.2024;WZ;2
+Wa³ek wieloklinowy;KW 16x20 ocel C45;m;2024 Razem;;;102,57
+Wa³ek wieloklinowy;KW 16x20 ocel C45;m;2025;15.01.2025;WZ;6
+Wa³ek wieloklinowy;KW 16x20 ocel C45;m;2025;10.03.2025;WZ;1
+Wa³ek wieloklinowy;KW 16x20 ocel C45;m;2025;19.03.2025;WZ;3,25
+Wa³ek wieloklinowy;KW 16x20 ocel C45;m;2025;3.04.2025;WZ;4
+Wa³ek wieloklinowy;KW 16x20 ocel C45;m;2025;7.05.2025;WZ;3
+Wa³ek wieloklinowy;KW 16x20 ocel C45;m;2025;16.05.2025;WZ;28
+Wa³ek wieloklinowy;KW 16x20 ocel C45;m;2025;10.06.2025;WZ;2
+Wa³ek wieloklinowy;KW 16x20 ocel C45;m;2025;11.06.2025;FSL;0
+Wa³ek wieloklinowy;KW 16x20 ocel C45;m;2025;17.06.2025;WZ;0,5
+Wa³ek wieloklinowy;KW 16x20 ocel C45;m;2025;20.08.2025;WZ;2
+Wa³ek wieloklinowy;KW 16x20 ocel C45;m;2025;11.09.2025;WZ;4
+Wa³ek wieloklinowy;KW 16x20 ocel C45;m;2025;15.09.2025;WZ;18
+Wa³ek wieloklinowy;KW 16x20 ocel C45;m;2025;29.10.2025;WZ;1
+Wa³ek wieloklinowy;KW 16x20 ocel C45;m;2025;28.11.2025;WZ;1
+Wa³ek wieloklinowy;KW 16x20 ocel C45;m;2025 Razem;;;73,75
+Wa³ek wieloklinowy;KW 16x20 ocel C45;m Razem;;;;499,91
+Wa³ek wieloklinowy;KW 26x32 ocel C45;m;2020;24.01.2020;WZ;1
+Wa³ek wieloklinowy;KW 26x32 ocel C45;m;2020;11.03.2020;WZ;6
+Wa³ek wieloklinowy;KW 26x32 ocel C45;m;2020;23.03.2020;WZ;0,5
+Wa³ek wieloklinowy;KW 26x32 ocel C45;m;2020;8.04.2020;WZ;1,5
+Wa³ek wieloklinowy;KW 26x32 ocel C45;m;2020;12.05.2020;WZ;3
+Wa³ek wieloklinowy;KW 26x32 ocel C45;m;2020;24.08.2020;WZ;2
+Wa³ek wieloklinowy;KW 26x32 ocel C45;m;2020;14.09.2020;WZ;1,2
+Wa³ek wieloklinowy;KW 26x32 ocel C45;m;2020;17.09.2020;WZ;4,5
+Wa³ek wieloklinowy;KW 26x32 ocel C45;m;2020;24.09.2020;WZ;1
+Wa³ek wieloklinowy;KW 26x32 ocel C45;m;2020;8.10.2020;WZ;1,1
+Wa³ek wieloklinowy;KW 26x32 ocel C45;m;2020;13.10.2020;WZ;0,44
+Wa³ek wieloklinowy;KW 26x32 ocel C45;m;2020;29.10.2020;WZ;1,32
+Wa³ek wieloklinowy;KW 26x32 ocel C45;m;2020;12.11.2020;WZ;4
+Wa³ek wieloklinowy;KW 26x32 ocel C45;m;2020 Razem;;;27,56
+Wa³ek wieloklinowy;KW 26x32 ocel C45;m;2021;4.02.2021;WZ;9
+Wa³ek wieloklinowy;KW 26x32 ocel C45;m;2021;16.04.2021;WZ;4,72
+Wa³ek wieloklinowy;KW 26x32 ocel C45;m;2021;20.04.2021;WZ;0,44
+Wa³ek wieloklinowy;KW 26x32 ocel C45;m;2021;7.05.2021;WZ;1,5
+Wa³ek wieloklinowy;KW 26x32 ocel C45;m;2021;12.05.2021;WZ;2
+Wa³ek wieloklinowy;KW 26x32 ocel C45;m;2021;21.05.2021;WZ;1
+Wa³ek wieloklinowy;KW 26x32 ocel C45;m;2021;11.06.2021;WZ;0,3
+Wa³ek wieloklinowy;KW 26x32 ocel C45;m;2021;7.07.2021;WZ;2
+Wa³ek wieloklinowy;KW 26x32 ocel C45;m;2021;8.07.2021;WZ;15
+Wa³ek wieloklinowy;KW 26x32 ocel C45;m;2021;14.07.2021;WZ;0,2
+Wa³ek wieloklinowy;KW 26x32 ocel C45;m;2021;23.07.2021;WZ;2,01
+Wa³ek wieloklinowy;KW 26x32 ocel C45;m;2021;17.08.2021;WZ;1,75
+Wa³ek wieloklinowy;KW 26x32 ocel C45;m;2021;27.08.2021;WZ;0,5
+Wa³ek wieloklinowy;KW 26x32 ocel C45;m;2021;26.10.2021;WZ;6
+Wa³ek wieloklinowy;KW 26x32 ocel C45;m;2021;9.11.2021;WZ;2
+Wa³ek wieloklinowy;KW 26x32 ocel C45;m;2021;15.11.2021;WZ;1
+Wa³ek wieloklinowy;KW 26x32 ocel C45;m;2021;21.12.2021;WZ;27
+Wa³ek wieloklinowy;KW 26x32 ocel C45;m;2021 Razem;;;76,42
+Wa³ek wieloklinowy;KW 26x32 ocel C45;m;2022;19.01.2022;WZ;1
+Wa³ek wieloklinowy;KW 26x32 ocel C45;m;2022;31.01.2022;WZ;6
+Wa³ek wieloklinowy;KW 26x32 ocel C45;m;2022;11.02.2022;WZ;4
+Wa³ek wieloklinowy;KW 26x32 ocel C45;m;2022;2.03.2022;WZ;0,44
+Wa³ek wieloklinowy;KW 26x32 ocel C45;m;2022;31.03.2022;WZ;1
+Wa³ek wieloklinowy;KW 26x32 ocel C45;m;2022;12.04.2022;WZ;4
+Wa³ek wieloklinowy;KW 26x32 ocel C45;m;2022;15.04.2022;WZ;2
+Wa³ek wieloklinowy;KW 26x32 ocel C45;m;2022;1.06.2022;WZ;0,2
+Wa³ek wieloklinowy;KW 26x32 ocel C45;m;2022;10.06.2022;WZ;1,2
+Wa³ek wieloklinowy;KW 26x32 ocel C45;m;2022;27.07.2022;WZ;6
+Wa³ek wieloklinowy;KW 26x32 ocel C45;m;2022;8.08.2022;WZ;8
+Wa³ek wieloklinowy;KW 26x32 ocel C45;m;2022;5.10.2022;WZ;1,5
+Wa³ek wieloklinowy;KW 26x32 ocel C45;m;2022;28.10.2022;WZ;9
+Wa³ek wieloklinowy;KW 26x32 ocel C45;m;2022;10.11.2022;WZ;3
+Wa³ek wieloklinowy;KW 26x32 ocel C45;m;2022;30.11.2022;WZ;0,5
+Wa³ek wieloklinowy;KW 26x32 ocel C45;m;2022;7.12.2022;WZ;0,6
+Wa³ek wieloklinowy;KW 26x32 ocel C45;m;2022;9.12.2022;WZ;0,5
+Wa³ek wieloklinowy;KW 26x32 ocel C45;m;2022 Razem;;;48,94
+Wa³ek wieloklinowy;KW 26x32 ocel C45;m;2023;24.02.2023;WZ;2
+Wa³ek wieloklinowy;KW 26x32 ocel C45;m;2023;12.04.2023;WZ;6
+Wa³ek wieloklinowy;KW 26x32 ocel C45;m;2023;9.05.2023;WZ;8
+Wa³ek wieloklinowy;KW 26x32 ocel C45;m;2023;23.05.2023;WZ;27
+Wa³ek wieloklinowy;KW 26x32 ocel C45;m;2023;22.06.2023;WZ;5
+Wa³ek wieloklinowy;KW 26x32 ocel C45;m;2023;12.07.2023;WZ;1,1
+Wa³ek wieloklinowy;KW 26x32 ocel C45;m;2023;31.07.2023;FSL;0
+Wa³ek wieloklinowy;KW 26x32 ocel C45;m;2023;1.08.2023;WZ;0,7
+Wa³ek wieloklinowy;KW 26x32 ocel C45;m;2023;12.10.2023;WZ;7
+Wa³ek wieloklinowy;KW 26x32 ocel C45;m;2023;30.10.2023;WZ;0,2
+Wa³ek wieloklinowy;KW 26x32 ocel C45;m;2023;27.11.2023;WZ;7
+Wa³ek wieloklinowy;KW 26x32 ocel C45;m;2023 Razem;;;64
+Wa³ek wieloklinowy;KW 26x32 ocel C45;m;2024;22.01.2024;WZ;0,38
+Wa³ek wieloklinowy;KW 26x32 ocel C45;m;2024;12.02.2024;WZ;3,26
+Wa³ek wieloklinowy;KW 26x32 ocel C45;m;2024;14.02.2024;WZ;3
+Wa³ek wieloklinowy;KW 26x32 ocel C45;m;2024;19.02.2024;WZ;1,5
+Wa³ek wieloklinowy;KW 26x32 ocel C45;m;2024;20.02.2024;WZ;2,88
+Wa³ek wieloklinowy;KW 26x32 ocel C45;m;2024;6.03.2024;WZ;1
+Wa³ek wieloklinowy;KW 26x32 ocel C45;m;2024;9.04.2024;WZ;6
+Wa³ek wieloklinowy;KW 26x32 ocel C45;m;2024;11.04.2024;WZ;8
+Wa³ek wieloklinowy;KW 26x32 ocel C45;m;2024;18.04.2024;WZ;1,5
+Wa³ek wieloklinowy;KW 26x32 ocel C45;m;2024;21.05.2024;WZ;1,66
+Wa³ek wieloklinowy;KW 26x32 ocel C45;m;2024;9.07.2024;WZ;1
+Wa³ek wieloklinowy;KW 26x32 ocel C45;m;2024;10.07.2024;WZ;3
+Wa³ek wieloklinowy;KW 26x32 ocel C45;m;2024;30.07.2024;WZ;1
+Wa³ek wieloklinowy;KW 26x32 ocel C45;m;2024;31.07.2024;FSL;0
+Wa³ek wieloklinowy;KW 26x32 ocel C45;m;2024;31.07.2024;WZ;2
+Wa³ek wieloklinowy;KW 26x32 ocel C45;m;2024;2024/07/31 Razem;;2
+Wa³ek wieloklinowy;KW 26x32 ocel C45;m;2024;18.09.2024;WZ;4
+Wa³ek wieloklinowy;KW 26x32 ocel C45;m;2024;2.10.2024;WZ;0,5
+Wa³ek wieloklinowy;KW 26x32 ocel C45;m;2024;8.10.2024;WZ;18
+Wa³ek wieloklinowy;KW 26x32 ocel C45;m;2024;23.10.2024;FSL;0
+Wa³ek wieloklinowy;KW 26x32 ocel C45;m;2024;23.10.2024;WZ;0,68
+Wa³ek wieloklinowy;KW 26x32 ocel C45;m;2024;2024/10/23 Razem;;0,68
+Wa³ek wieloklinowy;KW 26x32 ocel C45;m;2024;24.10.2024;WZ;2
+Wa³ek wieloklinowy;KW 26x32 ocel C45;m;2024;28.10.2024;WZ;3
+Wa³ek wieloklinowy;KW 26x32 ocel C45;m;2024 Razem;;;64,36
+Wa³ek wieloklinowy;KW 26x32 ocel C45;m;2025;13.03.2025;WZ;9
+Wa³ek wieloklinowy;KW 26x32 ocel C45;m;2025;26.03.2025;WZ;4
+Wa³ek wieloklinowy;KW 26x32 ocel C45;m;2025;22.04.2025;WZ;4
+Wa³ek wieloklinowy;KW 26x32 ocel C45;m;2025;7.05.2025;WZ;9
+Wa³ek wieloklinowy;KW 26x32 ocel C45;m;2025;8.05.2025;WZ;2,71
+Wa³ek wieloklinowy;KW 26x32 ocel C45;m;2025;16.05.2025;WZ;7
+Wa³ek wieloklinowy;KW 26x32 ocel C45;m;2025;4.06.2025;WZ;4,33
+Wa³ek wieloklinowy;KW 26x32 ocel C45;m;2025;16.06.2025;WZ;2,4
+Wa³ek wieloklinowy;KW 26x32 ocel C45;m;2025;25.06.2025;WZ;1
+Wa³ek wieloklinowy;KW 26x32 ocel C45;m;2025;1.07.2025;WZ;1
+Wa³ek wieloklinowy;KW 26x32 ocel C45;m;2025;24.07.2025;WZ;7,87
+Wa³ek wieloklinowy;KW 26x32 ocel C45;m;2025;30.07.2025;WZ;4,87
+Wa³ek wieloklinowy;KW 26x32 ocel C45;m;2025;22.08.2025;WZ;15
+Wa³ek wieloklinowy;KW 26x32 ocel C45;m;2025;3.09.2025;WZ;2
+Wa³ek wieloklinowy;KW 26x32 ocel C45;m;2025;16.09.2025;WZ;7,5
+Wa³ek wieloklinowy;KW 26x32 ocel C45;m;2025;18.09.2025;WZ;2
+Wa³ek wieloklinowy;KW 26x32 ocel C45;m;2025;31.10.2025;WZ;9
+Wa³ek wieloklinowy;KW 26x32 ocel C45;m;2025;11.12.2025;WZ;2
+Wa³ek wieloklinowy;KW 26x32 ocel C45;m;2025 Razem;;;94,68
+Wa³ek wieloklinowy;KW 26x32 ocel C45;m Razem;;;;375,96
+Tuleja wieloklinowa;KN 21x25 ocel 16MnCrS5Pb;szt;2020;14.01.2020;WZ;2
+Tuleja wieloklinowa;KN 21x25 ocel 16MnCrS5Pb;szt;2020;17.01.2020;WZ;2
+Tuleja wieloklinowa;KN 21x25 ocel 16MnCrS5Pb;szt;2020;31.01.2020;WZ;1
+Tuleja wieloklinowa;KN 21x25 ocel 16MnCrS5Pb;szt;2020;12.02.2020;WZ;4
+Tuleja wieloklinowa;KN 21x25 ocel 16MnCrS5Pb;szt;2020;13.02.2020;WZ;7
+Tuleja wieloklinowa;KN 21x25 ocel 16MnCrS5Pb;szt;2020;26.02.2020;WZ;10
+Tuleja wieloklinowa;KN 21x25 ocel 16MnCrS5Pb;szt;2020;8.04.2020;WZ;1
+Tuleja wieloklinowa;KN 21x25 ocel 16MnCrS5Pb;szt;2020;22.04.2020;WZ;10
+Tuleja wieloklinowa;KN 21x25 ocel 16MnCrS5Pb;szt;2020;25.05.2020;WZ;5
+Tuleja wieloklinowa;KN 21x25 ocel 16MnCrS5Pb;szt;2020;18.06.2020;WZ;8
+Tuleja wieloklinowa;KN 21x25 ocel 16MnCrS5Pb;szt;2020;26.06.2020;WZ;2
+Tuleja wieloklinowa;KN 21x25 ocel 16MnCrS5Pb;szt;2020;30.06.2020;FSL;0
+Tuleja wieloklinowa;KN 21x25 ocel 16MnCrS5Pb;szt;2020;8.07.2020;WZ;2
+Tuleja wieloklinowa;KN 21x25 ocel 16MnCrS5Pb;szt;2020;16.07.2020;WZ;6
+Tuleja wieloklinowa;KN 21x25 ocel 16MnCrS5Pb;szt;2020;17.07.2020;WZ;2
+Tuleja wieloklinowa;KN 21x25 ocel 16MnCrS5Pb;szt;2020;6.08.2020;WZ;1
+Tuleja wieloklinowa;KN 21x25 ocel 16MnCrS5Pb;szt;2020;28.08.2020;WZ;2
+Tuleja wieloklinowa;KN 21x25 ocel 16MnCrS5Pb;szt;2020;31.08.2020;WZ;10
+Tuleja wieloklinowa;KN 21x25 ocel 16MnCrS5Pb;szt;2020;15.09.2020;WZ;10
+Tuleja wieloklinowa;KN 21x25 ocel 16MnCrS5Pb;szt;2020;7.10.2020;WZ;5
+Tuleja wieloklinowa;KN 21x25 ocel 16MnCrS5Pb;szt;2020;29.10.2020;FSL;0
+Tuleja wieloklinowa;KN 21x25 ocel 16MnCrS5Pb;szt;2020;29.10.2020;WZ;8
+Tuleja wieloklinowa;KN 21x25 ocel 16MnCrS5Pb;szt;2020;2020/10/29 Razem;;8
+Tuleja wieloklinowa;KN 21x25 ocel 16MnCrS5Pb;szt;2020;2.11.2020;WZ;5
+Tuleja wieloklinowa;KN 21x25 ocel 16MnCrS5Pb;szt;2020;3.11.2020;WZ;2
+Tuleja wieloklinowa;KN 21x25 ocel 16MnCrS5Pb;szt;2020;17.11.2020;WZ;2
+Tuleja wieloklinowa;KN 21x25 ocel 16MnCrS5Pb;szt;2020;22.12.2020;WZ;2
+Tuleja wieloklinowa;KN 21x25 ocel 16MnCrS5Pb;szt;2020 Razem;;;109
+Tuleja wieloklinowa;KN 21x25 ocel 16MnCrS5Pb;szt;2021;7.01.2021;WZ;5
+Tuleja wieloklinowa;KN 21x25 ocel 16MnCrS5Pb;szt;2021;29.01.2021;WZ;2
+Tuleja wieloklinowa;KN 21x25 ocel 16MnCrS5Pb;szt;2021;23.03.2021;WZ;5
+Tuleja wieloklinowa;KN 21x25 ocel 16MnCrS5Pb;szt;2021;14.04.2021;WZ;4
+Tuleja wieloklinowa;KN 21x25 ocel 16MnCrS5Pb;szt;2021;10.05.2021;WZ;2
+Tuleja wieloklinowa;KN 21x25 ocel 16MnCrS5Pb;szt;2021;26.05.2021;WZ;2
+Tuleja wieloklinowa;KN 21x25 ocel 16MnCrS5Pb;szt;2021;2.06.2021;WZ;2
+Tuleja wieloklinowa;KN 21x25 ocel 16MnCrS5Pb;szt;2021;10.06.2021;WZ;1
+Tuleja wieloklinowa;KN 21x25 ocel 16MnCrS5Pb;szt;2021;7.07.2021;WZ;3
+Tuleja wieloklinowa;KN 21x25 ocel 16MnCrS5Pb;szt;2021;16.07.2021;WZ;4
+Tuleja wieloklinowa;KN 21x25 ocel 16MnCrS5Pb;szt;2021;14.09.2021;WZ;2
+Tuleja wieloklinowa;KN 21x25 ocel 16MnCrS5Pb;szt;2021;17.09.2021;WZ;3
+Tuleja wieloklinowa;KN 21x25 ocel 16MnCrS5Pb;szt;2021;20.09.2021;WZ;18
+Tuleja wieloklinowa;KN 21x25 ocel 16MnCrS5Pb;szt;2021;23.09.2021;WZ;4
+Tuleja wieloklinowa;KN 21x25 ocel 16MnCrS5Pb;szt;2021;18.10.2021;WZ;20
+Tuleja wieloklinowa;KN 21x25 ocel 16MnCrS5Pb;szt;2021;3.12.2021;WZ;10
+Tuleja wieloklinowa;KN 21x25 ocel 16MnCrS5Pb;szt;2021 Razem;;;87
+Tuleja wieloklinowa;KN 21x25 ocel 16MnCrS5Pb;szt;2022;18.02.2022;WZ;2
+Tuleja wieloklinowa;KN 21x25 ocel 16MnCrS5Pb;szt;2022;3.03.2022;WZ;5
+Tuleja wieloklinowa;KN 21x25 ocel 16MnCrS5Pb;szt;2022;13.04.2022;WZ;1
+Tuleja wieloklinowa;KN 21x25 ocel 16MnCrS5Pb;szt;2022;5.05.2022;WZ;2
+Tuleja wieloklinowa;KN 21x25 ocel 16MnCrS5Pb;szt;2022;22.06.2022;WZ;6
+Tuleja wieloklinowa;KN 21x25 ocel 16MnCrS5Pb;szt;2022;5.08.2022;WZ;4
+Tuleja wieloklinowa;KN 21x25 ocel 16MnCrS5Pb;szt;2022;8.08.2022;WZ;1
+Tuleja wieloklinowa;KN 21x25 ocel 16MnCrS5Pb;szt;2022;21.09.2022;WZ;15
+Tuleja wieloklinowa;KN 21x25 ocel 16MnCrS5Pb;szt;2022;4.11.2022;WZ;10
+Tuleja wieloklinowa;KN 21x25 ocel 16MnCrS5Pb;szt;2022;21.12.2022;WZ;2
+Tuleja wieloklinowa;KN 21x25 ocel 16MnCrS5Pb;szt;2022 Razem;;;48
+Tuleja wieloklinowa;KN 21x25 ocel 16MnCrS5Pb;szt;2023;23.02.2023;WZ;2
+Tuleja wieloklinowa;KN 21x25 ocel 16MnCrS5Pb;szt;2023;1.03.2023;WZ;2
+Tuleja wieloklinowa;KN 21x25 ocel 16MnCrS5Pb;szt;2023;23.03.2023;WZ;1
+Tuleja wieloklinowa;KN 21x25 ocel 16MnCrS5Pb;szt;2023;3.04.2023;WZ;2
+Tuleja wieloklinowa;KN 21x25 ocel 16MnCrS5Pb;szt;2023;16.05.2023;WZ;2
+Tuleja wieloklinowa;KN 21x25 ocel 16MnCrS5Pb;szt;2023;25.05.2023;WZ;1
+Tuleja wieloklinowa;KN 21x25 ocel 16MnCrS5Pb;szt;2023;13.06.2023;WZ;2
+Tuleja wieloklinowa;KN 21x25 ocel 16MnCrS5Pb;szt;2023;27.07.2023;WZ;2
+Tuleja wieloklinowa;KN 21x25 ocel 16MnCrS5Pb;szt;2023;6.10.2023;WZ;2
+Tuleja wieloklinowa;KN 21x25 ocel 16MnCrS5Pb;szt;2023;14.11.2023;WZ;2
+Tuleja wieloklinowa;KN 21x25 ocel 16MnCrS5Pb;szt;2023 Razem;;;18
+Tuleja wieloklinowa;KN 21x25 ocel 16MnCrS5Pb;szt;2024;15.01.2024;WZ;10
+Tuleja wieloklinowa;KN 21x25 ocel 16MnCrS5Pb;szt;2024;17.01.2024;WZ;4
+Tuleja wieloklinowa;KN 21x25 ocel 16MnCrS5Pb;szt;2024;9.02.2024;WZ;4
+Tuleja wieloklinowa;KN 21x25 ocel 16MnCrS5Pb;szt;2024;11.06.2024;WZ;3
+Tuleja wieloklinowa;KN 21x25 ocel 16MnCrS5Pb;szt;2024;31.07.2024;WZ;2
+Tuleja wieloklinowa;KN 21x25 ocel 16MnCrS5Pb;szt;2024;9.10.2024;WZ;2
+Tuleja wieloklinowa;KN 21x25 ocel 16MnCrS5Pb;szt;2024 Razem;;;25
+Tuleja wieloklinowa;KN 21x25 ocel 16MnCrS5Pb;szt;2025;27.01.2025;WZ;3
+Tuleja wieloklinowa;KN 21x25 ocel 16MnCrS5Pb;szt;2025;4.02.2025;WZ;20
+Tuleja wieloklinowa;KN 21x25 ocel 16MnCrS5Pb;szt;2025;14.02.2025;WZ;4
+Tuleja wieloklinowa;KN 21x25 ocel 16MnCrS5Pb;szt;2025;10.03.2025;WZ;3
+Tuleja wieloklinowa;KN 21x25 ocel 16MnCrS5Pb;szt;2025 Razem;;;30
+Tuleja wieloklinowa;KN 21x25 ocel 16MnCrS5Pb;szt Razem;;;;317
+Wa³ek wieloklinowy;KW 32x38 ocel C45;m;2020;3.02.2020;WZ;1,4
+Wa³ek wieloklinowy;KW 32x38 ocel C45;m;2020;31.03.2020;WZ;0,53
+Wa³ek wieloklinowy;KW 32x38 ocel C45;m;2020;1.04.2020;WZ;0,53
+Wa³ek wieloklinowy;KW 32x38 ocel C45;m;2020;14.04.2020;WZ;1
+Wa³ek wieloklinowy;KW 32x38 ocel C45;m;2020;21.04.2020;WZ;1,22
+Wa³ek wieloklinowy;KW 32x38 ocel C45;m;2020;15.06.2020;WZ;1
+Wa³ek wieloklinowy;KW 32x38 ocel C45;m;2020;3.07.2020;WZ;1,3
+Wa³ek wieloklinowy;KW 32x38 ocel C45;m;2020;15.07.2020;WZ;0,53
+Wa³ek wieloklinowy;KW 32x38 ocel C45;m;2020;17.07.2020;WZ;2
+Wa³ek wieloklinowy;KW 32x38 ocel C45;m;2020;22.07.2020;WZ;4,53
+Wa³ek wieloklinowy;KW 32x38 ocel C45;m;2020;23.07.2020;WZ;3
+Wa³ek wieloklinowy;KW 32x38 ocel C45;m;2020;7.08.2020;WZ;3
+Wa³ek wieloklinowy;KW 32x38 ocel C45;m;2020;31.08.2020;WZ;1
+Wa³ek wieloklinowy;KW 32x38 ocel C45;m;2020;14.09.2020;WZ;1
+Wa³ek wieloklinowy;KW 32x38 ocel C45;m;2020;8.10.2020;WZ;6
+Wa³ek wieloklinowy;KW 32x38 ocel C45;m;2020;22.10.2020;WZ;1
+Wa³ek wieloklinowy;KW 32x38 ocel C45;m;2020;19.11.2020;WZ;2
+Wa³ek wieloklinowy;KW 32x38 ocel C45;m;2020 Razem;;;31,04
+Wa³ek wieloklinowy;KW 32x38 ocel C45;m;2021;18.01.2021;WZ;4
+Wa³ek wieloklinowy;KW 32x38 ocel C45;m;2021;28.01.2021;WZ;2
+Wa³ek wieloklinowy;KW 32x38 ocel C45;m;2021;4.02.2021;WZ;3
+Wa³ek wieloklinowy;KW 32x38 ocel C45;m;2021;12.03.2021;WZ;1
+Wa³ek wieloklinowy;KW 32x38 ocel C45;m;2021;23.03.2021;WZ;1
+Wa³ek wieloklinowy;KW 32x38 ocel C45;m;2021;28.05.2021;WZ;1
+Wa³ek wieloklinowy;KW 32x38 ocel C45;m;2021;7.07.2021;WZ;1
+Wa³ek wieloklinowy;KW 32x38 ocel C45;m;2021;30.07.2021;WZ;1,1
+Wa³ek wieloklinowy;KW 32x38 ocel C45;m;2021;6.08.2021;WZ;6
+Wa³ek wieloklinowy;KW 32x38 ocel C45;m;2021;7.09.2021;WZ;18
+Wa³ek wieloklinowy;KW 32x38 ocel C45;m;2021;12.10.2021;WZ;1,2
+Wa³ek wieloklinowy;KW 32x38 ocel C45;m;2021;5.11.2021;WZ;3,8
+Wa³ek wieloklinowy;KW 32x38 ocel C45;m;2021;1.12.2021;WZ;1,9
+Wa³ek wieloklinowy;KW 32x38 ocel C45;m;2021;21.12.2021;WZ;4
+Wa³ek wieloklinowy;KW 32x38 ocel C45;m;2021 Razem;;;49
+Wa³ek wieloklinowy;KW 32x38 ocel C45;m;2022;13.01.2022;WZ;0,5
+Wa³ek wieloklinowy;KW 32x38 ocel C45;m;2022;14.01.2022;WZ;1,5
+Wa³ek wieloklinowy;KW 32x38 ocel C45;m;2022;21.01.2022;WZ;4
+Wa³ek wieloklinowy;KW 32x38 ocel C45;m;2022;17.02.2022;WZ;1
+Wa³ek wieloklinowy;KW 32x38 ocel C45;m;2022;1.03.2022;WZ;2,2
+Wa³ek wieloklinowy;KW 32x38 ocel C45;m;2022;22.03.2022;WZ;4
+Wa³ek wieloklinowy;KW 32x38 ocel C45;m;2022;22.04.2022;WZ;2,85
+Wa³ek wieloklinowy;KW 32x38 ocel C45;m;2022;27.04.2022;WZ;2
+Wa³ek wieloklinowy;KW 32x38 ocel C45;m;2022;25.05.2022;WZ;0,53
+Wa³ek wieloklinowy;KW 32x38 ocel C45;m;2022;30.06.2022;WZ;3,5
+Wa³ek wieloklinowy;KW 32x38 ocel C45;m;2022;27.07.2022;WZ;6
+Wa³ek wieloklinowy;KW 32x38 ocel C45;m;2022;29.07.2022;WZ;4
+Wa³ek wieloklinowy;KW 32x38 ocel C45;m;2022;19.08.2022;WZ;6
+Wa³ek wieloklinowy;KW 32x38 ocel C45;m;2022;21.09.2022;WZ;3
+Wa³ek wieloklinowy;KW 32x38 ocel C45;m;2022;2.11.2022;WZ;12
+Wa³ek wieloklinowy;KW 32x38 ocel C45;m;2022;7.12.2022;WZE;0,53
+Wa³ek wieloklinowy;KW 32x38 ocel C45;m;2022;21.12.2022;WZ;6
+Wa³ek wieloklinowy;KW 32x38 ocel C45;m;2022 Razem;;;59,61
+Wa³ek wieloklinowy;KW 32x38 ocel C45;m;2023;15.02.2023;WZ;4
+Wa³ek wieloklinowy;KW 32x38 ocel C45;m;2023;6.04.2023;WZ;4
+Wa³ek wieloklinowy;KW 32x38 ocel C45;m;2023;23.05.2023;WZ;3
+Wa³ek wieloklinowy;KW 32x38 ocel C45;m;2023;7.06.2023;WZE;1,2
+Wa³ek wieloklinowy;KW 32x38 ocel C45;m;2023;18.07.2023;WZ;12
+Wa³ek wieloklinowy;KW 32x38 ocel C45;m;2023;20.07.2023;WZ;1
+Wa³ek wieloklinowy;KW 32x38 ocel C45;m;2023;9.11.2023;WZ;2
+Wa³ek wieloklinowy;KW 32x38 ocel C45;m;2023 Razem;;;27,2
+Wa³ek wieloklinowy;KW 32x38 ocel C45;m;2024;16.01.2024;WZ;2
+Wa³ek wieloklinowy;KW 32x38 ocel C45;m;2024;24.01.2024;WZ;1
+Wa³ek wieloklinowy;KW 32x38 ocel C45;m;2024;9.02.2024;WZE;1,2
+Wa³ek wieloklinowy;KW 32x38 ocel C45;m;2024;20.02.2024;FSL;0
+Wa³ek wieloklinowy;KW 32x38 ocel C45;m;2024;22.02.2024;WZ;1,8
+Wa³ek wieloklinowy;KW 32x38 ocel C45;m;2024;19.04.2024;WZE;1
+Wa³ek wieloklinowy;KW 32x38 ocel C45;m;2024;10.06.2024;WZ;8
+Wa³ek wieloklinowy;KW 32x38 ocel C45;m;2024;12.06.2024;WZ;1
+Wa³ek wieloklinowy;KW 32x38 ocel C45;m;2024;6.08.2024;WZ;2
+Wa³ek wieloklinowy;KW 32x38 ocel C45;m;2024;9.08.2024;WZ;6
+Wa³ek wieloklinowy;KW 32x38 ocel C45;m;2024;21.11.2024;WZ;2,26
+Wa³ek wieloklinowy;KW 32x38 ocel C45;m;2024;18.12.2024;WZ;1
+Wa³ek wieloklinowy;KW 32x38 ocel C45;m;2024;20.12.2024;WZ;4
+Wa³ek wieloklinowy;KW 32x38 ocel C45;m;2024 Razem;;;31,26
+Wa³ek wieloklinowy;KW 32x38 ocel C45;m;2025;7.01.2025;WZ;1
+Wa³ek wieloklinowy;KW 32x38 ocel C45;m;2025;15.01.2025;WZ;12
+Wa³ek wieloklinowy;KW 32x38 ocel C45;m;2025;20.02.2025;WZE;1,53
+Wa³ek wieloklinowy;KW 32x38 ocel C45;m;2025;26.02.2025;WZ;2
+Wa³ek wieloklinowy;KW 32x38 ocel C45;m;2025;7.03.2025;WZ;1
+Wa³ek wieloklinowy;KW 32x38 ocel C45;m;2025;20.03.2025;WZ;1
+Wa³ek wieloklinowy;KW 32x38 ocel C45;m;2025;10.04.2025;WZ;2
+Wa³ek wieloklinowy;KW 32x38 ocel C45;m;2025;7.05.2025;WZ;3
+Wa³ek wieloklinowy;KW 32x38 ocel C45;m;2025;16.07.2025;WZ;1
+Wa³ek wieloklinowy;KW 32x38 ocel C45;m;2025;12.08.2025;WZ;1
+Wa³ek wieloklinowy;KW 32x38 ocel C45;m;2025;21.08.2025;WZ;6,84
+Wa³ek wieloklinowy;KW 32x38 ocel C45;m;2025;24.09.2025;WZ;4,5
+Wa³ek wieloklinowy;KW 32x38 ocel C45;m;2025;7.11.2025;WZ;1
+Wa³ek wieloklinowy;KW 32x38 ocel C45;m;2025;28.11.2025;WZ;4
+Wa³ek wieloklinowy;KW 32x38 ocel C45;m;2025 Razem;;;41,87
+Wa³ek wieloklinowy;KW 32x38 ocel C45;m Razem;;;;239,98
+Wa³ek wieloklinowy;KW 13x16 ocel C45;m;2020;7.01.2020;WZ;1
+Wa³ek wieloklinowy;KW 13x16 ocel C45;m;2020;6.02.2020;WZ;0,5
+Wa³ek wieloklinowy;KW 13x16 ocel C45;m;2020;10.03.2020;WZ;1
+Wa³ek wieloklinowy;KW 13x16 ocel C45;m;2020;18.05.2020;WZ;3
+Wa³ek wieloklinowy;KW 13x16 ocel C45;m;2020;18.06.2020;WZ;9
+Wa³ek wieloklinowy;KW 13x16 ocel C45;m;2020;10.07.2020;WZ;15
+Wa³ek wieloklinowy;KW 13x16 ocel C45;m;2020;21.07.2020;WZ;2
+Wa³ek wieloklinowy;KW 13x16 ocel C45;m;2020;9.09.2020;WZ;2
+Wa³ek wieloklinowy;KW 13x16 ocel C45;m;2020;2.10.2020;WZ;2
+Wa³ek wieloklinowy;KW 13x16 ocel C45;m;2020;27.10.2020;WZ;21
+Wa³ek wieloklinowy;KW 13x16 ocel C45;m;2020;19.11.2020;WZ;1
+Wa³ek wieloklinowy;KW 13x16 ocel C45;m;2020;4.12.2020;WZ;0,4
+Wa³ek wieloklinowy;KW 13x16 ocel C45;m;2020 Razem;;;57,9
+Wa³ek wieloklinowy;KW 13x16 ocel C45;m;2021;4.02.2021;WZ;12
+Wa³ek wieloklinowy;KW 13x16 ocel C45;m;2021;15.02.2021;WZ;2
+Wa³ek wieloklinowy;KW 13x16 ocel C45;m;2021;22.03.2021;WZ;1
+Wa³ek wieloklinowy;KW 13x16 ocel C45;m;2021;29.03.2021;WZ;1
+Wa³ek wieloklinowy;KW 13x16 ocel C45;m;2021;25.05.2021;WZ;1
+Wa³ek wieloklinowy;KW 13x16 ocel C45;m;2021;8.06.2021;WZ;1
+Wa³ek wieloklinowy;KW 13x16 ocel C45;m;2021;15.06.2021;WZ;1
+Wa³ek wieloklinowy;KW 13x16 ocel C45;m;2021;16.06.2021;WZ;3
+Wa³ek wieloklinowy;KW 13x16 ocel C45;m;2021;8.07.2021;WZ;1
+Wa³ek wieloklinowy;KW 13x16 ocel C45;m;2021;1.09.2021;WZ;6
+Wa³ek wieloklinowy;KW 13x16 ocel C45;m;2021;8.11.2021;WZ;3
+Wa³ek wieloklinowy;KW 13x16 ocel C45;m;2021 Razem;;;32
+Wa³ek wieloklinowy;KW 13x16 ocel C45;m;2022;1.03.2022;WZ;3,3
+Wa³ek wieloklinowy;KW 13x16 ocel C45;m;2022;12.04.2022;WZ;4
+Wa³ek wieloklinowy;KW 13x16 ocel C45;m;2022;14.04.2022;WZ;6
+Wa³ek wieloklinowy;KW 13x16 ocel C45;m;2022;22.04.2022;WZ;3,3
+Wa³ek wieloklinowy;KW 13x16 ocel C45;m;2022;5.05.2022;WZ;1
+Wa³ek wieloklinowy;KW 13x16 ocel C45;m;2022;11.05.2022;WZ;1
+Wa³ek wieloklinowy;KW 13x16 ocel C45;m;2022;6.06.2022;WZ;8
+Wa³ek wieloklinowy;KW 13x16 ocel C45;m;2022;27.07.2022;WZ;9
+Wa³ek wieloklinowy;KW 13x16 ocel C45;m;2022;21.09.2022;WZ;6
+Wa³ek wieloklinowy;KW 13x16 ocel C45;m;2022;3.11.2022;WZ;3,3
+Wa³ek wieloklinowy;KW 13x16 ocel C45;m;2022;7.12.2022;WZ;2
+Wa³ek wieloklinowy;KW 13x16 ocel C45;m;2022 Razem;;;46,9
+Wa³ek wieloklinowy;KW 13x16 ocel C45;m;2023;1.02.2023;WZ;1
+Wa³ek wieloklinowy;KW 13x16 ocel C45;m;2023;6.03.2023;WZ;0,3
+Wa³ek wieloklinowy;KW 13x16 ocel C45;m;2023;14.03.2023;WZ;4
+Wa³ek wieloklinowy;KW 13x16 ocel C45;m;2023;28.03.2023;WZ;1
+Wa³ek wieloklinowy;KW 13x16 ocel C45;m;2023;5.06.2023;WZ;1
+Wa³ek wieloklinowy;KW 13x16 ocel C45;m;2023;20.11.2023;WZ;8
+Wa³ek wieloklinowy;KW 13x16 ocel C45;m;2023;21.11.2023;WZ;6
+Wa³ek wieloklinowy;KW 13x16 ocel C45;m;2023;28.11.2023;WZ;0,5
+Wa³ek wieloklinowy;KW 13x16 ocel C45;m;2023 Razem;;;21,8
+Wa³ek wieloklinowy;KW 13x16 ocel C45;m;2024;15.01.2024;WZ;6
+Wa³ek wieloklinowy;KW 13x16 ocel C45;m;2024;14.02.2024;WZ;10
+Wa³ek wieloklinowy;KW 13x16 ocel C45;m;2024;26.02.2024;WZ;1
+Wa³ek wieloklinowy;KW 13x16 ocel C45;m;2024;12.04.2024;WZ;1
+Wa³ek wieloklinowy;KW 13x16 ocel C45;m;2024;26.09.2024;WZ;1
+Wa³ek wieloklinowy;KW 13x16 ocel C45;m;2024;2.12.2024;WZ;1
+Wa³ek wieloklinowy;KW 13x16 ocel C45;m;2024 Razem;;;20
+Wa³ek wieloklinowy;KW 13x16 ocel C45;m;2025;15.01.2025;WZ;6
+Wa³ek wieloklinowy;KW 13x16 ocel C45;m;2025;20.01.2025;WZ;1
+Wa³ek wieloklinowy;KW 13x16 ocel C45;m;2025;27.03.2025;WZ;0,5
+Wa³ek wieloklinowy;KW 13x16 ocel C45;m;2025;28.03.2025;WZ;10
+Wa³ek wieloklinowy;KW 13x16 ocel C45;m;2025;9.05.2025;WZ;0,5
+Wa³ek wieloklinowy;KW 13x16 ocel C45;m;2025;20.05.2025;WZ;0,5
+Wa³ek wieloklinowy;KW 13x16 ocel C45;m;2025;6.10.2025;WZ;14
+Wa³ek wieloklinowy;KW 13x16 ocel C45;m;2025;29.10.2025;WZ;4,4
+Wa³ek wieloklinowy;KW 13x16 ocel C45;m;2025;13.11.2025;WZ;1
+Wa³ek wieloklinowy;KW 13x16 ocel C45;m;2025;1.12.2025;WZ;6
+Wa³ek wieloklinowy;KW 13x16 ocel C45;m;2025 Razem;;;43,9
+Wa³ek wieloklinowy;KW 13x16 ocel C45;m Razem;;;;222,5
+Wa³ek wieloklinowy;KW 11x14 ocel C45;m;2020;29.01.2020;WZ;1
+Wa³ek wieloklinowy;KW 11x14 ocel C45;m;2020;12.02.2020;WZ;1
+Wa³ek wieloklinowy;KW 11x14 ocel C45;m;2020;4.03.2020;WZ;30
+Wa³ek wieloklinowy;KW 11x14 ocel C45;m;2020;16.03.2020;WZ;1
+Wa³ek wieloklinowy;KW 11x14 ocel C45;m;2020;18.06.2020;WZ;9
+Wa³ek wieloklinowy;KW 11x14 ocel C45;m;2020;25.08.2020;WZ;1
+Wa³ek wieloklinowy;KW 11x14 ocel C45;m;2020 Razem;;;43
+Wa³ek wieloklinowy;KW 11x14 ocel C45;m;2021;7.01.2021;WZ;3,5
+Wa³ek wieloklinowy;KW 11x14 ocel C45;m;2021;4.02.2021;WZ;6
+Wa³ek wieloklinowy;KW 11x14 ocel C45;m;2021;10.02.2021;WZ;1,6
+Wa³ek wieloklinowy;KW 11x14 ocel C45;m;2021;24.02.2021;WZ;10
+Wa³ek wieloklinowy;KW 11x14 ocel C45;m;2021;9.03.2021;WZ;27
+Wa³ek wieloklinowy;KW 11x14 ocel C45;m;2021;10.03.2021;WZ;1
+Wa³ek wieloklinowy;KW 11x14 ocel C45;m;2021 Razem;;;49,1
+Wa³ek wieloklinowy;KW 11x14 ocel C45;m;2022;10.03.2022;WZ;2
+Wa³ek wieloklinowy;KW 11x14 ocel C45;m;2022;27.04.2022;WZ;1
+Wa³ek wieloklinowy;KW 11x14 ocel C45;m;2022;15.09.2022;WZ;1
+Wa³ek wieloklinowy;KW 11x14 ocel C45;m;2022;21.09.2022;WZ;6
+Wa³ek wieloklinowy;KW 11x14 ocel C45;m;2022;26.09.2022;WZ;2
+Wa³ek wieloklinowy;KW 11x14 ocel C45;m;2022;14.11.2022;WZ;12
+Wa³ek wieloklinowy;KW 11x14 ocel C45;m;2022 Razem;;;24
+Wa³ek wieloklinowy;KW 11x14 ocel C45;m;2023;18.07.2023;WZ;6
+Wa³ek wieloklinowy;KW 11x14 ocel C45;m;2023;4.08.2023;WZ;1
+Wa³ek wieloklinowy;KW 11x14 ocel C45;m;2023;31.08.2023;WZ;3
+Wa³ek wieloklinowy;KW 11x14 ocel C45;m;2023 Razem;;;10
+Wa³ek wieloklinowy;KW 11x14 ocel C45;m;2024;15.01.2024;WZ;6
+Wa³ek wieloklinowy;KW 11x14 ocel C45;m;2024;29.02.2024;WZ;1
+Wa³ek wieloklinowy;KW 11x14 ocel C45;m;2024;12.03.2024;WZ;3
+Wa³ek wieloklinowy;KW 11x14 ocel C45;m;2024;21.03.2024;WZ;3
+Wa³ek wieloklinowy;KW 11x14 ocel C45;m;2024;28.03.2024;WZ;1
+Wa³ek wieloklinowy;KW 11x14 ocel C45;m;2024;10.05.2024;WZ;2
+Wa³ek wieloklinowy;KW 11x14 ocel C45;m;2024;27.05.2024;WZ;2
+Wa³ek wieloklinowy;KW 11x14 ocel C45;m;2024;5.06.2024;WZ;0,4
+Wa³ek wieloklinowy;KW 11x14 ocel C45;m;2024;19.07.2024;WZ;3
+Wa³ek wieloklinowy;KW 11x14 ocel C45;m;2024;24.07.2024;WZ;1
+Wa³ek wieloklinowy;KW 11x14 ocel C45;m;2024;5.09.2024;WZ;1
+Wa³ek wieloklinowy;KW 11x14 ocel C45;m;2024;4.10.2024;WZ;2
+Wa³ek wieloklinowy;KW 11x14 ocel C45;m;2024 Razem;;;25,4
+Wa³ek wieloklinowy;KW 11x14 ocel C45;m;2025;15.01.2025;WZ;3
+Wa³ek wieloklinowy;KW 11x14 ocel C45;m;2025;29.01.2025;WZ;1
+Wa³ek wieloklinowy;KW 11x14 ocel C45;m;2025;7.02.2025;WZ;2
+Wa³ek wieloklinowy;KW 11x14 ocel C45;m;2025;12.02.2025;WZ;1
+Wa³ek wieloklinowy;KW 11x14 ocel C45;m;2025;13.02.2025;WZ;6
+Wa³ek wieloklinowy;KW 11x14 ocel C45;m;2025;28.02.2025;WZ;0,5
+Wa³ek wieloklinowy;KW 11x14 ocel C45;m;2025;24.04.2025;WZ;0,5
+Wa³ek wieloklinowy;KW 11x14 ocel C45;m;2025;29.04.2025;WZ;1,5
+Wa³ek wieloklinowy;KW 11x14 ocel C45;m;2025;22.05.2025;WZ;3,96
+Wa³ek wieloklinowy;KW 11x14 ocel C45;m;2025;16.07.2025;WZ;2
+Wa³ek wieloklinowy;KW 11x14 ocel C45;m;2025;7.08.2025;WZ;9
+Wa³ek wieloklinowy;KW 11x14 ocel C45;m;2025;8.08.2025;WZ;1,5
+Wa³ek wieloklinowy;KW 11x14 ocel C45;m;2025 Razem;;;31,96
+Wa³ek wieloklinowy;KW 11x14 ocel C45;m Razem;;;;183,46
+Tuleja wieloklinowa;KN 11x14 ocel 16MnCrS5Pb;szt;2020;10.03.2020;WZ;4
+Tuleja wieloklinowa;KN 11x14 ocel 16MnCrS5Pb;szt;2020;18.06.2020;WZ;10
+Tuleja wieloklinowa;KN 11x14 ocel 16MnCrS5Pb;szt;2020;25.08.2020;WZ;8
+Tuleja wieloklinowa;KN 11x14 ocel 16MnCrS5Pb;szt;2020;28.08.2020;WZ;3
+Tuleja wieloklinowa;KN 11x14 ocel 16MnCrS5Pb;szt;2020;16.11.2020;WZ;4
+Tuleja wieloklinowa;KN 11x14 ocel 16MnCrS5Pb;szt;2020 Razem;;;29
+Tuleja wieloklinowa;KN 11x14 ocel 16MnCrS5Pb;szt;2021;24.02.2021;WZ;10
+Tuleja wieloklinowa;KN 11x14 ocel 16MnCrS5Pb;szt;2022;10.03.2022;WZ;4
+Tuleja wieloklinowa;KN 11x14 ocel 16MnCrS5Pb;szt;2022;26.07.2022;WZ;3
+Tuleja wieloklinowa;KN 11x14 ocel 16MnCrS5Pb;szt;2022;15.09.2022;WZ;2
+Tuleja wieloklinowa;KN 11x14 ocel 16MnCrS5Pb;szt;2022;21.09.2022;WZ;13
+Tuleja wieloklinowa;KN 11x14 ocel 16MnCrS5Pb;szt;2022;22.09.2022;WZ;2
+Tuleja wieloklinowa;KN 11x14 ocel 16MnCrS5Pb;szt;2022 Razem;;;24
+Tuleja wieloklinowa;KN 11x14 ocel 16MnCrS5Pb;szt;2023;6.04.2023;WZ;10
+Tuleja wieloklinowa;KN 11x14 ocel 16MnCrS5Pb;szt;2023;12.04.2023;WZ;4
+Tuleja wieloklinowa;KN 11x14 ocel 16MnCrS5Pb;szt;2023 Razem;;;14
+Tuleja wieloklinowa;KN 11x14 ocel 16MnCrS5Pb;szt;2024;5.01.2024;PA;1
+Tuleja wieloklinowa;KN 11x14 ocel 16MnCrS5Pb;szt;2024;15.01.2024;WZ;10
+Tuleja wieloklinowa;KN 11x14 ocel 16MnCrS5Pb;szt;2024;12.03.2024;WZ;3
+Tuleja wieloklinowa;KN 11x14 ocel 16MnCrS5Pb;szt;2024;21.03.2024;WZ;8
+Tuleja wieloklinowa;KN 11x14 ocel 16MnCrS5Pb;szt;2024;28.03.2024;WZ;1
+Tuleja wieloklinowa;KN 11x14 ocel 16MnCrS5Pb;szt;2024;10.05.2024;WZ;5
+Tuleja wieloklinowa;KN 11x14 ocel 16MnCrS5Pb;szt;2024;27.05.2024;WZ;3
+Tuleja wieloklinowa;KN 11x14 ocel 16MnCrS5Pb;szt;2024;3.09.2024;WZ;20
+Tuleja wieloklinowa;KN 11x14 ocel 16MnCrS5Pb;szt;2024 Razem;;;51
+Tuleja wieloklinowa;KN 11x14 ocel 16MnCrS5Pb;szt;2025;24.01.2025;WZ;18
+Tuleja wieloklinowa;KN 11x14 ocel 16MnCrS5Pb;szt;2025;29.01.2025;WZ;3
+Tuleja wieloklinowa;KN 11x14 ocel 16MnCrS5Pb;szt;2025;12.02.2025;WZ;3
+Tuleja wieloklinowa;KN 11x14 ocel 16MnCrS5Pb;szt;2025;28.02.2025;WZ;2
+Tuleja wieloklinowa;KN 11x14 ocel 16MnCrS5Pb;szt;2025;22.05.2025;WZ;13
+Tuleja wieloklinowa;KN 11x14 ocel 16MnCrS5Pb;szt;2025;16.07.2025;WZ;4
+Tuleja wieloklinowa;KN 11x14 ocel 16MnCrS5Pb;szt;2025 Razem;;;43
+Tuleja wieloklinowa;KN 11x14 ocel 16MnCrS5Pb;szt Razem;;;;171
+Tuleja wieloklinowa;KN 13x16 ocel 16MnCrS5Pb;szt;2020;4.02.2020;WZ;5
+Tuleja wieloklinowa;KN 13x16 ocel 16MnCrS5Pb;szt;2020;20.03.2020;WZ;4
+Tuleja wieloklinowa;KN 13x16 ocel 16MnCrS5Pb;szt;2020;18.05.2020;WZ;4
+Tuleja wieloklinowa;KN 13x16 ocel 16MnCrS5Pb;szt;2020;18.06.2020;WZ;10
+Tuleja wieloklinowa;KN 13x16 ocel 16MnCrS5Pb;szt;2020;21.07.2020;WZ;10
+Tuleja wieloklinowa;KN 13x16 ocel 16MnCrS5Pb;szt;2020;29.07.2020;WZ;8
+Tuleja wieloklinowa;KN 13x16 ocel 16MnCrS5Pb;szt;2020;2.10.2020;WZ;6
+Tuleja wieloklinowa;KN 13x16 ocel 16MnCrS5Pb;szt;2020;19.11.2020;WZ;6
+Tuleja wieloklinowa;KN 13x16 ocel 16MnCrS5Pb;szt;2020 Razem;;;53
+Tuleja wieloklinowa;KN 13x16 ocel 16MnCrS5Pb;szt;2021;22.03.2021;WZ;5
+Tuleja wieloklinowa;KN 13x16 ocel 16MnCrS5Pb;szt;2021;31.03.2021;WZ;16
+Tuleja wieloklinowa;KN 13x16 ocel 16MnCrS5Pb;szt;2021;17.06.2021;WZ;3
+Tuleja wieloklinowa;KN 13x16 ocel 16MnCrS5Pb;szt;2021;15.11.2021;WZ;19
+Tuleja wieloklinowa;KN 13x16 ocel 16MnCrS5Pb;szt;2021 Razem;;;43
+Tuleja wieloklinowa;KN 13x16 ocel 16MnCrS5Pb;szt;2022;21.09.2022;WZ;15
+Tuleja wieloklinowa;KN 13x16 ocel 16MnCrS5Pb;szt;2023;14.02.2023;WZ;3
+Tuleja wieloklinowa;KN 13x16 ocel 16MnCrS5Pb;szt;2023;14.03.2023;WZ;10
+Tuleja wieloklinowa;KN 13x16 ocel 16MnCrS5Pb;szt;2023;28.03.2023;WZ;2
+Tuleja wieloklinowa;KN 13x16 ocel 16MnCrS5Pb;szt;2023 Razem;;;15
+Tuleja wieloklinowa;KN 13x16 ocel 16MnCrS5Pb;szt;2024;15.01.2024;WZ;10
+Tuleja wieloklinowa;KN 13x16 ocel 16MnCrS5Pb;szt;2024;26.02.2024;WZ;2
+Tuleja wieloklinowa;KN 13x16 ocel 16MnCrS5Pb;szt;2024;26.09.2024;WZ;1
+Tuleja wieloklinowa;KN 13x16 ocel 16MnCrS5Pb;szt;2024;21.10.2024;WZ;4
+Tuleja wieloklinowa;KN 13x16 ocel 16MnCrS5Pb;szt;2024;8.11.2024;WZ;1
+Tuleja wieloklinowa;KN 13x16 ocel 16MnCrS5Pb;szt;2024;2.12.2024;WZ;3
+Tuleja wieloklinowa;KN 13x16 ocel 16MnCrS5Pb;szt;2024;9.12.2024;WZ;2
+Tuleja wieloklinowa;KN 13x16 ocel 16MnCrS5Pb;szt;2024 Razem;;;23
+Tuleja wieloklinowa;KN 13x16 ocel 16MnCrS5Pb;szt;2025;29.09.2025;WZ;3
+Tuleja wieloklinowa;KN 13x16 ocel 16MnCrS5Pb;szt;2025;4.11.2025;WZ;4
+Tuleja wieloklinowa;KN 13x16 ocel 16MnCrS5Pb;szt;2025;14.11.2025;WZ;10
+Tuleja wieloklinowa;KN 13x16 ocel 16MnCrS5Pb;szt;2025 Razem;;;17
+Tuleja wieloklinowa;KN 13x16 ocel 16MnCrS5Pb;szt Razem;;;;166
+Tuleja wieloklinowa;KN 16x20 ocel 16MnCrS5Pb;szt;2020;13.02.2020;WZ;5
+Tuleja wieloklinowa;KN 16x20 ocel 16MnCrS5Pb;szt;2020;27.04.2020;WZ;1
+Tuleja wieloklinowa;KN 16x20 ocel 16MnCrS5Pb;szt;2020;28.08.2020;WZ;5
+Tuleja wieloklinowa;KN 16x20 ocel 16MnCrS5Pb;szt;2020;21.09.2020;WZ;4
+Tuleja wieloklinowa;KN 16x20 ocel 16MnCrS5Pb;szt;2020;6.11.2020;WZ;5
+Tuleja wieloklinowa;KN 16x20 ocel 16MnCrS5Pb;szt;2020;12.11.2020;WZ;1
+Tuleja wieloklinowa;KN 16x20 ocel 16MnCrS5Pb;szt;2020 Razem;;;21
+Tuleja wieloklinowa;KN 16x20 ocel 16MnCrS5Pb;szt;2021;8.03.2021;WZ;4
+Tuleja wieloklinowa;KN 16x20 ocel 16MnCrS5Pb;szt;2021;15.03.2021;WZ;4
+Tuleja wieloklinowa;KN 16x20 ocel 16MnCrS5Pb;szt;2021;7.05.2021;WZ;2
+Tuleja wieloklinowa;KN 16x20 ocel 16MnCrS5Pb;szt;2021;26.05.2021;WZ;2
+Tuleja wieloklinowa;KN 16x20 ocel 16MnCrS5Pb;szt;2021;27.05.2021;WZ;2
+Tuleja wieloklinowa;KN 16x20 ocel 16MnCrS5Pb;szt;2021;18.11.2021;WZ;1
+Tuleja wieloklinowa;KN 16x20 ocel 16MnCrS5Pb;szt;2021 Razem;;;15
+Tuleja wieloklinowa;KN 16x20 ocel 16MnCrS5Pb;szt;2022;17.01.2022;WZ;1
+Tuleja wieloklinowa;KN 16x20 ocel 16MnCrS5Pb;szt;2022;25.01.2022;WZ;1
+Tuleja wieloklinowa;KN 16x20 ocel 16MnCrS5Pb;szt;2022;18.02.2022;WZ;3
+Tuleja wieloklinowa;KN 16x20 ocel 16MnCrS5Pb;szt;2022;25.02.2022;WZ;3
+Tuleja wieloklinowa;KN 16x20 ocel 16MnCrS5Pb;szt;2022;3.03.2022;WZ;5
+Tuleja wieloklinowa;KN 16x20 ocel 16MnCrS5Pb;szt;2022;22.03.2022;WZ;2
+Tuleja wieloklinowa;KN 16x20 ocel 16MnCrS5Pb;szt;2022;6.05.2022;WZ;2
+Tuleja wieloklinowa;KN 16x20 ocel 16MnCrS5Pb;szt;2022;22.08.2022;WZ;4
+Tuleja wieloklinowa;KN 16x20 ocel 16MnCrS5Pb;szt;2022 Razem;;;21
+Tuleja wieloklinowa;KN 16x20 ocel 16MnCrS5Pb;szt;2023;20.03.2023;WZ;1
+Tuleja wieloklinowa;KN 16x20 ocel 16MnCrS5Pb;szt;2023;30.11.2023;WZ;2
+Tuleja wieloklinowa;KN 16x20 ocel 16MnCrS5Pb;szt;2023 Razem;;;3
+Tuleja wieloklinowa;KN 16x20 ocel 16MnCrS5Pb;szt;2024;15.03.2024;WZ;6
+Tuleja wieloklinowa;KN 16x20 ocel 16MnCrS5Pb;szt;2024;17.06.2024;WZ;14
+Tuleja wieloklinowa;KN 16x20 ocel 16MnCrS5Pb;szt;2024;25.09.2024;WZ;2
+Tuleja wieloklinowa;KN 16x20 ocel 16MnCrS5Pb;szt;2024;28.10.2024;WZ;1
+Tuleja wieloklinowa;KN 16x20 ocel 16MnCrS5Pb;szt;2024 Razem;;;23
+Tuleja wieloklinowa;KN 16x20 ocel 16MnCrS5Pb;szt;2025;10.03.2025;WZ;4
+Tuleja wieloklinowa;KN 16x20 ocel 16MnCrS5Pb;szt;2025;10.06.2025;WZ;6
+Tuleja wieloklinowa;KN 16x20 ocel 16MnCrS5Pb;szt;2025;11.06.2025;FSL;0
+Tuleja wieloklinowa;KN 16x20 ocel 16MnCrS5Pb;szt;2025;17.06.2025;WZ;5
+Tuleja wieloklinowa;KN 16x20 ocel 16MnCrS5Pb;szt;2025;20.08.2025;WZ;5
+Tuleja wieloklinowa;KN 16x20 ocel 16MnCrS5Pb;szt;2025;11.09.2025;WZ;25
+Tuleja wieloklinowa;KN 16x20 ocel 16MnCrS5Pb;szt;2025;28.11.2025;WZ;5
+Tuleja wieloklinowa;KN 16x20 ocel 16MnCrS5Pb;szt;2025 Razem;;;50
+Tuleja wieloklinowa;KN 16x20 ocel 16MnCrS5Pb;szt Razem;;;;133
+Tuleja wieloklinowa;KN 42x48 ocel 16MnCrS5Pb;szt;2020;13.02.2020;WZ;3
+Tuleja wieloklinowa;KN 42x48 ocel 16MnCrS5Pb;szt;2020;17.06.2020;WZ;5
+Tuleja wieloklinowa;KN 42x48 ocel 16MnCrS5Pb;szt;2020;20.10.2020;WZ;9
+Tuleja wieloklinowa;KN 42x48 ocel 16MnCrS5Pb;szt;2020;29.10.2020;WZ;3
+Tuleja wieloklinowa;KN 42x48 ocel 16MnCrS5Pb;szt;2020;24.11.2020;WZ;10
+Tuleja wieloklinowa;KN 42x48 ocel 16MnCrS5Pb;szt;2020;30.11.2020;WZ;4
+Tuleja wieloklinowa;KN 42x48 ocel 16MnCrS5Pb;szt;2020 Razem;;;34
+Tuleja wieloklinowa;KN 42x48 ocel 16MnCrS5Pb;szt;2021;17.05.2021;WZ;6
+Tuleja wieloklinowa;KN 42x48 ocel 16MnCrS5Pb;szt;2021;14.07.2021;WZ;10
+Tuleja wieloklinowa;KN 42x48 ocel 16MnCrS5Pb;szt;2021 Razem;;;16
+Tuleja wieloklinowa;KN 42x48 ocel 16MnCrS5Pb;szt;2022;19.01.2022;WZ;8
+Tuleja wieloklinowa;KN 42x48 ocel 16MnCrS5Pb;szt;2022;15.06.2022;WZ;10
+Tuleja wieloklinowa;KN 42x48 ocel 16MnCrS5Pb;szt;2022;23.06.2022;WZ;8
+Tuleja wieloklinowa;KN 42x48 ocel 16MnCrS5Pb;szt;2022;26.08.2022;WZ;2
+Tuleja wieloklinowa;KN 42x48 ocel 16MnCrS5Pb;szt;2022 Razem;;;28
+Tuleja wieloklinowa;KN 42x48 ocel 16MnCrS5Pb;szt;2023;24.01.2023;WZ;12
+Tuleja wieloklinowa;KN 42x48 ocel 16MnCrS5Pb;szt;2023;1.03.2023;WZ;4
+Tuleja wieloklinowa;KN 42x48 ocel 16MnCrS5Pb;szt;2023;23.03.2023;WZ;1
+Tuleja wieloklinowa;KN 42x48 ocel 16MnCrS5Pb;szt;2023 Razem;;;17
+Tuleja wieloklinowa;KN 42x48 ocel 16MnCrS5Pb;szt;2024;15.01.2024;WZ;10
+Tuleja wieloklinowa;KN 42x48 ocel 16MnCrS5Pb;szt;2025;7.01.2025;WZ;2
+Tuleja wieloklinowa;KN 42x48 ocel 16MnCrS5Pb;szt;2025;19.12.2025;WZ;1
+Tuleja wieloklinowa;KN 42x48 ocel 16MnCrS5Pb;szt;2025 Razem;;;3
+Tuleja wieloklinowa;KN 42x48 ocel 16MnCrS5Pb;szt Razem;;;;108
+Tuleja wieloklinowa;KN 32x38 ocel 16MnCrS5Pb;szt;2020;13.02.2020;WZ;3
+Tuleja wieloklinowa;KN 32x38 ocel 16MnCrS5Pb;szt;2020;15.06.2020;WZ;1
+Tuleja wieloklinowa;KN 32x38 ocel 16MnCrS5Pb;szt;2020;22.07.2020;WZ;1
+Tuleja wieloklinowa;KN 32x38 ocel 16MnCrS5Pb;szt;2020;22.10.2020;WZ;2
+Tuleja wieloklinowa;KN 32x38 ocel 16MnCrS5Pb;szt;2020;19.11.2020;WZ;1
+Tuleja wieloklinowa;KN 32x38 ocel 16MnCrS5Pb;szt;2020 Razem;;;8
+Tuleja wieloklinowa;KN 32x38 ocel 16MnCrS5Pb;szt;2021;8.01.2021;WZ;15
+Tuleja wieloklinowa;KN 32x38 ocel 16MnCrS5Pb;szt;2021;23.03.2021;WZ;1
+Tuleja wieloklinowa;KN 32x38 ocel 16MnCrS5Pb;szt;2021;28.07.2021;WZ;7
+Tuleja wieloklinowa;KN 32x38 ocel 16MnCrS5Pb;szt;2021;4.08.2021;WZ;2
+Tuleja wieloklinowa;KN 32x38 ocel 16MnCrS5Pb;szt;2021;17.08.2021;WZ;2
+Tuleja wieloklinowa;KN 32x38 ocel 16MnCrS5Pb;szt;2021;6.09.2021;WZ;15
+Tuleja wieloklinowa;KN 32x38 ocel 16MnCrS5Pb;szt;2021;12.10.2021;WZ;2
+Tuleja wieloklinowa;KN 32x38 ocel 16MnCrS5Pb;szt;2021;21.12.2021;WZ;2
+Tuleja wieloklinowa;KN 32x38 ocel 16MnCrS5Pb;szt;2021 Razem;;;46
+Tuleja wieloklinowa;KN 32x38 ocel 16MnCrS5Pb;szt;2022;1.07.2022;WZ;4
+Tuleja wieloklinowa;KN 32x38 ocel 16MnCrS5Pb;szt;2022;21.09.2022;WZ;8
+Tuleja wieloklinowa;KN 32x38 ocel 16MnCrS5Pb;szt;2022 Razem;;;12
+Tuleja wieloklinowa;KN 32x38 ocel 16MnCrS5Pb;szt;2023;30.03.2023;WZ;1
+Tuleja wieloklinowa;KN 32x38 ocel 16MnCrS5Pb;szt;2023;25.08.2023;WZ;2
+Tuleja wieloklinowa;KN 32x38 ocel 16MnCrS5Pb;szt;2023;9.11.2023;WZ;2
+Tuleja wieloklinowa;KN 32x38 ocel 16MnCrS5Pb;szt;2023 Razem;;;5
+Tuleja wieloklinowa;KN 32x38 ocel 16MnCrS5Pb;szt;2024;18.01.2024;WZ;2
+Tuleja wieloklinowa;KN 32x38 ocel 16MnCrS5Pb;szt;2024;20.02.2024;FSL;0
+Tuleja wieloklinowa;KN 32x38 ocel 16MnCrS5Pb;szt;2024;22.02.2024;WZ;4
+Tuleja wieloklinowa;KN 32x38 ocel 16MnCrS5Pb;szt;2024;10.06.2024;WZ;1
+Tuleja wieloklinowa;KN 32x38 ocel 16MnCrS5Pb;szt;2024;12.06.2024;WZ;1
+Tuleja wieloklinowa;KN 32x38 ocel 16MnCrS5Pb;szt;2024;14.08.2024;WZ;2
+Tuleja wieloklinowa;KN 32x38 ocel 16MnCrS5Pb;szt;2024;28.11.2024;WZ;2
+Tuleja wieloklinowa;KN 32x38 ocel 16MnCrS5Pb;szt;2024;20.12.2024;WZ;6
+Tuleja wieloklinowa;KN 32x38 ocel 16MnCrS5Pb;szt;2024 Razem;;;18
+Tuleja wieloklinowa;KN 32x38 ocel 16MnCrS5Pb;szt;2025;7.03.2025;WZ;4
+Tuleja wieloklinowa;KN 32x38 ocel 16MnCrS5Pb;szt;2025;10.04.2025;WZ;4
+Tuleja wieloklinowa;KN 32x38 ocel 16MnCrS5Pb;szt;2025;22.08.2025;WZ;2
+Tuleja wieloklinowa;KN 32x38 ocel 16MnCrS5Pb;szt;2025;7.11.2025;WZ;4
+Tuleja wieloklinowa;KN 32x38 ocel 16MnCrS5Pb;szt;2025 Razem;;;14
+Tuleja wieloklinowa;KN 32x38 ocel 16MnCrS5Pb;szt Razem;;;;103
+Suma koñcowa;;;;;;3 237,74

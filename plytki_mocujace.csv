@@ -1,0 +1,703 @@
+;;;;;;Dane
+;;;;;;Suma koñcowa
+Produkt.Nazwa;Produkt.Symbol;Produkt.Jednostka podstawowa;Czas.Kalendarzowy.Rok;Czas.Kalendarzowy.Data;Dokument.Dokument.Rodzaj.Typ dokumentu;Sprzeda¿ Iloœæ
+P³ytka mocuj¹ca;15 HTD 5M;szt;2020;3.03.2020;WZ;100
+P³ytka mocuj¹ca;15 HTD 5M;szt;2020;10.03.2020;WZ;5
+P³ytka mocuj¹ca;15 HTD 5M;szt;2020;25.05.2020;WZ;100
+P³ytka mocuj¹ca;15 HTD 5M;szt;2020;16.09.2020;WZ;2
+P³ytka mocuj¹ca;15 HTD 5M;szt;2020;12.10.2020;WZ;2
+P³ytka mocuj¹ca;15 HTD 5M;szt;2020;26.10.2020;WZ;2
+P³ytka mocuj¹ca;15 HTD 5M;szt;2020 Razem;;;211
+P³ytka mocuj¹ca;15 HTD 5M;szt;2021;18.01.2021;WZ;300
+P³ytka mocuj¹ca;15 HTD 5M;szt;2021;16.02.2021;WZ;6
+P³ytka mocuj¹ca;15 HTD 5M;szt;2021;22.04.2021;WZ;2
+P³ytka mocuj¹ca;15 HTD 5M;szt;2021;20.07.2021;WZ;300
+P³ytka mocuj¹ca;15 HTD 5M;szt;2021;27.07.2021;WZ;200
+P³ytka mocuj¹ca;15 HTD 5M;szt;2021;17.08.2021;WZ;2
+P³ytka mocuj¹ca;15 HTD 5M;szt;2021;31.08.2021;WZ;4
+P³ytka mocuj¹ca;15 HTD 5M;szt;2021;27.10.2021;WZ;5
+P³ytka mocuj¹ca;15 HTD 5M;szt;2021;29.10.2021;WZ;24
+P³ytka mocuj¹ca;15 HTD 5M;szt;2021;16.11.2021;WZ;300
+P³ytka mocuj¹ca;15 HTD 5M;szt;2021;30.11.2021;WZ;2
+P³ytka mocuj¹ca;15 HTD 5M;szt;2021 Razem;;;1 145,00
+P³ytka mocuj¹ca;15 HTD 5M;szt;2022;11.01.2022;WZ;285
+P³ytka mocuj¹ca;15 HTD 5M;szt;2022;18.01.2022;WZ;195
+P³ytka mocuj¹ca;15 HTD 5M;szt;2022;9.02.2022;WZ;6
+P³ytka mocuj¹ca;15 HTD 5M;szt;2022;23.03.2022;WZ;4
+P³ytka mocuj¹ca;15 HTD 5M;szt;2022;22.06.2022;WZ;4
+P³ytka mocuj¹ca;15 HTD 5M;szt;2022;23.06.2022;WZ;6
+P³ytka mocuj¹ca;15 HTD 5M;szt;2022;24.06.2022;WZ;14
+P³ytka mocuj¹ca;15 HTD 5M;szt;2022;22.07.2022;WZ;2
+P³ytka mocuj¹ca;15 HTD 5M;szt;2022;10.08.2022;WZ;400
+P³ytka mocuj¹ca;15 HTD 5M;szt;2022;19.08.2022;WZ;4
+P³ytka mocuj¹ca;15 HTD 5M;szt;2022;27.09.2022;WZ;1
+P³ytka mocuj¹ca;15 HTD 5M;szt;2022;19.10.2022;WZ;400
+P³ytka mocuj¹ca;15 HTD 5M;szt;2022;14.12.2022;WZ;2
+P³ytka mocuj¹ca;15 HTD 5M;szt;2022 Razem;;;1 323,00
+P³ytka mocuj¹ca;15 HTD 5M;szt;2023;7.02.2023;WZ;9
+P³ytka mocuj¹ca;15 HTD 5M;szt;2023;23.02.2023;WZ;300
+P³ytka mocuj¹ca;15 HTD 5M;szt;2023;1.03.2023;WZ;2
+P³ytka mocuj¹ca;15 HTD 5M;szt;2023;31.03.2023;WZ;2
+P³ytka mocuj¹ca;15 HTD 5M;szt;2023 Razem;;;313
+P³ytka mocuj¹ca;15 HTD 5M;szt;2024;11.04.2024;WZ;2
+P³ytka mocuj¹ca;15 HTD 5M;szt;2024;12.08.2024;WZ;2
+P³ytka mocuj¹ca;15 HTD 5M;szt;2024;4.09.2024;WZ;1
+P³ytka mocuj¹ca;15 HTD 5M;szt;2024;27.09.2024;WZ;4
+P³ytka mocuj¹ca;15 HTD 5M;szt;2024;30.09.2024;WZ;2
+P³ytka mocuj¹ca;15 HTD 5M;szt;2024 Razem;;;11
+P³ytka mocuj¹ca;15 HTD 5M;szt;2025;26.03.2025;WZ;2
+P³ytka mocuj¹ca;15 HTD 5M;szt;2025;21.08.2025;WZ;1
+P³ytka mocuj¹ca;15 HTD 5M;szt;2025;23.10.2025;WZ;4
+P³ytka mocuj¹ca;15 HTD 5M;szt;2025;21.11.2025;WZ;2
+P³ytka mocuj¹ca;15 HTD 5M;szt;2025;12.12.2025;WZ;2
+P³ytka mocuj¹ca;15 HTD 5M;szt;2025 Razem;;;11
+P³ytka mocuj¹ca;15 HTD 5M;szt Razem;;;;3 014,00
+P³yta monta¿owa pod pas zêbaty;9 HTD 5M;szt;2020;10.02.2020;WZ;2
+P³yta monta¿owa pod pas zêbaty;9 HTD 5M;szt;2020;21.07.2020;WZ;100
+P³yta monta¿owa pod pas zêbaty;9 HTD 5M;szt;2020;6.08.2020;WZ;2
+P³yta monta¿owa pod pas zêbaty;9 HTD 5M;szt;2020 Razem;;;104
+P³yta monta¿owa pod pas zêbaty;9 HTD 5M;szt;2021;27.04.2021;WZ;30
+P³yta monta¿owa pod pas zêbaty;9 HTD 5M;szt;2021;30.06.2021;WZ;200
+P³yta monta¿owa pod pas zêbaty;9 HTD 5M;szt;2021;2.11.2021;WZ;20
+P³yta monta¿owa pod pas zêbaty;9 HTD 5M;szt;2021;3.12.2021;WZ;200
+P³yta monta¿owa pod pas zêbaty;9 HTD 5M;szt;2021 Razem;;;450
+P³yta monta¿owa pod pas zêbaty;9 HTD 5M;szt;2022;10.08.2022;WZ;200
+P³yta monta¿owa pod pas zêbaty;9 HTD 5M;szt;2023;3.04.2023;WZ;2
+P³yta monta¿owa pod pas zêbaty;9 HTD 5M;szt;2024;30.04.2024;WZ;21
+P³yta monta¿owa pod pas zêbaty;9 HTD 5M;szt;2024;21.05.2024;WZ;20
+P³yta monta¿owa pod pas zêbaty;9 HTD 5M;szt;2024;21.06.2024;WZ;30
+P³yta monta¿owa pod pas zêbaty;9 HTD 5M;szt;2024;8.07.2024;WZ;40
+P³yta monta¿owa pod pas zêbaty;9 HTD 5M;szt;2024;26.11.2024;WZ;30
+P³yta monta¿owa pod pas zêbaty;9 HTD 5M;szt;2024 Razem;;;141
+P³yta monta¿owa pod pas zêbaty;9 HTD 5M;szt;2025;4.02.2025;WZ;20
+P³yta monta¿owa pod pas zêbaty;9 HTD 5M;szt;2025;30.10.2025;WZ;15
+P³yta monta¿owa pod pas zêbaty;9 HTD 5M;szt;2025 Razem;;;35
+P³yta monta¿owa pod pas zêbaty;9 HTD 5M;szt Razem;;;;932
+P³yta monta¿owa pod pas zêbaty;30 HTD 8M;szt;2020;29.01.2020;WZ;4
+P³yta monta¿owa pod pas zêbaty;30 HTD 8M;szt;2020;24.03.2020;WZ;4
+P³yta monta¿owa pod pas zêbaty;30 HTD 8M;szt;2020;28.04.2020;WZ;2
+P³yta monta¿owa pod pas zêbaty;30 HTD 8M;szt;2020;24.06.2020;WZ;4
+P³yta monta¿owa pod pas zêbaty;30 HTD 8M;szt;2020;7.07.2020;WZ;5
+P³yta monta¿owa pod pas zêbaty;30 HTD 8M;szt;2020;21.07.2020;WZ;2
+P³yta monta¿owa pod pas zêbaty;30 HTD 8M;szt;2020;23.07.2020;WZ;4
+P³yta monta¿owa pod pas zêbaty;30 HTD 8M;szt;2020;24.07.2020;WZ;2
+P³yta monta¿owa pod pas zêbaty;30 HTD 8M;szt;2020;27.07.2020;WZ;2
+P³yta monta¿owa pod pas zêbaty;30 HTD 8M;szt;2020;20.08.2020;WZ;2
+P³yta monta¿owa pod pas zêbaty;30 HTD 8M;szt;2020;17.09.2020;WZ;4
+P³yta monta¿owa pod pas zêbaty;30 HTD 8M;szt;2020;23.09.2020;WZ;2
+P³yta monta¿owa pod pas zêbaty;30 HTD 8M;szt;2020;7.10.2020;WZ;2
+P³yta monta¿owa pod pas zêbaty;30 HTD 8M;szt;2020;3.11.2020;WZ;4
+P³yta monta¿owa pod pas zêbaty;30 HTD 8M;szt;2020;6.11.2020;WZ;1
+P³yta monta¿owa pod pas zêbaty;30 HTD 8M;szt;2020;24.11.2020;WZ;22
+P³yta monta¿owa pod pas zêbaty;30 HTD 8M;szt;2020;2.12.2020;WZ;2
+P³yta monta¿owa pod pas zêbaty;30 HTD 8M;szt;2020 Razem;;;68
+P³yta monta¿owa pod pas zêbaty;30 HTD 8M;szt;2021;8.02.2021;WZ;2
+P³yta monta¿owa pod pas zêbaty;30 HTD 8M;szt;2021;18.03.2021;WZ;20
+P³yta monta¿owa pod pas zêbaty;30 HTD 8M;szt;2021;23.03.2021;WZ;30
+P³yta monta¿owa pod pas zêbaty;30 HTD 8M;szt;2021;6.04.2021;WZ;2
+P³yta monta¿owa pod pas zêbaty;30 HTD 8M;szt;2021;13.04.2021;WZ;8
+P³yta monta¿owa pod pas zêbaty;30 HTD 8M;szt;2021;22.04.2021;WZ;4
+P³yta monta¿owa pod pas zêbaty;30 HTD 8M;szt;2021;21.05.2021;WZ;2
+P³yta monta¿owa pod pas zêbaty;30 HTD 8M;szt;2021;19.08.2021;FSL;0
+P³yta monta¿owa pod pas zêbaty;30 HTD 8M;szt;2021;23.08.2021;WZ;4
+P³yta monta¿owa pod pas zêbaty;30 HTD 8M;szt;2021;31.08.2021;WZ;8
+P³yta monta¿owa pod pas zêbaty;30 HTD 8M;szt;2021;7.10.2021;WZ;2
+P³yta monta¿owa pod pas zêbaty;30 HTD 8M;szt;2021;20.10.2021;WZ;2
+P³yta monta¿owa pod pas zêbaty;30 HTD 8M;szt;2021;3.12.2021;WZ;1
+P³yta monta¿owa pod pas zêbaty;30 HTD 8M;szt;2021;21.12.2021;WZ;8
+P³yta monta¿owa pod pas zêbaty;30 HTD 8M;szt;2021 Razem;;;93
+P³yta monta¿owa pod pas zêbaty;30 HTD 8M;szt;2022;10.01.2022;WZ;6
+P³yta monta¿owa pod pas zêbaty;30 HTD 8M;szt;2022;3.03.2022;WZ;1
+P³yta monta¿owa pod pas zêbaty;30 HTD 8M;szt;2022;23.03.2022;WZ;4
+P³yta monta¿owa pod pas zêbaty;30 HTD 8M;szt;2022;30.03.2022;WZ;8
+P³yta monta¿owa pod pas zêbaty;30 HTD 8M;szt;2022;19.04.2022;WZ;4
+P³yta monta¿owa pod pas zêbaty;30 HTD 8M;szt;2022;21.04.2022;WZ;6
+P³yta monta¿owa pod pas zêbaty;30 HTD 8M;szt;2022;25.04.2022;WZ;4
+P³yta monta¿owa pod pas zêbaty;30 HTD 8M;szt;2022;31.08.2022;WZ;2
+P³yta monta¿owa pod pas zêbaty;30 HTD 8M;szt;2022;2.09.2022;WZ;4
+P³yta monta¿owa pod pas zêbaty;30 HTD 8M;szt;2022;13.09.2022;WZ;8
+P³yta monta¿owa pod pas zêbaty;30 HTD 8M;szt;2022;24.10.2022;WZ;8
+P³yta monta¿owa pod pas zêbaty;30 HTD 8M;szt;2022 Razem;;;55
+P³yta monta¿owa pod pas zêbaty;30 HTD 8M;szt;2023;28.02.2023;WZ;2
+P³yta monta¿owa pod pas zêbaty;30 HTD 8M;szt;2023;17.03.2023;WZ;2
+P³yta monta¿owa pod pas zêbaty;30 HTD 8M;szt;2023;30.05.2023;WZ;4
+P³yta monta¿owa pod pas zêbaty;30 HTD 8M;szt;2023;14.09.2023;WZ;4
+P³yta monta¿owa pod pas zêbaty;30 HTD 8M;szt;2023;20.09.2023;WZ;2
+P³yta monta¿owa pod pas zêbaty;30 HTD 8M;szt;2023 Razem;;;14
+P³yta monta¿owa pod pas zêbaty;30 HTD 8M;szt;2024;9.01.2024;FSL;0
+P³yta monta¿owa pod pas zêbaty;30 HTD 8M;szt;2024;17.01.2024;WZ;4
+P³yta monta¿owa pod pas zêbaty;30 HTD 8M;szt;2024;13.02.2024;WZ;2
+P³yta monta¿owa pod pas zêbaty;30 HTD 8M;szt;2024;16.02.2024;WZ;4
+P³yta monta¿owa pod pas zêbaty;30 HTD 8M;szt;2024;26.02.2024;WZ;2
+P³yta monta¿owa pod pas zêbaty;30 HTD 8M;szt;2024;14.03.2024;WZ;6
+P³yta monta¿owa pod pas zêbaty;30 HTD 8M;szt;2024;18.03.2024;WZ;12
+P³yta monta¿owa pod pas zêbaty;30 HTD 8M;szt;2024;2.04.2024;WZ;14
+P³yta monta¿owa pod pas zêbaty;30 HTD 8M;szt;2024;22.04.2024;WZ;2
+P³yta monta¿owa pod pas zêbaty;30 HTD 8M;szt;2024;18.06.2024;WZ;1
+P³yta monta¿owa pod pas zêbaty;30 HTD 8M;szt;2024;28.06.2024;WZ;12
+P³yta monta¿owa pod pas zêbaty;30 HTD 8M;szt;2024;7.08.2024;WZ;8
+P³yta monta¿owa pod pas zêbaty;30 HTD 8M;szt;2024;27.08.2024;WZ;4
+P³yta monta¿owa pod pas zêbaty;30 HTD 8M;szt;2024;5.09.2024;WZ;4
+P³yta monta¿owa pod pas zêbaty;30 HTD 8M;szt;2024;10.09.2024;WZ;5
+P³yta monta¿owa pod pas zêbaty;30 HTD 8M;szt;2024;18.09.2024;WZ;4
+P³yta monta¿owa pod pas zêbaty;30 HTD 8M;szt;2024;21.11.2024;WZ;2
+P³yta monta¿owa pod pas zêbaty;30 HTD 8M;szt;2024;22.11.2024;WZ;4
+P³yta monta¿owa pod pas zêbaty;30 HTD 8M;szt;2024;29.11.2024;WZ;3
+P³yta monta¿owa pod pas zêbaty;30 HTD 8M;szt;2024;12.12.2024;WZ;4
+P³yta monta¿owa pod pas zêbaty;30 HTD 8M;szt;2024 Razem;;;97
+P³yta monta¿owa pod pas zêbaty;30 HTD 8M;szt;2025;31.01.2025;WZ;6
+P³yta monta¿owa pod pas zêbaty;30 HTD 8M;szt;2025;20.03.2025;WZ;4
+P³yta monta¿owa pod pas zêbaty;30 HTD 8M;szt;2025;25.03.2025;WZ;4
+P³yta monta¿owa pod pas zêbaty;30 HTD 8M;szt;2025;9.04.2025;WZ;2
+P³yta monta¿owa pod pas zêbaty;30 HTD 8M;szt;2025;5.05.2025;WZ;4
+P³yta monta¿owa pod pas zêbaty;30 HTD 8M;szt;2025;15.05.2025;WZ;4
+P³yta monta¿owa pod pas zêbaty;30 HTD 8M;szt;2025;22.05.2025;WZ;8
+P³yta monta¿owa pod pas zêbaty;30 HTD 8M;szt;2025;10.06.2025;WZ;3
+P³yta monta¿owa pod pas zêbaty;30 HTD 8M;szt;2025;16.06.2025;WZ;2
+P³yta monta¿owa pod pas zêbaty;30 HTD 8M;szt;2025;23.06.2025;WZ;4
+P³yta monta¿owa pod pas zêbaty;30 HTD 8M;szt;2025;25.06.2025;WZ;8
+P³yta monta¿owa pod pas zêbaty;30 HTD 8M;szt;2025;30.06.2025;WZ;2
+P³yta monta¿owa pod pas zêbaty;30 HTD 8M;szt;2025;7.08.2025;WZ;11
+P³yta monta¿owa pod pas zêbaty;30 HTD 8M;szt;2025;10.09.2025;WZ;2
+P³yta monta¿owa pod pas zêbaty;30 HTD 8M;szt;2025;3.10.2025;FSL;0
+P³yta monta¿owa pod pas zêbaty;30 HTD 8M;szt;2025;7.10.2025;WZ;4
+P³yta monta¿owa pod pas zêbaty;30 HTD 8M;szt;2025;17.10.2025;WZ;2
+P³yta monta¿owa pod pas zêbaty;30 HTD 8M;szt;2025;4.11.2025;WZ;4
+P³yta monta¿owa pod pas zêbaty;30 HTD 8M;szt;2025;7.11.2025;WZ;4
+P³yta monta¿owa pod pas zêbaty;30 HTD 8M;szt;2025;21.11.2025;WZ;4
+P³yta monta¿owa pod pas zêbaty;30 HTD 8M;szt;2025;9.12.2025;WZ;2
+P³yta monta¿owa pod pas zêbaty;30 HTD 8M;szt;2025 Razem;;;84
+P³yta monta¿owa pod pas zêbaty;30 HTD 8M;szt Razem;;;;411
+P³yta monta¿owa pod pas zêbaty;50 HTD 8M;szt;2020;5.03.2020;WZ;4
+P³yta monta¿owa pod pas zêbaty;50 HTD 8M;szt;2020;6.03.2020;WZ;2
+P³yta monta¿owa pod pas zêbaty;50 HTD 8M;szt;2020;24.03.2020;WZ;44
+P³yta monta¿owa pod pas zêbaty;50 HTD 8M;szt;2020;30.04.2020;WZ;12
+P³yta monta¿owa pod pas zêbaty;50 HTD 8M;szt;2020;11.05.2020;WZ;2
+P³yta monta¿owa pod pas zêbaty;50 HTD 8M;szt;2020;18.08.2020;WZ;12
+P³yta monta¿owa pod pas zêbaty;50 HTD 8M;szt;2020;19.08.2020;WZ;4
+P³yta monta¿owa pod pas zêbaty;50 HTD 8M;szt;2020;5.10.2020;WZ;4
+P³yta monta¿owa pod pas zêbaty;50 HTD 8M;szt;2020;14.10.2020;WZ;12
+P³yta monta¿owa pod pas zêbaty;50 HTD 8M;szt;2020;3.11.2020;WZ;2
+P³yta monta¿owa pod pas zêbaty;50 HTD 8M;szt;2020;10.11.2020;WZ;8
+P³yta monta¿owa pod pas zêbaty;50 HTD 8M;szt;2020;22.12.2020;WZ;1
+P³yta monta¿owa pod pas zêbaty;50 HTD 8M;szt;2020 Razem;;;107
+P³yta monta¿owa pod pas zêbaty;50 HTD 8M;szt;2021;17.02.2021;WZ;12
+P³yta monta¿owa pod pas zêbaty;50 HTD 8M;szt;2021;16.03.2021;WZ;2
+P³yta monta¿owa pod pas zêbaty;50 HTD 8M;szt;2021;23.03.2021;WZ;6
+P³yta monta¿owa pod pas zêbaty;50 HTD 8M;szt;2021;16.04.2021;WZ;2
+P³yta monta¿owa pod pas zêbaty;50 HTD 8M;szt;2021;26.04.2021;WZ;2
+P³yta monta¿owa pod pas zêbaty;50 HTD 8M;szt;2021;19.05.2021;WZ;4
+P³yta monta¿owa pod pas zêbaty;50 HTD 8M;szt;2021;7.06.2021;WZ;2
+P³yta monta¿owa pod pas zêbaty;50 HTD 8M;szt;2021;8.06.2021;WZ;4
+P³yta monta¿owa pod pas zêbaty;50 HTD 8M;szt;2021;2.07.2021;WZ;1
+P³yta monta¿owa pod pas zêbaty;50 HTD 8M;szt;2021;12.07.2021;WZ;1
+P³yta monta¿owa pod pas zêbaty;50 HTD 8M;szt;2021;2.08.2021;WZ;2
+P³yta monta¿owa pod pas zêbaty;50 HTD 8M;szt;2021;11.08.2021;WZ;24
+P³yta monta¿owa pod pas zêbaty;50 HTD 8M;szt;2021;20.08.2021;WZ;4
+P³yta monta¿owa pod pas zêbaty;50 HTD 8M;szt;2021;17.09.2021;WZ;4
+P³yta monta¿owa pod pas zêbaty;50 HTD 8M;szt;2021;22.09.2021;WZ;8
+P³yta monta¿owa pod pas zêbaty;50 HTD 8M;szt;2021;13.10.2021;WZ;4
+P³yta monta¿owa pod pas zêbaty;50 HTD 8M;szt;2021;20.10.2021;WZ;3
+P³yta monta¿owa pod pas zêbaty;50 HTD 8M;szt;2021;23.11.2021;WZ;1
+P³yta monta¿owa pod pas zêbaty;50 HTD 8M;szt;2021 Razem;;;86
+P³yta monta¿owa pod pas zêbaty;50 HTD 8M;szt;2022;20.01.2022;WZ;8
+P³yta monta¿owa pod pas zêbaty;50 HTD 8M;szt;2022;11.02.2022;WZ;4
+P³yta monta¿owa pod pas zêbaty;50 HTD 8M;szt;2022;16.02.2022;WZ;4
+P³yta monta¿owa pod pas zêbaty;50 HTD 8M;szt;2022;22.02.2022;WZ;4
+P³yta monta¿owa pod pas zêbaty;50 HTD 8M;szt;2022;31.03.2022;WZ;2
+P³yta monta¿owa pod pas zêbaty;50 HTD 8M;szt;2022;24.08.2022;WZ;2
+P³yta monta¿owa pod pas zêbaty;50 HTD 8M;szt;2022;21.09.2022;WZ;6
+P³yta monta¿owa pod pas zêbaty;50 HTD 8M;szt;2022;19.12.2022;WZ;2
+P³yta monta¿owa pod pas zêbaty;50 HTD 8M;szt;2022 Razem;;;32
+P³yta monta¿owa pod pas zêbaty;50 HTD 8M;szt;2023;2.02.2023;WZ;5
+P³yta monta¿owa pod pas zêbaty;50 HTD 8M;szt;2023;9.02.2023;WZ;2
+P³yta monta¿owa pod pas zêbaty;50 HTD 8M;szt;2023;15.02.2023;WZ;4
+P³yta monta¿owa pod pas zêbaty;50 HTD 8M;szt;2023;16.02.2023;WZ;2
+P³yta monta¿owa pod pas zêbaty;50 HTD 8M;szt;2023;28.03.2023;WZ;6
+P³yta monta¿owa pod pas zêbaty;50 HTD 8M;szt;2023;3.04.2023;WZ;2
+P³yta monta¿owa pod pas zêbaty;50 HTD 8M;szt;2023;11.04.2023;WZ;4
+P³yta monta¿owa pod pas zêbaty;50 HTD 8M;szt;2023;14.06.2023;WZ;8
+P³yta monta¿owa pod pas zêbaty;50 HTD 8M;szt;2023;18.07.2023;WZ;12
+P³yta monta¿owa pod pas zêbaty;50 HTD 8M;szt;2023;26.07.2023;WZ;4
+P³yta monta¿owa pod pas zêbaty;50 HTD 8M;szt;2023;30.08.2023;WZ;4
+P³yta monta¿owa pod pas zêbaty;50 HTD 8M;szt;2023;22.09.2023;WZ;4
+P³yta monta¿owa pod pas zêbaty;50 HTD 8M;szt;2023 Razem;;;57
+P³yta monta¿owa pod pas zêbaty;50 HTD 8M;szt;2024;1.02.2024;WZ;4
+P³yta monta¿owa pod pas zêbaty;50 HTD 8M;szt;2024;2.04.2024;WZ;2
+P³yta monta¿owa pod pas zêbaty;50 HTD 8M;szt;2024;12.04.2024;WZ;2
+P³yta monta¿owa pod pas zêbaty;50 HTD 8M;szt;2024;23.04.2024;WZ;2
+P³yta monta¿owa pod pas zêbaty;50 HTD 8M;szt;2024;26.04.2024;WZ;4
+P³yta monta¿owa pod pas zêbaty;50 HTD 8M;szt;2024;8.05.2024;WZ;16
+P³yta monta¿owa pod pas zêbaty;50 HTD 8M;szt;2024;16.05.2024;WZ;2
+P³yta monta¿owa pod pas zêbaty;50 HTD 8M;szt;2024;27.05.2024;WZ;2
+P³yta monta¿owa pod pas zêbaty;50 HTD 8M;szt;2024;31.07.2024;FSL;0
+P³yta monta¿owa pod pas zêbaty;50 HTD 8M;szt;2024;31.07.2024;WZ;1
+P³yta monta¿owa pod pas zêbaty;50 HTD 8M;szt;2024;2024/07/31 Razem;;1
+P³yta monta¿owa pod pas zêbaty;50 HTD 8M;szt;2024;3.09.2024;WZ;4
+P³yta monta¿owa pod pas zêbaty;50 HTD 8M;szt;2024;18.10.2024;WZ;5
+P³yta monta¿owa pod pas zêbaty;50 HTD 8M;szt;2024;23.10.2024;WZ;2
+P³yta monta¿owa pod pas zêbaty;50 HTD 8M;szt;2024;7.11.2024;WZ;4
+P³yta monta¿owa pod pas zêbaty;50 HTD 8M;szt;2024;18.12.2024;WZ;2
+P³yta monta¿owa pod pas zêbaty;50 HTD 8M;szt;2024;20.12.2024;WZ;2
+P³yta monta¿owa pod pas zêbaty;50 HTD 8M;szt;2024 Razem;;;54
+P³yta monta¿owa pod pas zêbaty;50 HTD 8M;szt;2025;17.02.2025;FSL;0
+P³yta monta¿owa pod pas zêbaty;50 HTD 8M;szt;2025;26.02.2025;WZ;8
+P³yta monta¿owa pod pas zêbaty;50 HTD 8M;szt;2025;14.04.2025;WZ;4
+P³yta monta¿owa pod pas zêbaty;50 HTD 8M;szt;2025;22.04.2025;WZ;1
+P³yta monta¿owa pod pas zêbaty;50 HTD 8M;szt;2025;13.05.2025;WZ;6
+P³yta monta¿owa pod pas zêbaty;50 HTD 8M;szt;2025;27.06.2025;WZ;3
+P³yta monta¿owa pod pas zêbaty;50 HTD 8M;szt;2025;2.07.2025;FSL;0
+P³yta monta¿owa pod pas zêbaty;50 HTD 8M;szt;2025;3.07.2025;WZ;12
+P³yta monta¿owa pod pas zêbaty;50 HTD 8M;szt;2025;6.08.2025;WZE;4
+P³yta monta¿owa pod pas zêbaty;50 HTD 8M;szt;2025;11.09.2025;WZ;4
+P³yta monta¿owa pod pas zêbaty;50 HTD 8M;szt;2025;15.10.2025;WZE;6
+P³yta monta¿owa pod pas zêbaty;50 HTD 8M;szt;2025;22.10.2025;WZ;1
+P³yta monta¿owa pod pas zêbaty;50 HTD 8M;szt;2025;27.10.2025;FSL;0
+P³yta monta¿owa pod pas zêbaty;50 HTD 8M;szt;2025;13.11.2025;WZ;6
+P³yta monta¿owa pod pas zêbaty;50 HTD 8M;szt;2025;19.11.2025;WZ;6
+P³yta monta¿owa pod pas zêbaty;50 HTD 8M;szt;2025 Razem;;;61
+P³yta monta¿owa pod pas zêbaty;50 HTD 8M;szt Razem;;;;397
+P³ytka mocuj¹ca;25 HTD 5M;szt;2020;10.02.2020;WZ;1
+P³ytka mocuj¹ca;25 HTD 5M;szt;2020;28.07.2020;WZ;4
+P³ytka mocuj¹ca;25 HTD 5M;szt;2020;11.08.2020;WZ;4
+P³ytka mocuj¹ca;25 HTD 5M;szt;2020;8.09.2020;WZ;4
+P³ytka mocuj¹ca;25 HTD 5M;szt;2020;18.09.2020;WZ;8
+P³ytka mocuj¹ca;25 HTD 5M;szt;2020;23.09.2020;WZ;2
+P³ytka mocuj¹ca;25 HTD 5M;szt;2020;24.09.2020;WZ;2
+P³ytka mocuj¹ca;25 HTD 5M;szt;2020;20.10.2020;WZ;4
+P³ytka mocuj¹ca;25 HTD 5M;szt;2020;21.10.2020;WZ;1
+P³ytka mocuj¹ca;25 HTD 5M;szt;2020 Razem;;;30
+P³ytka mocuj¹ca;25 HTD 5M;szt;2021;14.01.2021;WZ;16
+P³ytka mocuj¹ca;25 HTD 5M;szt;2021;22.02.2021;WZ;4
+P³ytka mocuj¹ca;25 HTD 5M;szt;2021;18.03.2021;WZ;40
+P³ytka mocuj¹ca;25 HTD 5M;szt;2021;30.03.2021;WZ;4
+P³ytka mocuj¹ca;25 HTD 5M;szt;2021;16.04.2021;WZ;2
+P³ytka mocuj¹ca;25 HTD 5M;szt;2021;10.06.2021;WZ;2
+P³ytka mocuj¹ca;25 HTD 5M;szt;2021;24.08.2021;WZ;4
+P³ytka mocuj¹ca;25 HTD 5M;szt;2021;3.09.2021;WZ;4
+P³ytka mocuj¹ca;25 HTD 5M;szt;2021;19.11.2021;WZ;12
+P³ytka mocuj¹ca;25 HTD 5M;szt;2021;24.11.2021;WZ;2
+P³ytka mocuj¹ca;25 HTD 5M;szt;2021 Razem;;;90
+P³ytka mocuj¹ca;25 HTD 5M;szt;2022;10.01.2022;WZ;4
+P³ytka mocuj¹ca;25 HTD 5M;szt;2022;16.02.2022;WZ;8
+P³ytka mocuj¹ca;25 HTD 5M;szt;2022;1.03.2022;WZ;4
+P³ytka mocuj¹ca;25 HTD 5M;szt;2022;4.04.2022;WZ;2
+P³ytka mocuj¹ca;25 HTD 5M;szt;2022;19.07.2022;WZ;4
+P³ytka mocuj¹ca;25 HTD 5M;szt;2022 Razem;;;22
+P³ytka mocuj¹ca;25 HTD 5M;szt;2023;10.02.2023;WZ;1
+P³ytka mocuj¹ca;25 HTD 5M;szt;2023;3.03.2023;WZ;4
+P³ytka mocuj¹ca;25 HTD 5M;szt;2023;13.03.2023;WZ;4
+P³ytka mocuj¹ca;25 HTD 5M;szt;2023;26.04.2023;WZ;16
+P³ytka mocuj¹ca;25 HTD 5M;szt;2023;15.06.2023;WZ;1
+P³ytka mocuj¹ca;25 HTD 5M;szt;2023;13.07.2023;WZ;1
+P³ytka mocuj¹ca;25 HTD 5M;szt;2023;4.08.2023;WZ;4
+P³ytka mocuj¹ca;25 HTD 5M;szt;2023;30.08.2023;WZ;24
+P³ytka mocuj¹ca;25 HTD 5M;szt;2023;15.09.2023;WZ;1
+P³ytka mocuj¹ca;25 HTD 5M;szt;2023;10.10.2023;WZ;1
+P³ytka mocuj¹ca;25 HTD 5M;szt;2023;11.10.2023;WZ;8
+P³ytka mocuj¹ca;25 HTD 5M;szt;2023;5.12.2023;WZ;8
+P³ytka mocuj¹ca;25 HTD 5M;szt;2023 Razem;;;73
+P³ytka mocuj¹ca;25 HTD 5M;szt;2024;29.05.2024;WZ;2
+P³ytka mocuj¹ca;25 HTD 5M;szt;2024;11.06.2024;WZ;1
+P³ytka mocuj¹ca;25 HTD 5M;szt;2024;11.07.2024;WZ;4
+P³ytka mocuj¹ca;25 HTD 5M;szt;2024;12.09.2024;WZ;2
+P³ytka mocuj¹ca;25 HTD 5M;szt;2024;15.10.2024;WZ;2
+P³ytka mocuj¹ca;25 HTD 5M;szt;2024;20.11.2024;WZ;8
+P³ytka mocuj¹ca;25 HTD 5M;szt;2024 Razem;;;19
+P³ytka mocuj¹ca;25 HTD 5M;szt;2025;15.01.2025;WZ;4
+P³ytka mocuj¹ca;25 HTD 5M;szt;2025;28.02.2025;WZ;6
+P³ytka mocuj¹ca;25 HTD 5M;szt;2025;7.03.2025;WZ;4
+P³ytka mocuj¹ca;25 HTD 5M;szt;2025;1.04.2025;WZ;6
+P³ytka mocuj¹ca;25 HTD 5M;szt;2025;14.05.2025;FSL;0
+P³ytka mocuj¹ca;25 HTD 5M;szt;2025;28.05.2025;WZ;4
+P³ytka mocuj¹ca;25 HTD 5M;szt;2025;27.06.2025;WZ;1
+P³ytka mocuj¹ca;25 HTD 5M;szt;2025;3.07.2025;WZ;2
+P³ytka mocuj¹ca;25 HTD 5M;szt;2025;24.07.2025;WZ;4
+P³ytka mocuj¹ca;25 HTD 5M;szt;2025;10.09.2025;WZ;8
+P³ytka mocuj¹ca;25 HTD 5M;szt;2025;11.09.2025;WZ;4
+P³ytka mocuj¹ca;25 HTD 5M;szt;2025;26.09.2025;WZ;10
+P³ytka mocuj¹ca;25 HTD 5M;szt;2025;22.10.2025;WZ;4
+P³ytka mocuj¹ca;25 HTD 5M;szt;2025 Razem;;;57
+P³ytka mocuj¹ca;25 HTD 5M;szt Razem;;;;291
+P³ytka mocuj¹ca;25 AT10;szt;2020;10.01.2020;WZ;1
+P³ytka mocuj¹ca;25 AT10;szt;2020;6.02.2020;WZ;4
+P³ytka mocuj¹ca;25 AT10;szt;2020;4.11.2020;WZ;4
+P³ytka mocuj¹ca;25 AT10;szt;2020;16.12.2020;WZ;2
+P³ytka mocuj¹ca;25 AT10;szt;2020 Razem;;;11
+P³ytka mocuj¹ca;25 AT10;szt;2021;13.01.2021;WZ;8
+P³ytka mocuj¹ca;25 AT10;szt;2021;26.01.2021;WZ;4
+P³ytka mocuj¹ca;25 AT10;szt;2021;17.03.2021;WZ;2
+P³ytka mocuj¹ca;25 AT10;szt;2021;5.05.2021;WZE;4
+P³ytka mocuj¹ca;25 AT10;szt;2021;27.05.2021;WZ;4
+P³ytka mocuj¹ca;25 AT10;szt;2021;7.06.2021;WZ;4
+P³ytka mocuj¹ca;25 AT10;szt;2021;1.07.2021;WZ;2
+P³ytka mocuj¹ca;25 AT10;szt;2021;2.07.2021;WZ;9
+P³ytka mocuj¹ca;25 AT10;szt;2021;13.07.2021;WZ;2
+P³ytka mocuj¹ca;25 AT10;szt;2021;22.07.2021;WZ;4
+P³ytka mocuj¹ca;25 AT10;szt;2021;23.07.2021;WZ;1
+P³ytka mocuj¹ca;25 AT10;szt;2021;23.09.2021;WZ;1
+P³ytka mocuj¹ca;25 AT10;szt;2021;15.11.2021;WZ;1
+P³ytka mocuj¹ca;25 AT10;szt;2021;23.11.2021;WZ;8
+P³ytka mocuj¹ca;25 AT10;szt;2021 Razem;;;54
+P³ytka mocuj¹ca;25 AT10;szt;2022;24.02.2022;WZ;5
+P³ytka mocuj¹ca;25 AT10;szt;2022;22.03.2022;WZ;2
+P³ytka mocuj¹ca;25 AT10;szt;2022;31.03.2022;WZ;4
+P³ytka mocuj¹ca;25 AT10;szt;2022;13.04.2022;WZ;2
+P³ytka mocuj¹ca;25 AT10;szt;2022;6.05.2022;WZ;4
+P³ytka mocuj¹ca;25 AT10;szt;2022;28.07.2022;FSL;0
+P³ytka mocuj¹ca;25 AT10;szt;2022;29.07.2022;WZ;6
+P³ytka mocuj¹ca;25 AT10;szt;2022;8.09.2022;WZ;4
+P³ytka mocuj¹ca;25 AT10;szt;2022;15.09.2022;WZ;6
+P³ytka mocuj¹ca;25 AT10;szt;2022;12.10.2022;WZ;4
+P³ytka mocuj¹ca;25 AT10;szt;2022;25.10.2022;WZ;2
+P³ytka mocuj¹ca;25 AT10;szt;2022;15.12.2022;WZ;4
+P³ytka mocuj¹ca;25 AT10;szt;2022;21.12.2022;WZ;1
+P³ytka mocuj¹ca;25 AT10;szt;2022 Razem;;;44
+P³ytka mocuj¹ca;25 AT10;szt;2023;17.01.2023;WZE;4
+P³ytka mocuj¹ca;25 AT10;szt;2023;20.02.2023;WZ;2
+P³ytka mocuj¹ca;25 AT10;szt;2023;28.04.2023;WZ;4
+P³ytka mocuj¹ca;25 AT10;szt;2023 Razem;;;10
+P³ytka mocuj¹ca;25 AT10;szt;2024;10.01.2024;WZ;2
+P³ytka mocuj¹ca;25 AT10;szt;2024;6.02.2024;WZ;4
+P³ytka mocuj¹ca;25 AT10;szt;2024;5.03.2024;WZ;12
+P³ytka mocuj¹ca;25 AT10;szt;2024;19.03.2024;WZ;16
+P³ytka mocuj¹ca;25 AT10;szt;2024;29.05.2024;WZ;16
+P³ytka mocuj¹ca;25 AT10;szt;2024;11.07.2024;WZ;4
+P³ytka mocuj¹ca;25 AT10;szt;2024;17.07.2024;WZ;17
+P³ytka mocuj¹ca;25 AT10;szt;2024;18.09.2024;WZ;4
+P³ytka mocuj¹ca;25 AT10;szt;2024 Razem;;;75
+P³ytka mocuj¹ca;25 AT10;szt;2025;7.01.2025;WZ;4
+P³ytka mocuj¹ca;25 AT10;szt;2025;9.01.2025;WZ;2
+P³ytka mocuj¹ca;25 AT10;szt;2025;17.01.2025;WZ;4
+P³ytka mocuj¹ca;25 AT10;szt;2025;15.07.2025;WZ;2
+P³ytka mocuj¹ca;25 AT10;szt;2025;23.07.2025;WZ;8
+P³ytka mocuj¹ca;25 AT10;szt;2025;28.07.2025;WZ;2
+P³ytka mocuj¹ca;25 AT10;szt;2025;14.08.2025;WZ;4
+P³ytka mocuj¹ca;25 AT10;szt;2025;11.09.2025;WZ;16
+P³ytka mocuj¹ca;25 AT10;szt;2025 Razem;;;42
+P³ytka mocuj¹ca;25 AT10;szt Razem;;;;236
+P³yta monta¿owa pod pas zêbaty;20 HTD 8M;szt;2020;28.01.2020;WZ;2
+P³yta monta¿owa pod pas zêbaty;20 HTD 8M;szt;2020;31.01.2020;WZ;2
+P³yta monta¿owa pod pas zêbaty;20 HTD 8M;szt;2020;7.02.2020;WZ;2
+P³yta monta¿owa pod pas zêbaty;20 HTD 8M;szt;2020;25.09.2020;WZ;6
+P³yta monta¿owa pod pas zêbaty;20 HTD 8M;szt;2020 Razem;;;12
+P³yta monta¿owa pod pas zêbaty;20 HTD 8M;szt;2021;22.01.2021;WZ;2
+P³yta monta¿owa pod pas zêbaty;20 HTD 8M;szt;2021;21.05.2021;WZ;2
+P³yta monta¿owa pod pas zêbaty;20 HTD 8M;szt;2021;1.06.2021;WZ;2
+P³yta monta¿owa pod pas zêbaty;20 HTD 8M;szt;2021;7.06.2021;WZ;4
+P³yta monta¿owa pod pas zêbaty;20 HTD 8M;szt;2021;25.06.2021;WZ;8
+P³yta monta¿owa pod pas zêbaty;20 HTD 8M;szt;2021;2.08.2021;WZ;4
+P³yta monta¿owa pod pas zêbaty;20 HTD 8M;szt;2021;20.10.2021;WZ;22
+P³yta monta¿owa pod pas zêbaty;20 HTD 8M;szt;2021 Razem;;;44
+P³yta monta¿owa pod pas zêbaty;20 HTD 8M;szt;2022;25.03.2022;WZ;39
+P³yta monta¿owa pod pas zêbaty;20 HTD 8M;szt;2022;26.05.2022;WZ;1
+P³yta monta¿owa pod pas zêbaty;20 HTD 8M;szt;2022;12.10.2022;WZ;2
+P³yta monta¿owa pod pas zêbaty;20 HTD 8M;szt;2022;16.11.2022;WZ;2
+P³yta monta¿owa pod pas zêbaty;20 HTD 8M;szt;2022;18.11.2022;WZ;3
+P³yta monta¿owa pod pas zêbaty;20 HTD 8M;szt;2022;29.11.2022;WZ;4
+P³yta monta¿owa pod pas zêbaty;20 HTD 8M;szt;2022 Razem;;;51
+P³yta monta¿owa pod pas zêbaty;20 HTD 8M;szt;2023;22.03.2023;WZ;2
+P³yta monta¿owa pod pas zêbaty;20 HTD 8M;szt;2023;25.05.2023;WZ;2
+P³yta monta¿owa pod pas zêbaty;20 HTD 8M;szt;2023;20.07.2023;WZ;4
+P³yta monta¿owa pod pas zêbaty;20 HTD 8M;szt;2023;3.08.2023;WZ;4
+P³yta monta¿owa pod pas zêbaty;20 HTD 8M;szt;2023;7.08.2023;WZ;8
+P³yta monta¿owa pod pas zêbaty;20 HTD 8M;szt;2023;8.09.2023;WZ;8
+P³yta monta¿owa pod pas zêbaty;20 HTD 8M;szt;2023;15.11.2023;WZ;1
+P³yta monta¿owa pod pas zêbaty;20 HTD 8M;szt;2023;16.11.2023;WZ;1
+P³yta monta¿owa pod pas zêbaty;20 HTD 8M;szt;2023;21.11.2023;WZ;6
+P³yta monta¿owa pod pas zêbaty;20 HTD 8M;szt;2023;11.12.2023;WZ;1
+P³yta monta¿owa pod pas zêbaty;20 HTD 8M;szt;2023;12.12.2023;WZ;3
+P³yta monta¿owa pod pas zêbaty;20 HTD 8M;szt;2023 Razem;;;40
+P³yta monta¿owa pod pas zêbaty;20 HTD 8M;szt;2024;24.01.2024;WZ;2
+P³yta monta¿owa pod pas zêbaty;20 HTD 8M;szt;2024;31.01.2024;WZ;2
+P³yta monta¿owa pod pas zêbaty;20 HTD 8M;szt;2024;12.02.2024;WZ;3
+P³yta monta¿owa pod pas zêbaty;20 HTD 8M;szt;2024;15.02.2024;WZ;1
+P³yta monta¿owa pod pas zêbaty;20 HTD 8M;szt;2024;26.02.2024;WZ;1
+P³yta monta¿owa pod pas zêbaty;20 HTD 8M;szt;2024;13.03.2024;WZ;2
+P³yta monta¿owa pod pas zêbaty;20 HTD 8M;szt;2024;14.03.2024;WZ;1
+P³yta monta¿owa pod pas zêbaty;20 HTD 8M;szt;2024;19.03.2024;WZ;7
+P³yta monta¿owa pod pas zêbaty;20 HTD 8M;szt;2024;20.03.2024;WZ;1
+P³yta monta¿owa pod pas zêbaty;20 HTD 8M;szt;2024;28.03.2024;WZ;4
+P³yta monta¿owa pod pas zêbaty;20 HTD 8M;szt;2024;29.03.2024;WZ;2
+P³yta monta¿owa pod pas zêbaty;20 HTD 8M;szt;2024;9.05.2024;WZ;1
+P³yta monta¿owa pod pas zêbaty;20 HTD 8M;szt;2024;17.05.2024;WZ;1
+P³yta monta¿owa pod pas zêbaty;20 HTD 8M;szt;2024;12.06.2024;WZ;1
+P³yta monta¿owa pod pas zêbaty;20 HTD 8M;szt;2024;10.07.2024;WZ;1
+P³yta monta¿owa pod pas zêbaty;20 HTD 8M;szt;2024;18.07.2024;WZ;3
+P³yta monta¿owa pod pas zêbaty;20 HTD 8M;szt;2024;9.08.2024;WZ;4
+P³yta monta¿owa pod pas zêbaty;20 HTD 8M;szt;2024;2.10.2024;WZ;1
+P³yta monta¿owa pod pas zêbaty;20 HTD 8M;szt;2024;4.10.2024;WZ;2
+P³yta monta¿owa pod pas zêbaty;20 HTD 8M;szt;2024;7.11.2024;WZ;4
+P³yta monta¿owa pod pas zêbaty;20 HTD 8M;szt;2024;14.11.2024;WZ;8
+P³yta monta¿owa pod pas zêbaty;20 HTD 8M;szt;2024;3.12.2024;WZ;4
+P³yta monta¿owa pod pas zêbaty;20 HTD 8M;szt;2024 Razem;;;56
+P³yta monta¿owa pod pas zêbaty;20 HTD 8M;szt;2025;9.04.2025;FSL;0
+P³yta monta¿owa pod pas zêbaty;20 HTD 8M;szt;2025;11.04.2025;WZ;4
+P³yta monta¿owa pod pas zêbaty;20 HTD 8M;szt;2025;14.05.2025;FSL;0
+P³yta monta¿owa pod pas zêbaty;20 HTD 8M;szt;2025;28.05.2025;WZ;4
+P³yta monta¿owa pod pas zêbaty;20 HTD 8M;szt;2025;3.07.2025;WZ;1
+P³yta monta¿owa pod pas zêbaty;20 HTD 8M;szt;2025;14.07.2025;WZ;4
+P³yta monta¿owa pod pas zêbaty;20 HTD 8M;szt;2025;16.07.2025;WZ;6
+P³yta monta¿owa pod pas zêbaty;20 HTD 8M;szt;2025;7.10.2025;WZ;4
+P³yta monta¿owa pod pas zêbaty;20 HTD 8M;szt;2025;10.10.2025;WZ;1
+P³yta monta¿owa pod pas zêbaty;20 HTD 8M;szt;2025;22.10.2025;WZ;1
+P³yta monta¿owa pod pas zêbaty;20 HTD 8M;szt;2025 Razem;;;25
+P³yta monta¿owa pod pas zêbaty;20 HTD 8M;szt Razem;;;;228
+P³ytka mocuj¹ca pod pas zêbaty;50 AT10;szt;2020;5.03.2020;WZ;4
+P³ytka mocuj¹ca pod pas zêbaty;50 AT10;szt;2020;26.03.2020;WZ;4
+P³ytka mocuj¹ca pod pas zêbaty;50 AT10;szt;2020;30.03.2020;WZ;4
+P³ytka mocuj¹ca pod pas zêbaty;50 AT10;szt;2020;5.05.2020;WZ;4
+P³ytka mocuj¹ca pod pas zêbaty;50 AT10;szt;2020;11.05.2020;WZ;1
+P³ytka mocuj¹ca pod pas zêbaty;50 AT10;szt;2020;27.05.2020;WZ;6
+P³ytka mocuj¹ca pod pas zêbaty;50 AT10;szt;2020;8.06.2020;WZ;1
+P³ytka mocuj¹ca pod pas zêbaty;50 AT10;szt;2020;18.06.2020;WZ;4
+P³ytka mocuj¹ca pod pas zêbaty;50 AT10;szt;2020;3.07.2020;WZ;8
+P³ytka mocuj¹ca pod pas zêbaty;50 AT10;szt;2020;6.08.2020;WZ;4
+P³ytka mocuj¹ca pod pas zêbaty;50 AT10;szt;2020;2.09.2020;WZ;4
+P³ytka mocuj¹ca pod pas zêbaty;50 AT10;szt;2020;5.10.2020;WZ;4
+P³ytka mocuj¹ca pod pas zêbaty;50 AT10;szt;2020 Razem;;;48
+P³ytka mocuj¹ca pod pas zêbaty;50 AT10;szt;2021;7.01.2021;WZ;4
+P³ytka mocuj¹ca pod pas zêbaty;50 AT10;szt;2021;18.01.2021;WZ;4
+P³ytka mocuj¹ca pod pas zêbaty;50 AT10;szt;2021;18.05.2021;WZ;2
+P³ytka mocuj¹ca pod pas zêbaty;50 AT10;szt;2021;21.06.2021;WZ;4
+P³ytka mocuj¹ca pod pas zêbaty;50 AT10;szt;2021;23.07.2021;WZ;2
+P³ytka mocuj¹ca pod pas zêbaty;50 AT10;szt;2021;28.09.2021;WZ;18
+P³ytka mocuj¹ca pod pas zêbaty;50 AT10;szt;2021;1.10.2021;WZ;4
+P³ytka mocuj¹ca pod pas zêbaty;50 AT10;szt;2021;15.10.2021;WZ;8
+P³ytka mocuj¹ca pod pas zêbaty;50 AT10;szt;2021;23.11.2021;WZ;4
+P³ytka mocuj¹ca pod pas zêbaty;50 AT10;szt;2021 Razem;;;50
+P³ytka mocuj¹ca pod pas zêbaty;50 AT10;szt;2022;6.05.2022;WZ;3
+P³ytka mocuj¹ca pod pas zêbaty;50 AT10;szt;2022;12.05.2022;WZ;3
+P³ytka mocuj¹ca pod pas zêbaty;50 AT10;szt;2022;21.07.2022;WZ;1
+P³ytka mocuj¹ca pod pas zêbaty;50 AT10;szt;2022;28.07.2022;WZ;2
+P³ytka mocuj¹ca pod pas zêbaty;50 AT10;szt;2022;16.09.2022;WZ;6
+P³ytka mocuj¹ca pod pas zêbaty;50 AT10;szt;2022 Razem;;;15
+P³ytka mocuj¹ca pod pas zêbaty;50 AT10;szt;2023;8.03.2023;WZ;4
+P³ytka mocuj¹ca pod pas zêbaty;50 AT10;szt;2023;16.03.2023;WZ;6
+P³ytka mocuj¹ca pod pas zêbaty;50 AT10;szt;2023;28.08.2023;WZ;2
+P³ytka mocuj¹ca pod pas zêbaty;50 AT10;szt;2023;20.09.2023;WZ;2
+P³ytka mocuj¹ca pod pas zêbaty;50 AT10;szt;2023;28.09.2023;WZ;16
+P³ytka mocuj¹ca pod pas zêbaty;50 AT10;szt;2023;2.10.2023;WZ;6
+P³ytka mocuj¹ca pod pas zêbaty;50 AT10;szt;2023 Razem;;;36
+P³ytka mocuj¹ca pod pas zêbaty;50 AT10;szt;2024;9.01.2024;WZ;2
+P³ytka mocuj¹ca pod pas zêbaty;50 AT10;szt;2024;18.09.2024;WZ;20
+P³ytka mocuj¹ca pod pas zêbaty;50 AT10;szt;2024;4.11.2024;WZ;2
+P³ytka mocuj¹ca pod pas zêbaty;50 AT10;szt;2024;8.11.2024;WZ;10
+P³ytka mocuj¹ca pod pas zêbaty;50 AT10;szt;2024 Razem;;;34
+P³ytka mocuj¹ca pod pas zêbaty;50 AT10;szt;2025;22.01.2025;WZ;10
+P³ytka mocuj¹ca pod pas zêbaty;50 AT10;szt;2025;12.02.2025;WZ;2
+P³ytka mocuj¹ca pod pas zêbaty;50 AT10;szt;2025;12.05.2025;WZ;2
+P³ytka mocuj¹ca pod pas zêbaty;50 AT10;szt;2025 Razem;;;14
+P³ytka mocuj¹ca pod pas zêbaty;50 AT10;szt Razem;;;;197
+P³ytka mocuj¹ca;32 AT10;szt;2020;18.03.2020;WZ;8
+P³ytka mocuj¹ca;32 AT10;szt;2020;27.05.2020;WZ;1
+P³ytka mocuj¹ca;32 AT10;szt;2020;2.09.2020;WZ;4
+P³ytka mocuj¹ca;32 AT10;szt;2020;24.09.2020;WZ;2
+P³ytka mocuj¹ca;32 AT10;szt;2020;2.12.2020;WZ;6
+P³ytka mocuj¹ca;32 AT10;szt;2020;16.12.2020;WZ;8
+P³ytka mocuj¹ca;32 AT10;szt;2020 Razem;;;29
+P³ytka mocuj¹ca;32 AT10;szt;2021;28.05.2021;WZ;1
+P³ytka mocuj¹ca;32 AT10;szt;2021;21.06.2021;WZ;2
+P³ytka mocuj¹ca;32 AT10;szt;2021;8.07.2021;WZ;4
+P³ytka mocuj¹ca;32 AT10;szt;2021;13.07.2021;WZ;32
+P³ytka mocuj¹ca;32 AT10;szt;2021;17.08.2021;WZ;2
+P³ytka mocuj¹ca;32 AT10;szt;2021;22.09.2021;WZ;2
+P³ytka mocuj¹ca;32 AT10;szt;2021;24.11.2021;FSL;0
+P³ytka mocuj¹ca;32 AT10;szt;2021;8.12.2021;WZ;4
+P³ytka mocuj¹ca;32 AT10;szt;2021 Razem;;;47
+P³ytka mocuj¹ca;32 AT10;szt;2022;26.01.2022;WZ;2
+P³ytka mocuj¹ca;32 AT10;szt;2022;29.03.2022;WZ;3
+P³ytka mocuj¹ca;32 AT10;szt;2022;1.04.2022;WZ;1
+P³ytka mocuj¹ca;32 AT10;szt;2022;14.07.2022;WZ;4
+P³ytka mocuj¹ca;32 AT10;szt;2022;30.08.2022;WZ;2
+P³ytka mocuj¹ca;32 AT10;szt;2022;15.12.2022;WZ;2
+P³ytka mocuj¹ca;32 AT10;szt;2022;20.12.2022;WZ;6
+P³ytka mocuj¹ca;32 AT10;szt;2022 Razem;;;20
+P³ytka mocuj¹ca;32 AT10;szt;2023;31.03.2023;WZ;4
+P³ytka mocuj¹ca;32 AT10;szt;2023;30.05.2023;WZ;4
+P³ytka mocuj¹ca;32 AT10;szt;2023;17.11.2023;WZ;2
+P³ytka mocuj¹ca;32 AT10;szt;2023 Razem;;;10
+P³ytka mocuj¹ca;32 AT10;szt;2024;7.03.2024;WZ;4
+P³ytka mocuj¹ca;32 AT10;szt;2024;23.04.2024;WZ;4
+P³ytka mocuj¹ca;32 AT10;szt;2024;5.06.2024;WZ;4
+P³ytka mocuj¹ca;32 AT10;szt;2024;13.06.2024;WZ;1
+P³ytka mocuj¹ca;32 AT10;szt;2024;20.06.2024;WZ;2
+P³ytka mocuj¹ca;32 AT10;szt;2024;23.07.2024;WZ;2
+P³ytka mocuj¹ca;32 AT10;szt;2024;26.09.2024;WZ;4
+P³ytka mocuj¹ca;32 AT10;szt;2024;30.10.2024;WZ;8
+P³ytka mocuj¹ca;32 AT10;szt;2024;8.11.2024;WZ;10
+P³ytka mocuj¹ca;32 AT10;szt;2024;28.11.2024;WZE;4
+P³ytka mocuj¹ca;32 AT10;szt;2024 Razem;;;43
+P³ytka mocuj¹ca;32 AT10;szt;2025;12.02.2025;WZ;4
+P³ytka mocuj¹ca;32 AT10;szt;2025;14.02.2025;WZ;2
+P³ytka mocuj¹ca;32 AT10;szt;2025;8.04.2025;WZ;4
+P³ytka mocuj¹ca;32 AT10;szt;2025;15.04.2025;WZ;2
+P³ytka mocuj¹ca;32 AT10;szt;2025;30.06.2025;WZ;1
+P³ytka mocuj¹ca;32 AT10;szt;2025;14.08.2025;WZ;18
+P³ytka mocuj¹ca;32 AT10;szt;2025 Razem;;;31
+P³ytka mocuj¹ca;32 AT10;szt Razem;;;;180
+P³yta monta¿owa pod pas zêbaty;16 T5;szt;2020;9.07.2020;WZ;1
+P³yta monta¿owa pod pas zêbaty;16 T5;szt;2020;28.10.2020;WZ;2
+P³yta monta¿owa pod pas zêbaty;16 T5;szt;2020 Razem;;;3
+P³yta monta¿owa pod pas zêbaty;16 T5;szt;2021;23.02.2021;WZ;1
+P³yta monta¿owa pod pas zêbaty;16 T5;szt;2021;11.08.2021;WZ;4
+P³yta monta¿owa pod pas zêbaty;16 T5;szt;2021 Razem;;;5
+P³yta monta¿owa pod pas zêbaty;16 T5;szt;2022;24.06.2022;WZ;10
+P³yta monta¿owa pod pas zêbaty;16 T5;szt;2022;23.09.2022;FSL;0
+P³yta monta¿owa pod pas zêbaty;16 T5;szt;2022;5.10.2022;WZ;64
+P³yta monta¿owa pod pas zêbaty;16 T5;szt;2022 Razem;;;74
+P³yta monta¿owa pod pas zêbaty;16 T5;szt;2023;14.04.2023;WZ;1
+P³yta monta¿owa pod pas zêbaty;16 T5;szt;2023;17.04.2023;WZ;4
+P³yta monta¿owa pod pas zêbaty;16 T5;szt;2023;4.05.2023;WZ;2
+P³yta monta¿owa pod pas zêbaty;16 T5;szt;2023;15.11.2023;WZ;6
+P³yta monta¿owa pod pas zêbaty;16 T5;szt;2023 Razem;;;13
+P³yta monta¿owa pod pas zêbaty;16 T5;szt;2024;26.01.2024;WZ;6
+P³yta monta¿owa pod pas zêbaty;16 T5;szt;2024;30.04.2024;WZ;28
+P³yta monta¿owa pod pas zêbaty;16 T5;szt;2024;29.08.2024;WZ;20
+P³yta monta¿owa pod pas zêbaty;16 T5;szt;2024;15.10.2024;WZ;12
+P³yta monta¿owa pod pas zêbaty;16 T5;szt;2024;22.10.2024;WZ;2
+P³yta monta¿owa pod pas zêbaty;16 T5;szt;2024 Razem;;;68
+P³yta monta¿owa pod pas zêbaty;16 T5;szt;2025;18.03.2025;WZ;1
+P³yta monta¿owa pod pas zêbaty;16 T5;szt;2025;11.12.2025;WZ;8
+P³yta monta¿owa pod pas zêbaty;16 T5;szt;2025 Razem;;;9
+P³yta monta¿owa pod pas zêbaty;16 T5;szt Razem;;;;172
+P³ytka monta¿owa pod pas zêbaty;25 AT5;szt;2020;19.06.2020;WZ;20
+P³ytka monta¿owa pod pas zêbaty;25 AT5;szt;2020;13.07.2020;WZ;20
+P³ytka monta¿owa pod pas zêbaty;25 AT5;szt;2020;2.12.2020;WZ;4
+P³ytka monta¿owa pod pas zêbaty;25 AT5;szt;2020 Razem;;;44
+P³ytka monta¿owa pod pas zêbaty;25 AT5;szt;2021;16.03.2021;WZ;2
+P³ytka monta¿owa pod pas zêbaty;25 AT5;szt;2021;14.05.2021;WZ;2
+P³ytka monta¿owa pod pas zêbaty;25 AT5;szt;2021;31.05.2021;WZ;3
+P³ytka monta¿owa pod pas zêbaty;25 AT5;szt;2021;30.07.2021;WZ;14
+P³ytka monta¿owa pod pas zêbaty;25 AT5;szt;2021;17.08.2021;WZ;8
+P³ytka monta¿owa pod pas zêbaty;25 AT5;szt;2021;31.08.2021;WZ;7
+P³ytka monta¿owa pod pas zêbaty;25 AT5;szt;2021;15.10.2021;WZ;8
+P³ytka monta¿owa pod pas zêbaty;25 AT5;szt;2021 Razem;;;44
+P³ytka monta¿owa pod pas zêbaty;25 AT5;szt;2022;8.02.2022;WZ;6
+P³ytka monta¿owa pod pas zêbaty;25 AT5;szt;2022;28.06.2022;WZ;1
+P³ytka monta¿owa pod pas zêbaty;25 AT5;szt;2022;5.08.2022;WZ;2
+P³ytka monta¿owa pod pas zêbaty;25 AT5;szt;2022;9.08.2022;WZ;7
+P³ytka monta¿owa pod pas zêbaty;25 AT5;szt;2022;31.10.2022;WZ;10
+P³ytka monta¿owa pod pas zêbaty;25 AT5;szt;2022;4.11.2022;WZ;10
+P³ytka monta¿owa pod pas zêbaty;25 AT5;szt;2022 Razem;;;36
+P³ytka monta¿owa pod pas zêbaty;25 AT5;szt;2023;5.01.2023;WZ;12
+P³ytka monta¿owa pod pas zêbaty;25 AT5;szt;2023;3.10.2023;WZ;2
+P³ytka monta¿owa pod pas zêbaty;25 AT5;szt;2023 Razem;;;14
+P³ytka monta¿owa pod pas zêbaty;25 AT5;szt;2024;4.04.2024;WZ;8
+P³ytka monta¿owa pod pas zêbaty;25 AT5;szt;2025;5.03.2025;WZ;4
+P³ytka monta¿owa pod pas zêbaty;25 AT5;szt;2025;29.04.2025;WZ;2
+P³ytka monta¿owa pod pas zêbaty;25 AT5;szt;2025;14.08.2025;WZ;12
+P³ytka monta¿owa pod pas zêbaty;25 AT5;szt;2025;25.09.2025;WZ;2
+P³ytka monta¿owa pod pas zêbaty;25 AT5;szt;2025 Razem;;;20
+P³ytka monta¿owa pod pas zêbaty;25 AT5;szt Razem;;;;166
+P³ytka monta¿owa pod pas zêbaty;16 AT5;szt;2020;23.01.2020;WZ;1
+P³ytka monta¿owa pod pas zêbaty;16 AT5;szt;2020;13.07.2020;WZ;6
+P³ytka monta¿owa pod pas zêbaty;16 AT5;szt;2020;26.08.2020;WZ;8
+P³ytka monta¿owa pod pas zêbaty;16 AT5;szt;2020;4.09.2020;WZ;8
+P³ytka monta¿owa pod pas zêbaty;16 AT5;szt;2020;25.09.2020;WZ;4
+P³ytka monta¿owa pod pas zêbaty;16 AT5;szt;2020;23.12.2020;FSL;0
+P³ytka monta¿owa pod pas zêbaty;16 AT5;szt;2020 Razem;;;27
+P³ytka monta¿owa pod pas zêbaty;16 AT5;szt;2021;7.01.2021;WZ;1
+P³ytka monta¿owa pod pas zêbaty;16 AT5;szt;2021;12.01.2021;WZ;7
+P³ytka monta¿owa pod pas zêbaty;16 AT5;szt;2021;19.01.2021;WZ;2
+P³ytka monta¿owa pod pas zêbaty;16 AT5;szt;2021;11.03.2021;WZ;4
+P³ytka monta¿owa pod pas zêbaty;16 AT5;szt;2021;5.05.2021;WZ;9
+P³ytka monta¿owa pod pas zêbaty;16 AT5;szt;2021;30.07.2021;WZ;24
+P³ytka monta¿owa pod pas zêbaty;16 AT5;szt;2021;19.08.2021;WZ;6
+P³ytka monta¿owa pod pas zêbaty;16 AT5;szt;2021;27.08.2021;WZ;2
+P³ytka monta¿owa pod pas zêbaty;16 AT5;szt;2021;26.10.2021;WZ;4
+P³ytka monta¿owa pod pas zêbaty;16 AT5;szt;2021 Razem;;;59
+P³ytka monta¿owa pod pas zêbaty;16 AT5;szt;2022;1.03.2022;WZ;5
+P³ytka monta¿owa pod pas zêbaty;16 AT5;szt;2022;9.08.2022;WZ;1
+P³ytka monta¿owa pod pas zêbaty;16 AT5;szt;2022;8.09.2022;WZ;2
+P³ytka monta¿owa pod pas zêbaty;16 AT5;szt;2022 Razem;;;8
+P³ytka monta¿owa pod pas zêbaty;16 AT5;szt;2023;31.05.2023;WZ;1
+P³ytka monta¿owa pod pas zêbaty;16 AT5;szt;2023;7.06.2023;WZ;10
+P³ytka monta¿owa pod pas zêbaty;16 AT5;szt;2023;24.10.2023;WZ;10
+P³ytka monta¿owa pod pas zêbaty;16 AT5;szt;2023;31.10.2023;FSL;0
+P³ytka monta¿owa pod pas zêbaty;16 AT5;szt;2023;15.11.2023;WZ;4
+P³ytka monta¿owa pod pas zêbaty;16 AT5;szt;2023 Razem;;;25
+P³ytka monta¿owa pod pas zêbaty;16 AT5;szt;2024;24.01.2024;WZ;2
+P³ytka monta¿owa pod pas zêbaty;16 AT5;szt;2024;9.02.2024;WZ;2
+P³ytka monta¿owa pod pas zêbaty;16 AT5;szt;2024;11.03.2024;WZ;17
+P³ytka monta¿owa pod pas zêbaty;16 AT5;szt;2024 Razem;;;21
+P³ytka monta¿owa pod pas zêbaty;16 AT5;szt Razem;;;;140
+P³yta monta¿owa pod pas zêbaty;32 T10;szt;2020;3.03.2020;WZ;2
+P³yta monta¿owa pod pas zêbaty;32 T10;szt;2020;13.03.2020;WZ;4
+P³yta monta¿owa pod pas zêbaty;32 T10;szt;2020;5.05.2020;WZ;2
+P³yta monta¿owa pod pas zêbaty;32 T10;szt;2020;28.05.2020;WZ;1
+P³yta monta¿owa pod pas zêbaty;32 T10;szt;2020;23.06.2020;WZ;1
+P³yta monta¿owa pod pas zêbaty;32 T10;szt;2020;7.07.2020;WZ;3
+P³yta monta¿owa pod pas zêbaty;32 T10;szt;2020;28.07.2020;WZ;1
+P³yta monta¿owa pod pas zêbaty;32 T10;szt;2020;23.09.2020;WZ;3
+P³yta monta¿owa pod pas zêbaty;32 T10;szt;2020;16.12.2020;WZ;2
+P³yta monta¿owa pod pas zêbaty;32 T10;szt;2020 Razem;;;19
+P³yta monta¿owa pod pas zêbaty;32 T10;szt;2021;21.01.2021;WZ;3
+P³yta monta¿owa pod pas zêbaty;32 T10;szt;2021;10.03.2021;WZ;2
+P³yta monta¿owa pod pas zêbaty;32 T10;szt;2021;8.04.2021;WZ;2
+P³yta monta¿owa pod pas zêbaty;32 T10;szt;2021;27.04.2021;WZ;8
+P³yta monta¿owa pod pas zêbaty;32 T10;szt;2021;12.05.2021;WZ;1
+P³yta monta¿owa pod pas zêbaty;32 T10;szt;2021;1.12.2021;WZ;8
+P³yta monta¿owa pod pas zêbaty;32 T10;szt;2021 Razem;;;24
+P³yta monta¿owa pod pas zêbaty;32 T10;szt;2022;12.01.2022;WZ;1
+P³yta monta¿owa pod pas zêbaty;32 T10;szt;2022;7.04.2022;WZ;4
+P³yta monta¿owa pod pas zêbaty;32 T10;szt;2022;14.06.2022;WZ;4
+P³yta monta¿owa pod pas zêbaty;32 T10;szt;2022;15.06.2022;WZ;2
+P³yta monta¿owa pod pas zêbaty;32 T10;szt;2022;21.06.2022;WZ;1
+P³yta monta¿owa pod pas zêbaty;32 T10;szt;2022;24.06.2022;WZ;1
+P³yta monta¿owa pod pas zêbaty;32 T10;szt;2022;30.06.2022;WZ;12
+P³yta monta¿owa pod pas zêbaty;32 T10;szt;2022 Razem;;;25
+P³yta monta¿owa pod pas zêbaty;32 T10;szt;2023;19.07.2023;WZ;3
+P³yta monta¿owa pod pas zêbaty;32 T10;szt;2023;8.11.2023;WZ;2
+P³yta monta¿owa pod pas zêbaty;32 T10;szt;2023 Razem;;;5
+P³yta monta¿owa pod pas zêbaty;32 T10;szt;2024;31.01.2024;WZ;6
+P³yta monta¿owa pod pas zêbaty;32 T10;szt;2024;1.02.2024;WZ;2
+P³yta monta¿owa pod pas zêbaty;32 T10;szt;2024;16.02.2024;WZ;4
+P³yta monta¿owa pod pas zêbaty;32 T10;szt;2024;6.03.2024;WZ;2
+P³yta monta¿owa pod pas zêbaty;32 T10;szt;2024;17.07.2024;WZ;3
+P³yta monta¿owa pod pas zêbaty;32 T10;szt;2024;20.08.2024;WZ;5
+P³yta monta¿owa pod pas zêbaty;32 T10;szt;2024 Razem;;;22
+P³yta monta¿owa pod pas zêbaty;32 T10;szt;2025;10.04.2025;WZ;30
+P³yta monta¿owa pod pas zêbaty;32 T10;szt;2025;10.06.2025;FSL;0
+P³yta monta¿owa pod pas zêbaty;32 T10;szt;2025;12.06.2025;WZ;2
+P³yta monta¿owa pod pas zêbaty;32 T10;szt;2025;17.11.2025;WZ;6
+P³yta monta¿owa pod pas zêbaty;32 T10;szt;2025 Razem;;;38
+P³yta monta¿owa pod pas zêbaty;32 T10;szt Razem;;;;133
+P³yta monta¿owa pod pas zêbaty;25 T10;szt;2020;29.05.2020;WZ;4
+P³yta monta¿owa pod pas zêbaty;25 T10;szt;2020;14.12.2020;WZ;12
+P³yta monta¿owa pod pas zêbaty;25 T10;szt;2020 Razem;;;16
+P³yta monta¿owa pod pas zêbaty;25 T10;szt;2021;19.01.2021;WZ;1
+P³yta monta¿owa pod pas zêbaty;25 T10;szt;2021;26.05.2021;WZ;2
+P³yta monta¿owa pod pas zêbaty;25 T10;szt;2021;27.05.2021;WZ;8
+P³yta monta¿owa pod pas zêbaty;25 T10;szt;2021;28.07.2021;WZ;8
+P³yta monta¿owa pod pas zêbaty;25 T10;szt;2021;4.10.2021;WZ;1
+P³yta monta¿owa pod pas zêbaty;25 T10;szt;2021;19.10.2021;WZ;2
+P³yta monta¿owa pod pas zêbaty;25 T10;szt;2021;27.10.2021;WZ;1
+P³yta monta¿owa pod pas zêbaty;25 T10;szt;2021;15.11.2021;WZ;4
+P³yta monta¿owa pod pas zêbaty;25 T10;szt;2021 Razem;;;27
+P³yta monta¿owa pod pas zêbaty;25 T10;szt;2022;7.04.2022;WZ;6
+P³yta monta¿owa pod pas zêbaty;25 T10;szt;2022;20.04.2022;WZ;2
+P³yta monta¿owa pod pas zêbaty;25 T10;szt;2022;21.04.2022;WZ;2
+P³yta monta¿owa pod pas zêbaty;25 T10;szt;2022;22.06.2022;WZ;2
+P³yta monta¿owa pod pas zêbaty;25 T10;szt;2022;26.08.2022;WZ;3
+P³yta monta¿owa pod pas zêbaty;25 T10;szt;2022 Razem;;;15
+P³yta monta¿owa pod pas zêbaty;25 T10;szt;2023;11.12.2023;WZ;3
+P³yta monta¿owa pod pas zêbaty;25 T10;szt;2024;2.04.2024;WZ;3
+P³yta monta¿owa pod pas zêbaty;25 T10;szt;2024;15.04.2024;WZ;2
+P³yta monta¿owa pod pas zêbaty;25 T10;szt;2024;22.04.2024;WZ;2
+P³yta monta¿owa pod pas zêbaty;25 T10;szt;2024;10.09.2024;WZ;2
+P³yta monta¿owa pod pas zêbaty;25 T10;szt;2024;3.10.2024;WZ;2
+P³yta monta¿owa pod pas zêbaty;25 T10;szt;2024;29.10.2024;WZ;4
+P³yta monta¿owa pod pas zêbaty;25 T10;szt;2024;17.12.2024;WZ;4
+P³yta monta¿owa pod pas zêbaty;25 T10;szt;2024 Razem;;;19
+P³yta monta¿owa pod pas zêbaty;25 T10;szt;2025;10.01.2025;WZ;2
+P³yta monta¿owa pod pas zêbaty;25 T10;szt;2025;30.01.2025;WZ;4
+P³yta monta¿owa pod pas zêbaty;25 T10;szt;2025;19.02.2025;WZ;2
+P³yta monta¿owa pod pas zêbaty;25 T10;szt;2025;10.03.2025;WZ;6
+P³yta monta¿owa pod pas zêbaty;25 T10;szt;2025;1.04.2025;WZ;4
+P³yta monta¿owa pod pas zêbaty;25 T10;szt;2025;8.07.2025;WZ;4
+P³yta monta¿owa pod pas zêbaty;25 T10;szt;2025;15.10.2025;WZ;2
+P³yta monta¿owa pod pas zêbaty;25 T10;szt;2025;21.11.2025;WZ;4
+P³yta monta¿owa pod pas zêbaty;25 T10;szt;2025 Razem;;;28
+P³yta monta¿owa pod pas zêbaty;25 T10;szt Razem;;;;108
+Suma koñcowa;;;;;;6 605,00

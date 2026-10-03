@@ -1,0 +1,912 @@
+;;;;;;Dane
+;;;;;;Suma koñcowa
+Produkt.Nazwa;Produkt.Symbol;Produkt.Jednostka podstawowa;Czas.Kalendarzowy.Rok;Czas.Kalendarzowy.Data;Dokument.Dokument.Rodzaj.Typ dokumentu;Sprzeda¿ Iloœæ
+Wk³adka sprzêg³a k³owego TRASCO;AR 28/38 92 Shore A;szt;2020;8.01.2020;WZ;90
+Wk³adka sprzêg³a k³owego TRASCO;AR 28/38 92 Shore A;szt;2020;17.01.2020;WZ;10
+Wk³adka sprzêg³a k³owego TRASCO;AR 28/38 92 Shore A;szt;2020;20.01.2020;WZ;1
+Wk³adka sprzêg³a k³owego TRASCO;AR 28/38 92 Shore A;szt;2020;22.01.2020;WZ;2
+Wk³adka sprzêg³a k³owego TRASCO;AR 28/38 92 Shore A;szt;2020;23.01.2020;WZ;10
+Wk³adka sprzêg³a k³owego TRASCO;AR 28/38 92 Shore A;szt;2020;7.02.2020;WZ;4
+Wk³adka sprzêg³a k³owego TRASCO;AR 28/38 92 Shore A;szt;2020;25.02.2020;WZ;7
+Wk³adka sprzêg³a k³owego TRASCO;AR 28/38 92 Shore A;szt;2020;2.03.2020;WZ;1
+Wk³adka sprzêg³a k³owego TRASCO;AR 28/38 92 Shore A;szt;2020;12.03.2020;WZ;5
+Wk³adka sprzêg³a k³owego TRASCO;AR 28/38 92 Shore A;szt;2020;16.03.2020;WZ;3
+Wk³adka sprzêg³a k³owego TRASCO;AR 28/38 92 Shore A;szt;2020;17.03.2020;WZ;50
+Wk³adka sprzêg³a k³owego TRASCO;AR 28/38 92 Shore A;szt;2020;30.03.2020;WZ;1
+Wk³adka sprzêg³a k³owego TRASCO;AR 28/38 92 Shore A;szt;2020;16.04.2020;WZ;15
+Wk³adka sprzêg³a k³owego TRASCO;AR 28/38 92 Shore A;szt;2020;27.05.2020;WZ;21
+Wk³adka sprzêg³a k³owego TRASCO;AR 28/38 92 Shore A;szt;2020;9.06.2020;WZ;1
+Wk³adka sprzêg³a k³owego TRASCO;AR 28/38 92 Shore A;szt;2020;17.06.2020;WZ;2
+Wk³adka sprzêg³a k³owego TRASCO;AR 28/38 92 Shore A;szt;2020;25.06.2020;WZ;1
+Wk³adka sprzêg³a k³owego TRASCO;AR 28/38 92 Shore A;szt;2020;28.07.2020;WZ;6
+Wk³adka sprzêg³a k³owego TRASCO;AR 28/38 92 Shore A;szt;2020;29.07.2020;WZ;1
+Wk³adka sprzêg³a k³owego TRASCO;AR 28/38 92 Shore A;szt;2020;25.08.2020;WZ;30
+Wk³adka sprzêg³a k³owego TRASCO;AR 28/38 92 Shore A;szt;2020;20.10.2020;WZ;2
+Wk³adka sprzêg³a k³owego TRASCO;AR 28/38 92 Shore A;szt;2020;30.10.2020;WZ;2
+Wk³adka sprzêg³a k³owego TRASCO;AR 28/38 92 Shore A;szt;2020;4.11.2020;WZ;60
+Wk³adka sprzêg³a k³owego TRASCO;AR 28/38 92 Shore A;szt;2020;1.12.2020;WZ;10
+Wk³adka sprzêg³a k³owego TRASCO;AR 28/38 92 Shore A;szt;2020;9.12.2020;WZ;2
+Wk³adka sprzêg³a k³owego TRASCO;AR 28/38 92 Shore A;szt;2020 Razem;;;337
+Wk³adka sprzêg³a k³owego TRASCO;AR 28/38 92 Shore A;szt;2021;13.01.2021;WZ;20
+Wk³adka sprzêg³a k³owego TRASCO;AR 28/38 92 Shore A;szt;2021;25.01.2021;WZ;10
+Wk³adka sprzêg³a k³owego TRASCO;AR 28/38 92 Shore A;szt;2021;27.01.2021;WZ;4
+Wk³adka sprzêg³a k³owego TRASCO;AR 28/38 92 Shore A;szt;2021;9.02.2021;WZ;6
+Wk³adka sprzêg³a k³owego TRASCO;AR 28/38 92 Shore A;szt;2021;3.03.2021;WZ;30
+Wk³adka sprzêg³a k³owego TRASCO;AR 28/38 92 Shore A;szt;2021;23.03.2021;WZ;1
+Wk³adka sprzêg³a k³owego TRASCO;AR 28/38 92 Shore A;szt;2021;7.04.2021;WZ;1
+Wk³adka sprzêg³a k³owego TRASCO;AR 28/38 92 Shore A;szt;2021;9.04.2021;WZ;1
+Wk³adka sprzêg³a k³owego TRASCO;AR 28/38 92 Shore A;szt;2021;6.05.2021;WZ;60
+Wk³adka sprzêg³a k³owego TRASCO;AR 28/38 92 Shore A;szt;2021;12.05.2021;WZ;5
+Wk³adka sprzêg³a k³owego TRASCO;AR 28/38 92 Shore A;szt;2021;26.05.2021;WZ;6
+Wk³adka sprzêg³a k³owego TRASCO;AR 28/38 92 Shore A;szt;2021;31.05.2021;WZ;5
+Wk³adka sprzêg³a k³owego TRASCO;AR 28/38 92 Shore A;szt;2021;1.06.2021;WZ;1
+Wk³adka sprzêg³a k³owego TRASCO;AR 28/38 92 Shore A;szt;2021;11.06.2021;WZ;2
+Wk³adka sprzêg³a k³owego TRASCO;AR 28/38 92 Shore A;szt;2021;21.06.2021;WZ;10
+Wk³adka sprzêg³a k³owego TRASCO;AR 28/38 92 Shore A;szt;2021;11.08.2021;WZ;2
+Wk³adka sprzêg³a k³owego TRASCO;AR 28/38 92 Shore A;szt;2021;24.08.2021;WZ;1
+Wk³adka sprzêg³a k³owego TRASCO;AR 28/38 92 Shore A;szt;2021;8.09.2021;WZ;71
+Wk³adka sprzêg³a k³owego TRASCO;AR 28/38 92 Shore A;szt;2021;15.09.2021;WZ;4
+Wk³adka sprzêg³a k³owego TRASCO;AR 28/38 92 Shore A;szt;2021;17.09.2021;WZ;8
+Wk³adka sprzêg³a k³owego TRASCO;AR 28/38 92 Shore A;szt;2021;13.10.2021;WZ;20
+Wk³adka sprzêg³a k³owego TRASCO;AR 28/38 92 Shore A;szt;2021;7.12.2021;WZ;100
+Wk³adka sprzêg³a k³owego TRASCO;AR 28/38 92 Shore A;szt;2021;22.12.2021;WZ;12
+Wk³adka sprzêg³a k³owego TRASCO;AR 28/38 92 Shore A;szt;2021 Razem;;;380
+Wk³adka sprzêg³a k³owego TRASCO;AR 28/38 92 Shore A;szt;2022;12.01.2022;WZ;1
+Wk³adka sprzêg³a k³owego TRASCO;AR 28/38 92 Shore A;szt;2022;8.03.2022;WZ;1
+Wk³adka sprzêg³a k³owego TRASCO;AR 28/38 92 Shore A;szt;2022;22.03.2022;WZ;9
+Wk³adka sprzêg³a k³owego TRASCO;AR 28/38 92 Shore A;szt;2022;13.04.2022;WZ;2
+Wk³adka sprzêg³a k³owego TRASCO;AR 28/38 92 Shore A;szt;2022;19.04.2022;WZ;2
+Wk³adka sprzêg³a k³owego TRASCO;AR 28/38 92 Shore A;szt;2022;20.04.2022;WZ;15
+Wk³adka sprzêg³a k³owego TRASCO;AR 28/38 92 Shore A;szt;2022;29.04.2022;WZ;5
+Wk³adka sprzêg³a k³owego TRASCO;AR 28/38 92 Shore A;szt;2022;21.06.2022;WZ;2
+Wk³adka sprzêg³a k³owego TRASCO;AR 28/38 92 Shore A;szt;2022;24.06.2022;WZ;3
+Wk³adka sprzêg³a k³owego TRASCO;AR 28/38 92 Shore A;szt;2022;7.07.2022;WZ;5
+Wk³adka sprzêg³a k³owego TRASCO;AR 28/38 92 Shore A;szt;2022;22.07.2022;WZ;4
+Wk³adka sprzêg³a k³owego TRASCO;AR 28/38 92 Shore A;szt;2022;28.07.2022;WZ;8
+Wk³adka sprzêg³a k³owego TRASCO;AR 28/38 92 Shore A;szt;2022;12.08.2022;WZ;10
+Wk³adka sprzêg³a k³owego TRASCO;AR 28/38 92 Shore A;szt;2022;6.09.2022;WZ;3
+Wk³adka sprzêg³a k³owego TRASCO;AR 28/38 92 Shore A;szt;2022;27.09.2022;WZ;2
+Wk³adka sprzêg³a k³owego TRASCO;AR 28/38 92 Shore A;szt;2022;29.09.2022;WZ;50
+Wk³adka sprzêg³a k³owego TRASCO;AR 28/38 92 Shore A;szt;2022;17.11.2022;WZ;3
+Wk³adka sprzêg³a k³owego TRASCO;AR 28/38 92 Shore A;szt;2022;18.11.2022;WZ;3
+Wk³adka sprzêg³a k³owego TRASCO;AR 28/38 92 Shore A;szt;2022;29.11.2022;WZ;6
+Wk³adka sprzêg³a k³owego TRASCO;AR 28/38 92 Shore A;szt;2022;19.12.2022;WZ;1
+Wk³adka sprzêg³a k³owego TRASCO;AR 28/38 92 Shore A;szt;2022 Razem;;;135
+Wk³adka sprzêg³a k³owego TRASCO;AR 28/38 92 Shore A;szt;2023;5.01.2023;WZ;2
+Wk³adka sprzêg³a k³owego TRASCO;AR 28/38 92 Shore A;szt;2023;13.01.2023;WZ;6
+Wk³adka sprzêg³a k³owego TRASCO;AR 28/38 92 Shore A;szt;2023;19.01.2023;WZ;5
+Wk³adka sprzêg³a k³owego TRASCO;AR 28/38 92 Shore A;szt;2023;30.01.2023;WZ;30
+Wk³adka sprzêg³a k³owego TRASCO;AR 28/38 92 Shore A;szt;2023;7.02.2023;WZ;12
+Wk³adka sprzêg³a k³owego TRASCO;AR 28/38 92 Shore A;szt;2023;9.02.2023;WZ;2
+Wk³adka sprzêg³a k³owego TRASCO;AR 28/38 92 Shore A;szt;2023;6.03.2023;WZ;4
+Wk³adka sprzêg³a k³owego TRASCO;AR 28/38 92 Shore A;szt;2023;9.03.2023;WZ;1
+Wk³adka sprzêg³a k³owego TRASCO;AR 28/38 92 Shore A;szt;2023;28.03.2023;WZ;70
+Wk³adka sprzêg³a k³owego TRASCO;AR 28/38 92 Shore A;szt;2023;31.03.2023;WZ;1
+Wk³adka sprzêg³a k³owego TRASCO;AR 28/38 92 Shore A;szt;2023;18.04.2023;WZ;1
+Wk³adka sprzêg³a k³owego TRASCO;AR 28/38 92 Shore A;szt;2023;5.05.2023;WZ;4
+Wk³adka sprzêg³a k³owego TRASCO;AR 28/38 92 Shore A;szt;2023;26.05.2023;WZ;10
+Wk³adka sprzêg³a k³owego TRASCO;AR 28/38 92 Shore A;szt;2023;3.07.2023;WZ;20
+Wk³adka sprzêg³a k³owego TRASCO;AR 28/38 92 Shore A;szt;2023;26.07.2023;WZ;1
+Wk³adka sprzêg³a k³owego TRASCO;AR 28/38 92 Shore A;szt;2023;23.08.2023;WZ;2
+Wk³adka sprzêg³a k³owego TRASCO;AR 28/38 92 Shore A;szt;2023;24.08.2023;WZ;2
+Wk³adka sprzêg³a k³owego TRASCO;AR 28/38 92 Shore A;szt;2023;6.09.2023;WZ;3
+Wk³adka sprzêg³a k³owego TRASCO;AR 28/38 92 Shore A;szt;2023;20.09.2023;WZ;6
+Wk³adka sprzêg³a k³owego TRASCO;AR 28/38 92 Shore A;szt;2023;21.09.2023;WZ;4
+Wk³adka sprzêg³a k³owego TRASCO;AR 28/38 92 Shore A;szt;2023;13.10.2023;WZ;2
+Wk³adka sprzêg³a k³owego TRASCO;AR 28/38 92 Shore A;szt;2023;17.10.2023;WZ;5
+Wk³adka sprzêg³a k³owego TRASCO;AR 28/38 92 Shore A;szt;2023;26.10.2023;WZ;15
+Wk³adka sprzêg³a k³owego TRASCO;AR 28/38 92 Shore A;szt;2023;10.11.2023;WZ;50
+Wk³adka sprzêg³a k³owego TRASCO;AR 28/38 92 Shore A;szt;2023;22.11.2023;WZ;10
+Wk³adka sprzêg³a k³owego TRASCO;AR 28/38 92 Shore A;szt;2023 Razem;;;268
+Wk³adka sprzêg³a k³owego TRASCO;AR 28/38 92 Shore A;szt;2024;14.02.2024;WZ;10
+Wk³adka sprzêg³a k³owego TRASCO;AR 28/38 92 Shore A;szt;2024;23.02.2024;WZ;60
+Wk³adka sprzêg³a k³owego TRASCO;AR 28/38 92 Shore A;szt;2024;29.02.2024;WZ;10
+Wk³adka sprzêg³a k³owego TRASCO;AR 28/38 92 Shore A;szt;2024;5.03.2024;WZ;1
+Wk³adka sprzêg³a k³owego TRASCO;AR 28/38 92 Shore A;szt;2024;26.03.2024;WZ;5
+Wk³adka sprzêg³a k³owego TRASCO;AR 28/38 92 Shore A;szt;2024;13.05.2024;WZ;1
+Wk³adka sprzêg³a k³owego TRASCO;AR 28/38 92 Shore A;szt;2024;26.06.2024;WZ;8
+Wk³adka sprzêg³a k³owego TRASCO;AR 28/38 92 Shore A;szt;2024;29.08.2024;WZ;10
+Wk³adka sprzêg³a k³owego TRASCO;AR 28/38 92 Shore A;szt;2024;3.09.2024;WZ;10
+Wk³adka sprzêg³a k³owego TRASCO;AR 28/38 92 Shore A;szt;2024;3.10.2024;WZ;20
+Wk³adka sprzêg³a k³owego TRASCO;AR 28/38 92 Shore A;szt;2024 Razem;;;135
+Wk³adka sprzêg³a k³owego TRASCO;AR 28/38 92 Shore A;szt;2025;17.01.2025;WZ;20
+Wk³adka sprzêg³a k³owego TRASCO;AR 28/38 92 Shore A;szt;2025;7.02.2025;WZ;20
+Wk³adka sprzêg³a k³owego TRASCO;AR 28/38 92 Shore A;szt;2025;21.02.2025;WZ;3
+Wk³adka sprzêg³a k³owego TRASCO;AR 28/38 92 Shore A;szt;2025;17.04.2025;WZ;20
+Wk³adka sprzêg³a k³owego TRASCO;AR 28/38 92 Shore A;szt;2025;22.04.2025;WZ;4
+Wk³adka sprzêg³a k³owego TRASCO;AR 28/38 92 Shore A;szt;2025;28.04.2025;FSL;0
+Wk³adka sprzêg³a k³owego TRASCO;AR 28/38 92 Shore A;szt;2025;30.04.2025;WZ;1
+Wk³adka sprzêg³a k³owego TRASCO;AR 28/38 92 Shore A;szt;2025;20.05.2025;WZ;2
+Wk³adka sprzêg³a k³owego TRASCO;AR 28/38 92 Shore A;szt;2025;4.07.2025;WZ;1
+Wk³adka sprzêg³a k³owego TRASCO;AR 28/38 92 Shore A;szt;2025;17.09.2025;WZ;20
+Wk³adka sprzêg³a k³owego TRASCO;AR 28/38 92 Shore A;szt;2025;23.09.2025;WZ;1
+Wk³adka sprzêg³a k³owego TRASCO;AR 28/38 92 Shore A;szt;2025;24.09.2025;WZ;10
+Wk³adka sprzêg³a k³owego TRASCO;AR 28/38 92 Shore A;szt;2025;26.09.2025;WZ;3
+Wk³adka sprzêg³a k³owego TRASCO;AR 28/38 92 Shore A;szt;2025;10.10.2025;WZ;3
+Wk³adka sprzêg³a k³owego TRASCO;AR 28/38 92 Shore A;szt;2025;6.11.2025;WZ;10
+Wk³adka sprzêg³a k³owego TRASCO;AR 28/38 92 Shore A;szt;2025;13.11.2025;WZ;6
+Wk³adka sprzêg³a k³owego TRASCO;AR 28/38 92 Shore A;szt;2025;20.11.2025;WZ;20
+Wk³adka sprzêg³a k³owego TRASCO;AR 28/38 92 Shore A;szt;2025;17.12.2025;WZ;6
+Wk³adka sprzêg³a k³owego TRASCO;AR 28/38 92 Shore A;szt;2025 Razem;;;150
+Wk³adka sprzêg³a k³owego TRASCO;AR 28/38 92 Shore A;szt Razem;;;;1 405,00
+Krótka piasta sprzêg³a zêbatego SITEX;GDM 14;szt;2020;8.01.2020;WZ;8
+Krótka piasta sprzêg³a zêbatego SITEX;GDM 14;szt;2020;27.03.2020;WZ;200
+Krótka piasta sprzêg³a zêbatego SITEX;GDM 14;szt;2020;17.06.2020;WZ;2
+Krótka piasta sprzêg³a zêbatego SITEX;GDM 14;szt;2020;2.09.2020;WZ;48
+Krótka piasta sprzêg³a zêbatego SITEX;GDM 14;szt;2020;10.11.2020;WZ;8
+Krótka piasta sprzêg³a zêbatego SITEX;GDM 14;szt;2020 Razem;;;266
+Krótka piasta sprzêg³a zêbatego SITEX;GDM 14;szt;2022;20.01.2022;WZ;100
+Krótka piasta sprzêg³a zêbatego SITEX;GDM 14;szt;2023;5.05.2023;WZ;200
+Krótka piasta sprzêg³a zêbatego SITEX;GDM 14;szt;2025;30.07.2025;WZ;6
+Krótka piasta sprzêg³a zêbatego SITEX;GDM 14;szt Razem;;;;572
+Wk³adka sprzêg³a k³owego TRASCO;AR 24/32 92 Shore A;szt;2020;10.01.2020;WZ;1
+Wk³adka sprzêg³a k³owego TRASCO;AR 24/32 92 Shore A;szt;2020;23.01.2020;WZ;1
+Wk³adka sprzêg³a k³owego TRASCO;AR 24/32 92 Shore A;szt;2020;18.02.2020;WZ;1
+Wk³adka sprzêg³a k³owego TRASCO;AR 24/32 92 Shore A;szt;2020;25.02.2020;WZ;1
+Wk³adka sprzêg³a k³owego TRASCO;AR 24/32 92 Shore A;szt;2020;4.03.2020;WZ;5
+Wk³adka sprzêg³a k³owego TRASCO;AR 24/32 92 Shore A;szt;2020;6.03.2020;WZ;1
+Wk³adka sprzêg³a k³owego TRASCO;AR 24/32 92 Shore A;szt;2020;23.03.2020;WZ;10
+Wk³adka sprzêg³a k³owego TRASCO;AR 24/32 92 Shore A;szt;2020;30.03.2020;WZ;3
+Wk³adka sprzêg³a k³owego TRASCO;AR 24/32 92 Shore A;szt;2020;23.04.2020;WZ;15
+Wk³adka sprzêg³a k³owego TRASCO;AR 24/32 92 Shore A;szt;2020;26.05.2020;WZ;10
+Wk³adka sprzêg³a k³owego TRASCO;AR 24/32 92 Shore A;szt;2020;11.08.2020;WZ;50
+Wk³adka sprzêg³a k³owego TRASCO;AR 24/32 92 Shore A;szt;2020;17.08.2020;WZ;2
+Wk³adka sprzêg³a k³owego TRASCO;AR 24/32 92 Shore A;szt;2020;4.09.2020;WZ;2
+Wk³adka sprzêg³a k³owego TRASCO;AR 24/32 92 Shore A;szt;2020;1.10.2020;WZ;10
+Wk³adka sprzêg³a k³owego TRASCO;AR 24/32 92 Shore A;szt;2020;8.10.2020;WZ;2
+Wk³adka sprzêg³a k³owego TRASCO;AR 24/32 92 Shore A;szt;2020;23.10.2020;WZ;10
+Wk³adka sprzêg³a k³owego TRASCO;AR 24/32 92 Shore A;szt;2020;9.12.2020;WZ;2
+Wk³adka sprzêg³a k³owego TRASCO;AR 24/32 92 Shore A;szt;2020;18.12.2020;WZ;2
+Wk³adka sprzêg³a k³owego TRASCO;AR 24/32 92 Shore A;szt;2020 Razem;;;128
+Wk³adka sprzêg³a k³owego TRASCO;AR 24/32 92 Shore A;szt;2021;11.01.2021;WZ;20
+Wk³adka sprzêg³a k³owego TRASCO;AR 24/32 92 Shore A;szt;2021;9.02.2021;WZ;6
+Wk³adka sprzêg³a k³owego TRASCO;AR 24/32 92 Shore A;szt;2021;11.03.2021;PA;1
+Wk³adka sprzêg³a k³owego TRASCO;AR 24/32 92 Shore A;szt;2021;14.04.2021;WZ;5
+Wk³adka sprzêg³a k³owego TRASCO;AR 24/32 92 Shore A;szt;2021;20.04.2021;WZ;5
+Wk³adka sprzêg³a k³owego TRASCO;AR 24/32 92 Shore A;szt;2021;19.05.2021;WZ;5
+Wk³adka sprzêg³a k³owego TRASCO;AR 24/32 92 Shore A;szt;2021;15.07.2021;WZ;15
+Wk³adka sprzêg³a k³owego TRASCO;AR 24/32 92 Shore A;szt;2021;20.07.2021;WZ;6
+Wk³adka sprzêg³a k³owego TRASCO;AR 24/32 92 Shore A;szt;2021;15.09.2021;WZ;2
+Wk³adka sprzêg³a k³owego TRASCO;AR 24/32 92 Shore A;szt;2021 Razem;;;65
+Wk³adka sprzêg³a k³owego TRASCO;AR 24/32 92 Shore A;szt;2022;18.01.2022;WZ;4
+Wk³adka sprzêg³a k³owego TRASCO;AR 24/32 92 Shore A;szt;2022;9.02.2022;WZ;1
+Wk³adka sprzêg³a k³owego TRASCO;AR 24/32 92 Shore A;szt;2022;24.03.2022;WZ;3
+Wk³adka sprzêg³a k³owego TRASCO;AR 24/32 92 Shore A;szt;2022;13.05.2022;WZ;1
+Wk³adka sprzêg³a k³owego TRASCO;AR 24/32 92 Shore A;szt;2022;2.06.2022;WZ;1
+Wk³adka sprzêg³a k³owego TRASCO;AR 24/32 92 Shore A;szt;2022;6.06.2022;WZ;1
+Wk³adka sprzêg³a k³owego TRASCO;AR 24/32 92 Shore A;szt;2022;22.06.2022;WZ;10
+Wk³adka sprzêg³a k³owego TRASCO;AR 24/32 92 Shore A;szt;2022;15.07.2022;WZ;1
+Wk³adka sprzêg³a k³owego TRASCO;AR 24/32 92 Shore A;szt;2022;21.07.2022;WZ;20
+Wk³adka sprzêg³a k³owego TRASCO;AR 24/32 92 Shore A;szt;2022;29.07.2022;WZ;1
+Wk³adka sprzêg³a k³owego TRASCO;AR 24/32 92 Shore A;szt;2022;2.08.2022;WZ;1
+Wk³adka sprzêg³a k³owego TRASCO;AR 24/32 92 Shore A;szt;2022;6.09.2022;WZ;3
+Wk³adka sprzêg³a k³owego TRASCO;AR 24/32 92 Shore A;szt;2022;31.10.2022;WZ;10
+Wk³adka sprzêg³a k³owego TRASCO;AR 24/32 92 Shore A;szt;2022 Razem;;;57
+Wk³adka sprzêg³a k³owego TRASCO;AR 24/32 92 Shore A;szt;2023;15.05.2023;PA;1
+Wk³adka sprzêg³a k³owego TRASCO;AR 24/32 92 Shore A;szt;2023;13.06.2023;WZ;10
+Wk³adka sprzêg³a k³owego TRASCO;AR 24/32 92 Shore A;szt;2023;17.08.2023;WZ;15
+Wk³adka sprzêg³a k³owego TRASCO;AR 24/32 92 Shore A;szt;2023;16.10.2023;WZ;3
+Wk³adka sprzêg³a k³owego TRASCO;AR 24/32 92 Shore A;szt;2023;31.10.2023;WZ;20
+Wk³adka sprzêg³a k³owego TRASCO;AR 24/32 92 Shore A;szt;2023;14.12.2023;WZ;20
+Wk³adka sprzêg³a k³owego TRASCO;AR 24/32 92 Shore A;szt;2023 Razem;;;69
+Wk³adka sprzêg³a k³owego TRASCO;AR 24/32 92 Shore A;szt;2024;20.03.2024;WZ;10
+Wk³adka sprzêg³a k³owego TRASCO;AR 24/32 92 Shore A;szt;2024;10.04.2024;WZ;2
+Wk³adka sprzêg³a k³owego TRASCO;AR 24/32 92 Shore A;szt;2024;11.07.2024;WZ;20
+Wk³adka sprzêg³a k³owego TRASCO;AR 24/32 92 Shore A;szt;2024;23.07.2024;WZ;1
+Wk³adka sprzêg³a k³owego TRASCO;AR 24/32 92 Shore A;szt;2024;6.08.2024;WZ;20
+Wk³adka sprzêg³a k³owego TRASCO;AR 24/32 92 Shore A;szt;2024;26.09.2024;WZ;30
+Wk³adka sprzêg³a k³owego TRASCO;AR 24/32 92 Shore A;szt;2024;29.11.2024;WZ;10
+Wk³adka sprzêg³a k³owego TRASCO;AR 24/32 92 Shore A;szt;2024 Razem;;;93
+Wk³adka sprzêg³a k³owego TRASCO;AR 24/32 92 Shore A;szt;2025;31.03.2025;WZ;20
+Wk³adka sprzêg³a k³owego TRASCO;AR 24/32 92 Shore A;szt;2025;8.04.2025;WZ;1
+Wk³adka sprzêg³a k³owego TRASCO;AR 24/32 92 Shore A;szt;2025;9.04.2025;WZ;4
+Wk³adka sprzêg³a k³owego TRASCO;AR 24/32 92 Shore A;szt;2025;5.11.2025;WZ;30
+Wk³adka sprzêg³a k³owego TRASCO;AR 24/32 92 Shore A;szt;2025 Razem;;;55
+Wk³adka sprzêg³a k³owego TRASCO;AR 24/32 92 Shore A;szt Razem;;;;467
+Piasta sprzêg³a k³owego TRASCO ALU;GRMALU 24/32 A;szt;2020;7.01.2020;WZ;5
+Piasta sprzêg³a k³owego TRASCO ALU;GRMALU 24/32 A;szt;2020;23.03.2020;WZ;20
+Piasta sprzêg³a k³owego TRASCO ALU;GRMALU 24/32 A;szt;2020;23.04.2020;WZ;26
+Piasta sprzêg³a k³owego TRASCO ALU;GRMALU 24/32 A;szt;2020;26.05.2020;WZ;4
+Piasta sprzêg³a k³owego TRASCO ALU;GRMALU 24/32 A;szt;2020;1.10.2020;WZ;20
+Piasta sprzêg³a k³owego TRASCO ALU;GRMALU 24/32 A;szt;2020 Razem;;;75
+Piasta sprzêg³a k³owego TRASCO ALU;GRMALU 24/32 A;szt;2021;9.02.2021;WZ;2
+Piasta sprzêg³a k³owego TRASCO ALU;GRMALU 24/32 A;szt;2021;11.03.2021;PA;2
+Piasta sprzêg³a k³owego TRASCO ALU;GRMALU 24/32 A;szt;2021;20.04.2021;WZ;10
+Piasta sprzêg³a k³owego TRASCO ALU;GRMALU 24/32 A;szt;2021;19.05.2021;WZ;10
+Piasta sprzêg³a k³owego TRASCO ALU;GRMALU 24/32 A;szt;2021;15.07.2021;WZ;30
+Piasta sprzêg³a k³owego TRASCO ALU;GRMALU 24/32 A;szt;2021 Razem;;;54
+Piasta sprzêg³a k³owego TRASCO ALU;GRMALU 24/32 A;szt;2022;24.03.2022;WZ;2
+Piasta sprzêg³a k³owego TRASCO ALU;GRMALU 24/32 A;szt;2022;26.04.2022;WZ;2
+Piasta sprzêg³a k³owego TRASCO ALU;GRMALU 24/32 A;szt;2022;22.06.2022;WZ;20
+Piasta sprzêg³a k³owego TRASCO ALU;GRMALU 24/32 A;szt;2022;21.07.2022;WZ;20
+Piasta sprzêg³a k³owego TRASCO ALU;GRMALU 24/32 A;szt;2022 Razem;;;44
+Piasta sprzêg³a k³owego TRASCO ALU;GRMALU 24/32 A;szt;2023;13.06.2023;WZ;20
+Piasta sprzêg³a k³owego TRASCO ALU;GRMALU 24/32 A;szt;2023;17.08.2023;WZ;30
+Piasta sprzêg³a k³owego TRASCO ALU;GRMALU 24/32 A;szt;2023;16.10.2023;WZ;4
+Piasta sprzêg³a k³owego TRASCO ALU;GRMALU 24/32 A;szt;2023;31.10.2023;WZ;40
+Piasta sprzêg³a k³owego TRASCO ALU;GRMALU 24/32 A;szt;2023 Razem;;;94
+Piasta sprzêg³a k³owego TRASCO ALU;GRMALU 24/32 A;szt;2024;11.07.2024;WZ;40
+Piasta sprzêg³a k³owego TRASCO ALU;GRMALU 24/32 A;szt;2024;26.09.2024;WZ;60
+Piasta sprzêg³a k³owego TRASCO ALU;GRMALU 24/32 A;szt;2024 Razem;;;100
+Piasta sprzêg³a k³owego TRASCO ALU;GRMALU 24/32 A;szt;2025;23.09.2025;WZ;1
+Piasta sprzêg³a k³owego TRASCO ALU;GRMALU 24/32 A;szt;2025;5.11.2025;WZ;60
+Piasta sprzêg³a k³owego TRASCO ALU;GRMALU 24/32 A;szt;2025 Razem;;;61
+Piasta sprzêg³a k³owego TRASCO ALU;GRMALU 24/32 A;szt Razem;;;;428
+Piasta sprzêg³a k³owego TRASCO ALU;GRMALU 19/24 B;szt;2020;17.01.2020;WZ;16
+Piasta sprzêg³a k³owego TRASCO ALU;GRMALU 19/24 B;szt;2020;17.02.2020;WZ;17
+Piasta sprzêg³a k³owego TRASCO ALU;GRMALU 19/24 B;szt;2020;2.04.2020;WZ;12
+Piasta sprzêg³a k³owego TRASCO ALU;GRMALU 19/24 B;szt;2020;23.04.2020;WZ;1
+Piasta sprzêg³a k³owego TRASCO ALU;GRMALU 19/24 B;szt;2020;30.04.2020;WZ;16
+Piasta sprzêg³a k³owego TRASCO ALU;GRMALU 19/24 B;szt;2020;16.06.2020;WZ;4
+Piasta sprzêg³a k³owego TRASCO ALU;GRMALU 19/24 B;szt;2020;17.06.2020;WZ;4
+Piasta sprzêg³a k³owego TRASCO ALU;GRMALU 19/24 B;szt;2020;19.06.2020;WZ;6
+Piasta sprzêg³a k³owego TRASCO ALU;GRMALU 19/24 B;szt;2020;7.07.2020;WZ;26
+Piasta sprzêg³a k³owego TRASCO ALU;GRMALU 19/24 B;szt;2020;3.09.2020;WZ;2
+Piasta sprzêg³a k³owego TRASCO ALU;GRMALU 19/24 B;szt;2020;6.10.2020;WZ;16
+Piasta sprzêg³a k³owego TRASCO ALU;GRMALU 19/24 B;szt;2020;8.10.2020;WZ;6
+Piasta sprzêg³a k³owego TRASCO ALU;GRMALU 19/24 B;szt;2020;6.11.2020;WZ;24
+Piasta sprzêg³a k³owego TRASCO ALU;GRMALU 19/24 B;szt;2020;18.12.2020;WZ;10
+Piasta sprzêg³a k³owego TRASCO ALU;GRMALU 19/24 B;szt;2020 Razem;;;160
+Piasta sprzêg³a k³owego TRASCO ALU;GRMALU 19/24 B;szt;2021;8.03.2021;WZ;8
+Piasta sprzêg³a k³owego TRASCO ALU;GRMALU 19/24 B;szt;2021;29.03.2021;WZ;10
+Piasta sprzêg³a k³owego TRASCO ALU;GRMALU 19/24 B;szt;2021;9.04.2021;WZ;4
+Piasta sprzêg³a k³owego TRASCO ALU;GRMALU 19/24 B;szt;2021;16.04.2021;WZ;30
+Piasta sprzêg³a k³owego TRASCO ALU;GRMALU 19/24 B;szt;2021;15.09.2021;WZ;4
+Piasta sprzêg³a k³owego TRASCO ALU;GRMALU 19/24 B;szt;2021;22.09.2021;WZ;30
+Piasta sprzêg³a k³owego TRASCO ALU;GRMALU 19/24 B;szt;2021 Razem;;;86
+Piasta sprzêg³a k³owego TRASCO ALU;GRMALU 19/24 B;szt;2022;11.04.2022;WZ;44
+Piasta sprzêg³a k³owego TRASCO ALU;GRMALU 19/24 B;szt;2022;10.06.2022;WZ;4
+Piasta sprzêg³a k³owego TRASCO ALU;GRMALU 19/24 B;szt;2022 Razem;;;48
+Piasta sprzêg³a k³owego TRASCO ALU;GRMALU 19/24 B;szt;2023;5.04.2023;WZ;30
+Piasta sprzêg³a k³owego TRASCO ALU;GRMALU 19/24 B;szt;2023;14.07.2023;WZ;2
+Piasta sprzêg³a k³owego TRASCO ALU;GRMALU 19/24 B;szt;2023;8.08.2023;WZ;2
+Piasta sprzêg³a k³owego TRASCO ALU;GRMALU 19/24 B;szt;2023;29.08.2023;WZ;2
+Piasta sprzêg³a k³owego TRASCO ALU;GRMALU 19/24 B;szt;2023;25.10.2023;WZ;13
+Piasta sprzêg³a k³owego TRASCO ALU;GRMALU 19/24 B;szt;2023 Razem;;;49
+Piasta sprzêg³a k³owego TRASCO ALU;GRMALU 19/24 B;szt;2024;15.01.2024;WZ;6
+Piasta sprzêg³a k³owego TRASCO ALU;GRMALU 19/24 B;szt;2024;6.02.2024;WZ;4
+Piasta sprzêg³a k³owego TRASCO ALU;GRMALU 19/24 B;szt;2024;22.03.2024;WZ;6
+Piasta sprzêg³a k³owego TRASCO ALU;GRMALU 19/24 B;szt;2024;21.08.2024;WZ;40
+Piasta sprzêg³a k³owego TRASCO ALU;GRMALU 19/24 B;szt;2024 Razem;;;56
+Piasta sprzêg³a k³owego TRASCO ALU;GRMALU 19/24 B;szt;2025;12.08.2025;WZ;4
+Piasta sprzêg³a k³owego TRASCO ALU;GRMALU 19/24 B;szt Razem;;;;403
+Element elastyczny AD sprzêg³a SITEX;AD 14;szt;2020;8.01.2020;WZ;4
+Element elastyczny AD sprzêg³a SITEX;AD 14;szt;2020;15.01.2020;WZ;1
+Element elastyczny AD sprzêg³a SITEX;AD 14;szt;2020;27.03.2020;WZ;100
+Element elastyczny AD sprzêg³a SITEX;AD 14;szt;2020;17.06.2020;WZ;1
+Element elastyczny AD sprzêg³a SITEX;AD 14;szt;2020;2.09.2020;WZ;24
+Element elastyczny AD sprzêg³a SITEX;AD 14;szt;2020;10.11.2020;WZ;4
+Element elastyczny AD sprzêg³a SITEX;AD 14;szt;2020 Razem;;;134
+Element elastyczny AD sprzêg³a SITEX;AD 14;szt;2021;20.05.2021;WZ;3
+Element elastyczny AD sprzêg³a SITEX;AD 14;szt;2022;20.01.2022;WZ;50
+Element elastyczny AD sprzêg³a SITEX;AD 14;szt;2023;5.05.2023;WZ;100
+Element elastyczny AD sprzêg³a SITEX;AD 14;szt;2024;23.01.2024;WZ;2
+Element elastyczny AD sprzêg³a SITEX;AD 14;szt;2025;30.07.2025;WZ;3
+Element elastyczny AD sprzêg³a SITEX;AD 14;szt Razem;;;;292
+Piasta sprzêg³a TRASCO ES;GESM 24/28 F25;szt;2020;31.03.2020;WZ;160
+Piasta sprzêg³a TRASCO ES;GESM 24/28 F25;szt;2020;14.05.2020;WZ;80
+Piasta sprzêg³a TRASCO ES;GESM 24/28 F25;szt;2020 Razem;;;240
+Piasta sprzêg³a TRASCO ES;GESM 24/28 F25;szt;2022;11.08.2022;WZ;1
+Piasta sprzêg³a TRASCO ES;GESM 24/28 F25;szt;2024;29.10.2024;WZ;1
+Piasta sprzêg³a TRASCO ES;GESM 24/28 F25;szt;2025;9.04.2025;WZ;1
+Piasta sprzêg³a TRASCO ES;GESM 24/28 F25;szt;2025;26.11.2025;WZ;2
+Piasta sprzêg³a TRASCO ES;GESM 24/28 F25;szt;2025 Razem;;;3
+Piasta sprzêg³a TRASCO ES;GESM 24/28 F25;szt Razem;;;;245
+Wk³adka sprzêg³a k³owego TRASCO;AR 38/45 R 98 Shore A;szt;2020;22.01.2020;WZ;1
+Wk³adka sprzêg³a k³owego TRASCO;AR 38/45 R 98 Shore A;szt;2020;28.04.2020;WZ;1
+Wk³adka sprzêg³a k³owego TRASCO;AR 38/45 R 98 Shore A;szt;2020;5.05.2020;WZ;20
+Wk³adka sprzêg³a k³owego TRASCO;AR 38/45 R 98 Shore A;szt;2020;21.07.2020;WZ;1
+Wk³adka sprzêg³a k³owego TRASCO;AR 38/45 R 98 Shore A;szt;2020;6.11.2020;WZ;5
+Wk³adka sprzêg³a k³owego TRASCO;AR 38/45 R 98 Shore A;szt;2020 Razem;;;28
+Wk³adka sprzêg³a k³owego TRASCO;AR 38/45 R 98 Shore A;szt;2021;11.01.2021;WZ;12
+Wk³adka sprzêg³a k³owego TRASCO;AR 38/45 R 98 Shore A;szt;2021;5.02.2021;WZ;40
+Wk³adka sprzêg³a k³owego TRASCO;AR 38/45 R 98 Shore A;szt;2021;18.06.2021;WZ;1
+Wk³adka sprzêg³a k³owego TRASCO;AR 38/45 R 98 Shore A;szt;2021;20.08.2021;WZ;2
+Wk³adka sprzêg³a k³owego TRASCO;AR 38/45 R 98 Shore A;szt;2021 Razem;;;55
+Wk³adka sprzêg³a k³owego TRASCO;AR 38/45 R 98 Shore A;szt;2022;18.01.2022;WZ;30
+Wk³adka sprzêg³a k³owego TRASCO;AR 38/45 R 98 Shore A;szt;2022;8.02.2022;WZ;1
+Wk³adka sprzêg³a k³owego TRASCO;AR 38/45 R 98 Shore A;szt;2022;16.02.2022;WZ;48
+Wk³adka sprzêg³a k³owego TRASCO;AR 38/45 R 98 Shore A;szt;2022;7.11.2022;WZ;1
+Wk³adka sprzêg³a k³owego TRASCO;AR 38/45 R 98 Shore A;szt;2022;18.11.2022;WZ;3
+Wk³adka sprzêg³a k³owego TRASCO;AR 38/45 R 98 Shore A;szt;2022;22.11.2022;WZ;1
+Wk³adka sprzêg³a k³owego TRASCO;AR 38/45 R 98 Shore A;szt;2022 Razem;;;84
+Wk³adka sprzêg³a k³owego TRASCO;AR 38/45 R 98 Shore A;szt;2023;2.03.2023;WZ;1
+Wk³adka sprzêg³a k³owego TRASCO;AR 38/45 R 98 Shore A;szt;2023;30.05.2023;WZ;40
+Wk³adka sprzêg³a k³owego TRASCO;AR 38/45 R 98 Shore A;szt;2023;4.09.2023;WZ;1
+Wk³adka sprzêg³a k³owego TRASCO;AR 38/45 R 98 Shore A;szt;2023;5.10.2023;WZ;10
+Wk³adka sprzêg³a k³owego TRASCO;AR 38/45 R 98 Shore A;szt;2023 Razem;;;52
+Wk³adka sprzêg³a k³owego TRASCO;AR 38/45 R 98 Shore A;szt;2024;28.02.2024;WZ;8
+Wk³adka sprzêg³a k³owego TRASCO;AR 38/45 R 98 Shore A;szt;2024;3.09.2024;WZ;2
+Wk³adka sprzêg³a k³owego TRASCO;AR 38/45 R 98 Shore A;szt;2024;18.09.2024;WZ;7
+Wk³adka sprzêg³a k³owego TRASCO;AR 38/45 R 98 Shore A;szt;2024;27.09.2024;WZ;2
+Wk³adka sprzêg³a k³owego TRASCO;AR 38/45 R 98 Shore A;szt;2024;2.10.2024;WZ;1
+Wk³adka sprzêg³a k³owego TRASCO;AR 38/45 R 98 Shore A;szt;2024 Razem;;;20
+Wk³adka sprzêg³a k³owego TRASCO;AR 38/45 R 98 Shore A;szt;2025;18.04.2025;WZ;2
+Wk³adka sprzêg³a k³owego TRASCO;AR 38/45 R 98 Shore A;szt;2025;28.04.2025;FSL;0
+Wk³adka sprzêg³a k³owego TRASCO;AR 38/45 R 98 Shore A;szt;2025;29.04.2025;WZ;2
+Wk³adka sprzêg³a k³owego TRASCO;AR 38/45 R 98 Shore A;szt;2025;21.10.2025;WZ;2
+Wk³adka sprzêg³a k³owego TRASCO;AR 38/45 R 98 Shore A;szt;2025 Razem;;;6
+Wk³adka sprzêg³a k³owego TRASCO;AR 38/45 R 98 Shore A;szt Razem;;;;245
+Wk³adka sprzêg³a k³owego TRASCO;AR 19/24 R 98 Shore A;szt;2020;17.01.2020;WZ;8
+Wk³adka sprzêg³a k³owego TRASCO;AR 19/24 R 98 Shore A;szt;2020;17.02.2020;WZ;15
+Wk³adka sprzêg³a k³owego TRASCO;AR 19/24 R 98 Shore A;szt;2020;26.02.2020;WZ;4
+Wk³adka sprzêg³a k³owego TRASCO;AR 19/24 R 98 Shore A;szt;2020;17.03.2020;WZ;3
+Wk³adka sprzêg³a k³owego TRASCO;AR 19/24 R 98 Shore A;szt;2020;30.04.2020;WZ;8
+Wk³adka sprzêg³a k³owego TRASCO;AR 19/24 R 98 Shore A;szt;2020;16.06.2020;WZ;2
+Wk³adka sprzêg³a k³owego TRASCO;AR 19/24 R 98 Shore A;szt;2020;19.06.2020;WZ;3
+Wk³adka sprzêg³a k³owego TRASCO;AR 19/24 R 98 Shore A;szt;2020;7.07.2020;WZ;13
+Wk³adka sprzêg³a k³owego TRASCO;AR 19/24 R 98 Shore A;szt;2020;19.08.2020;WZ;4
+Wk³adka sprzêg³a k³owego TRASCO;AR 19/24 R 98 Shore A;szt;2020;3.09.2020;WZ;2
+Wk³adka sprzêg³a k³owego TRASCO;AR 19/24 R 98 Shore A;szt;2020;6.10.2020;WZ;8
+Wk³adka sprzêg³a k³owego TRASCO;AR 19/24 R 98 Shore A;szt;2020;8.10.2020;WZ;3
+Wk³adka sprzêg³a k³owego TRASCO;AR 19/24 R 98 Shore A;szt;2020;18.12.2020;WZ;5
+Wk³adka sprzêg³a k³owego TRASCO;AR 19/24 R 98 Shore A;szt;2020 Razem;;;78
+Wk³adka sprzêg³a k³owego TRASCO;AR 19/24 R 98 Shore A;szt;2021;29.03.2021;WZ;5
+Wk³adka sprzêg³a k³owego TRASCO;AR 19/24 R 98 Shore A;szt;2021;12.04.2021;WZ;6
+Wk³adka sprzêg³a k³owego TRASCO;AR 19/24 R 98 Shore A;szt;2021;16.04.2021;WZ;15
+Wk³adka sprzêg³a k³owego TRASCO;AR 19/24 R 98 Shore A;szt;2021;8.06.2021;WZ;1
+Wk³adka sprzêg³a k³owego TRASCO;AR 19/24 R 98 Shore A;szt;2021;4.08.2021;WZ;1
+Wk³adka sprzêg³a k³owego TRASCO;AR 19/24 R 98 Shore A;szt;2021;22.09.2021;WZ;15
+Wk³adka sprzêg³a k³owego TRASCO;AR 19/24 R 98 Shore A;szt;2021 Razem;;;43
+Wk³adka sprzêg³a k³owego TRASCO;AR 19/24 R 98 Shore A;szt;2022;23.03.2022;WZ;4
+Wk³adka sprzêg³a k³owego TRASCO;AR 19/24 R 98 Shore A;szt;2022;11.04.2022;WZ;24
+Wk³adka sprzêg³a k³owego TRASCO;AR 19/24 R 98 Shore A;szt;2022;31.10.2022;WZ;2
+Wk³adka sprzêg³a k³owego TRASCO;AR 19/24 R 98 Shore A;szt;2022 Razem;;;30
+Wk³adka sprzêg³a k³owego TRASCO;AR 19/24 R 98 Shore A;szt;2023;12.01.2023;WZ;10
+Wk³adka sprzêg³a k³owego TRASCO;AR 19/24 R 98 Shore A;szt;2023;5.04.2023;WZ;15
+Wk³adka sprzêg³a k³owego TRASCO;AR 19/24 R 98 Shore A;szt;2023;18.04.2023;WZ;4
+Wk³adka sprzêg³a k³owego TRASCO;AR 19/24 R 98 Shore A;szt;2023;14.07.2023;WZ;2
+Wk³adka sprzêg³a k³owego TRASCO;AR 19/24 R 98 Shore A;szt;2023;28.07.2023;WZ;2
+Wk³adka sprzêg³a k³owego TRASCO;AR 19/24 R 98 Shore A;szt;2023;25.10.2023;WZ;10
+Wk³adka sprzêg³a k³owego TRASCO;AR 19/24 R 98 Shore A;szt;2023 Razem;;;43
+Wk³adka sprzêg³a k³owego TRASCO;AR 19/24 R 98 Shore A;szt;2024;15.01.2024;WZ;2
+Wk³adka sprzêg³a k³owego TRASCO;AR 19/24 R 98 Shore A;szt;2024;6.02.2024;WZ;2
+Wk³adka sprzêg³a k³owego TRASCO;AR 19/24 R 98 Shore A;szt;2024;22.03.2024;WZ;5
+Wk³adka sprzêg³a k³owego TRASCO;AR 19/24 R 98 Shore A;szt;2024;5.04.2024;WZ;8
+Wk³adka sprzêg³a k³owego TRASCO;AR 19/24 R 98 Shore A;szt;2024;19.08.2024;WZ;1
+Wk³adka sprzêg³a k³owego TRASCO;AR 19/24 R 98 Shore A;szt;2024;21.08.2024;WZ;20
+Wk³adka sprzêg³a k³owego TRASCO;AR 19/24 R 98 Shore A;szt;2024 Razem;;;38
+Wk³adka sprzêg³a k³owego TRASCO;AR 19/24 R 98 Shore A;szt;2025;30.07.2025;WZ;4
+Wk³adka sprzêg³a k³owego TRASCO;AR 19/24 R 98 Shore A;szt Razem;;;;236
+Krótka piasta sprzêg³a k³owego TRASCO;GRMP 38/45 B;szt;2020;21.01.2020;WZ;2
+Krótka piasta sprzêg³a k³owego TRASCO;GRMP 38/45 B;szt;2020;24.01.2020;WZ;1
+Krótka piasta sprzêg³a k³owego TRASCO;GRMP 38/45 B;szt;2020;29.04.2020;WZ;3
+Krótka piasta sprzêg³a k³owego TRASCO;GRMP 38/45 B;szt;2020;2.06.2020;WZ;2
+Krótka piasta sprzêg³a k³owego TRASCO;GRMP 38/45 B;szt;2020;17.06.2020;WZ;2
+Krótka piasta sprzêg³a k³owego TRASCO;GRMP 38/45 B;szt;2020;23.07.2020;WZ;1
+Krótka piasta sprzêg³a k³owego TRASCO;GRMP 38/45 B;szt;2020;12.11.2020;WZ;4
+Krótka piasta sprzêg³a k³owego TRASCO;GRMP 38/45 B;szt;2020;3.12.2020;WZ;6
+Krótka piasta sprzêg³a k³owego TRASCO;GRMP 38/45 B;szt;2020 Razem;;;21
+Krótka piasta sprzêg³a k³owego TRASCO;GRMP 38/45 B;szt;2021;19.01.2021;WZ;6
+Krótka piasta sprzêg³a k³owego TRASCO;GRMP 38/45 B;szt;2021;22.02.2021;WZ;2
+Krótka piasta sprzêg³a k³owego TRASCO;GRMP 38/45 B;szt;2021;31.03.2021;WZ;8
+Krótka piasta sprzêg³a k³owego TRASCO;GRMP 38/45 B;szt;2021;6.04.2021;WZ;4
+Krótka piasta sprzêg³a k³owego TRASCO;GRMP 38/45 B;szt;2021;13.04.2021;WZ;6
+Krótka piasta sprzêg³a k³owego TRASCO;GRMP 38/45 B;szt;2021;12.05.2021;WZ;6
+Krótka piasta sprzêg³a k³owego TRASCO;GRMP 38/45 B;szt;2021;18.06.2021;WZ;2
+Krótka piasta sprzêg³a k³owego TRASCO;GRMP 38/45 B;szt;2021;14.07.2021;WZ;4
+Krótka piasta sprzêg³a k³owego TRASCO;GRMP 38/45 B;szt;2021;8.09.2021;WZ;2
+Krótka piasta sprzêg³a k³owego TRASCO;GRMP 38/45 B;szt;2021;17.09.2021;WZ;2
+Krótka piasta sprzêg³a k³owego TRASCO;GRMP 38/45 B;szt;2021;23.09.2021;WZ;4
+Krótka piasta sprzêg³a k³owego TRASCO;GRMP 38/45 B;szt;2021 Razem;;;46
+Krótka piasta sprzêg³a k³owego TRASCO;GRMP 38/45 B;szt;2022;10.01.2022;WZ;2
+Krótka piasta sprzêg³a k³owego TRASCO;GRMP 38/45 B;szt;2022;8.02.2022;WZ;1
+Krótka piasta sprzêg³a k³owego TRASCO;GRMP 38/45 B;szt;2022;23.02.2022;WZ;2
+Krótka piasta sprzêg³a k³owego TRASCO;GRMP 38/45 B;szt;2022;24.03.2022;WZ;2
+Krótka piasta sprzêg³a k³owego TRASCO;GRMP 38/45 B;szt;2022;20.05.2022;WZ;2
+Krótka piasta sprzêg³a k³owego TRASCO;GRMP 38/45 B;szt;2022;30.06.2022;WZE;3
+Krótka piasta sprzêg³a k³owego TRASCO;GRMP 38/45 B;szt;2022;18.07.2022;WZ;2
+Krótka piasta sprzêg³a k³owego TRASCO;GRMP 38/45 B;szt;2022;22.07.2022;WZ;20
+Krótka piasta sprzêg³a k³owego TRASCO;GRMP 38/45 B;szt;2022;29.09.2022;WZ;32
+Krótka piasta sprzêg³a k³owego TRASCO;GRMP 38/45 B;szt;2022;6.10.2022;WZ;8
+Krótka piasta sprzêg³a k³owego TRASCO;GRMP 38/45 B;szt;2022;19.10.2022;WZ;10
+Krótka piasta sprzêg³a k³owego TRASCO;GRMP 38/45 B;szt;2022;20.12.2022;WZ;1
+Krótka piasta sprzêg³a k³owego TRASCO;GRMP 38/45 B;szt;2022;21.12.2022;WZ;4
+Krótka piasta sprzêg³a k³owego TRASCO;GRMP 38/45 B;szt;2022 Razem;;;89
+Krótka piasta sprzêg³a k³owego TRASCO;GRMP 38/45 B;szt;2023;11.05.2023;WZ;2
+Krótka piasta sprzêg³a k³owego TRASCO;GRMP 38/45 B;szt;2023;12.07.2023;WZ;6
+Krótka piasta sprzêg³a k³owego TRASCO;GRMP 38/45 B;szt;2023;16.08.2023;WZ;2
+Krótka piasta sprzêg³a k³owego TRASCO;GRMP 38/45 B;szt;2023;4.09.2023;WZ;1
+Krótka piasta sprzêg³a k³owego TRASCO;GRMP 38/45 B;szt;2023;6.09.2023;WZ;6
+Krótka piasta sprzêg³a k³owego TRASCO;GRMP 38/45 B;szt;2023;22.11.2023;WZ;4
+Krótka piasta sprzêg³a k³owego TRASCO;GRMP 38/45 B;szt;2023 Razem;;;21
+Krótka piasta sprzêg³a k³owego TRASCO;GRMP 38/45 B;szt;2024;31.01.2024;WZ;4
+Krótka piasta sprzêg³a k³owego TRASCO;GRMP 38/45 B;szt;2024;29.02.2024;WZ;2
+Krótka piasta sprzêg³a k³owego TRASCO;GRMP 38/45 B;szt;2024;7.03.2024;WZ;4
+Krótka piasta sprzêg³a k³owego TRASCO;GRMP 38/45 B;szt;2024;15.03.2024;WZ;6
+Krótka piasta sprzêg³a k³owego TRASCO;GRMP 38/45 B;szt;2024;4.07.2024;WZ;5
+Krótka piasta sprzêg³a k³owego TRASCO;GRMP 38/45 B;szt;2024;31.07.2024;WZ;1
+Krótka piasta sprzêg³a k³owego TRASCO;GRMP 38/45 B;szt;2024 Razem;;;22
+Krótka piasta sprzêg³a k³owego TRASCO;GRMP 38/45 B;szt;2025;7.02.2025;WZ;10
+Krótka piasta sprzêg³a k³owego TRASCO;GRMP 38/45 B;szt;2025;14.05.2025;WZ;8
+Krótka piasta sprzêg³a k³owego TRASCO;GRMP 38/45 B;szt;2025;13.08.2025;WZ;8
+Krótka piasta sprzêg³a k³owego TRASCO;GRMP 38/45 B;szt;2025 Razem;;;26
+Krótka piasta sprzêg³a k³owego TRASCO;GRMP 38/45 B;szt Razem;;;;225
+Krótka piasta sprzêg³a k³owego TRASCO;GRMP 24/32 B;szt;2020;23.01.2020;WZ;1
+Krótka piasta sprzêg³a k³owego TRASCO;GRMP 24/32 B;szt;2020;26.02.2020;WZ;2
+Krótka piasta sprzêg³a k³owego TRASCO;GRMP 24/32 B;szt;2020;4.03.2020;WZ;4
+Krótka piasta sprzêg³a k³owego TRASCO;GRMP 24/32 B;szt;2020;6.03.2020;WZ;2
+Krótka piasta sprzêg³a k³owego TRASCO;GRMP 24/32 B;szt;2020;24.04.2020;WZ;20
+Krótka piasta sprzêg³a k³owego TRASCO;GRMP 24/32 B;szt;2020;21.05.2020;WZ;3
+Krótka piasta sprzêg³a k³owego TRASCO;GRMP 24/32 B;szt;2020;28.05.2020;WZ;20
+Krótka piasta sprzêg³a k³owego TRASCO;GRMP 24/32 B;szt;2020;30.06.2020;WZ;2
+Krótka piasta sprzêg³a k³owego TRASCO;GRMP 24/32 B;szt;2020;19.08.2020;WZ;2
+Krótka piasta sprzêg³a k³owego TRASCO;GRMP 24/32 B;szt;2020;14.09.2020;WZ;4
+Krótka piasta sprzêg³a k³owego TRASCO;GRMP 24/32 B;szt;2020;1.10.2020;WZ;8
+Krótka piasta sprzêg³a k³owego TRASCO;GRMP 24/32 B;szt;2020;8.10.2020;WZ;2
+Krótka piasta sprzêg³a k³owego TRASCO;GRMP 24/32 B;szt;2020;7.12.2020;WZ;1
+Krótka piasta sprzêg³a k³owego TRASCO;GRMP 24/32 B;szt;2020;9.12.2020;WZ;1
+Krótka piasta sprzêg³a k³owego TRASCO;GRMP 24/32 B;szt;2020 Razem;;;72
+Krótka piasta sprzêg³a k³owego TRASCO;GRMP 24/32 B;szt;2021;7.01.2021;WZ;62
+Krótka piasta sprzêg³a k³owego TRASCO;GRMP 24/32 B;szt;2021;9.02.2021;WZ;2
+Krótka piasta sprzêg³a k³owego TRASCO;GRMP 24/32 B;szt;2021;17.03.2021;WZ;20
+Krótka piasta sprzêg³a k³owego TRASCO;GRMP 24/32 B;szt;2021;12.04.2021;WZ;3
+Krótka piasta sprzêg³a k³owego TRASCO;GRMP 24/32 B;szt;2021;11.05.2021;WZ;8
+Krótka piasta sprzêg³a k³owego TRASCO;GRMP 24/32 B;szt;2021;20.07.2021;WZ;12
+Krótka piasta sprzêg³a k³owego TRASCO;GRMP 24/32 B;szt;2021;22.07.2021;WZ;6
+Krótka piasta sprzêg³a k³owego TRASCO;GRMP 24/32 B;szt;2021;3.11.2021;WZ;4
+Krótka piasta sprzêg³a k³owego TRASCO;GRMP 24/32 B;szt;2021;24.11.2021;WZ;1
+Krótka piasta sprzêg³a k³owego TRASCO;GRMP 24/32 B;szt;2021 Razem;;;118
+Krótka piasta sprzêg³a k³owego TRASCO;GRMP 24/32 B;szt;2022;10.01.2022;WZ;6
+Krótka piasta sprzêg³a k³owego TRASCO;GRMP 24/32 B;szt;2022;18.01.2022;WZ;2
+Krótka piasta sprzêg³a k³owego TRASCO;GRMP 24/32 B;szt;2022;2.02.2022;WZ;2
+Krótka piasta sprzêg³a k³owego TRASCO;GRMP 24/32 B;szt;2022;25.04.2022;WZ;3
+Krótka piasta sprzêg³a k³owego TRASCO;GRMP 24/32 B;szt;2022;2.08.2022;WZ;2
+Krótka piasta sprzêg³a k³owego TRASCO;GRMP 24/32 B;szt;2022;31.08.2022;WZ;3
+Krótka piasta sprzêg³a k³owego TRASCO;GRMP 24/32 B;szt;2022;13.12.2022;WZ;3
+Krótka piasta sprzêg³a k³owego TRASCO;GRMP 24/32 B;szt;2022 Razem;;;21
+Krótka piasta sprzêg³a k³owego TRASCO;GRMP 24/32 B;szt;2024;9.01.2024;WZ;4
+Krótka piasta sprzêg³a k³owego TRASCO;GRMP 24/32 B;szt;2024;10.04.2024;WZ;4
+Krótka piasta sprzêg³a k³owego TRASCO;GRMP 24/32 B;szt;2024;1.08.2024;WZ;4
+Krótka piasta sprzêg³a k³owego TRASCO;GRMP 24/32 B;szt;2024 Razem;;;12
+Krótka piasta sprzêg³a k³owego TRASCO;GRMP 24/32 B;szt;2025;4.07.2025;WZ;2
+Krótka piasta sprzêg³a k³owego TRASCO;GRMP 24/32 B;szt Razem;;;;225
+Wk³adka sprzêg³a TRASCO ES;AES 28/38 G 92 Shore A;szt;2020;24.03.2020;WZ;1
+Wk³adka sprzêg³a TRASCO ES;AES 28/38 G 92 Shore A;szt;2020;15.04.2020;WZ;1
+Wk³adka sprzêg³a TRASCO ES;AES 28/38 G 92 Shore A;szt;2020;25.06.2020;WZ;1
+Wk³adka sprzêg³a TRASCO ES;AES 28/38 G 92 Shore A;szt;2020 Razem;;;3
+Wk³adka sprzêg³a TRASCO ES;AES 28/38 G 92 Shore A;szt;2021;5.11.2021;WZ;1
+Wk³adka sprzêg³a TRASCO ES;AES 28/38 G 92 Shore A;szt;2022;29.09.2022;WZ;1
+Wk³adka sprzêg³a TRASCO ES;AES 28/38 G 92 Shore A;szt;2023;25.01.2023;WZ;4
+Wk³adka sprzêg³a TRASCO ES;AES 28/38 G 92 Shore A;szt;2023;15.06.2023;WZ;1
+Wk³adka sprzêg³a TRASCO ES;AES 28/38 G 92 Shore A;szt;2023;26.06.2023;WZ;16
+Wk³adka sprzêg³a TRASCO ES;AES 28/38 G 92 Shore A;szt;2023;2.08.2023;WZ;5
+Wk³adka sprzêg³a TRASCO ES;AES 28/38 G 92 Shore A;szt;2023;10.08.2023;WZ;5
+Wk³adka sprzêg³a TRASCO ES;AES 28/38 G 92 Shore A;szt;2023;28.08.2023;WZ;1
+Wk³adka sprzêg³a TRASCO ES;AES 28/38 G 92 Shore A;szt;2023;5.09.2023;WZ;4
+Wk³adka sprzêg³a TRASCO ES;AES 28/38 G 92 Shore A;szt;2023;22.09.2023;WZ;147
+Wk³adka sprzêg³a TRASCO ES;AES 28/38 G 92 Shore A;szt;2023 Razem;;;183
+Wk³adka sprzêg³a TRASCO ES;AES 28/38 G 92 Shore A;szt;2024;17.07.2024;WZ;2
+Wk³adka sprzêg³a TRASCO ES;AES 28/38 G 92 Shore A;szt;2025;28.01.2025;WZ;2
+Wk³adka sprzêg³a TRASCO ES;AES 28/38 G 92 Shore A;szt;2025;20.02.2025;WZ;1
+Wk³adka sprzêg³a TRASCO ES;AES 28/38 G 92 Shore A;szt;2025;31.07.2025;WZ;4
+Wk³adka sprzêg³a TRASCO ES;AES 28/38 G 92 Shore A;szt;2025 Razem;;;7
+Wk³adka sprzêg³a TRASCO ES;AES 28/38 G 92 Shore A;szt Razem;;;;197
+Piasta sprzêg³a TRASCO ES;GESM 28/38 F35;szt;2020;10.06.2020;WZ;4
+Piasta sprzêg³a TRASCO ES;GESM 28/38 F35;szt;2021;24.08.2021;WZ;2
+Piasta sprzêg³a TRASCO ES;GESM 28/38 F35;szt;2023;26.06.2023;WZ;26
+Piasta sprzêg³a TRASCO ES;GESM 28/38 F35;szt;2023;2.08.2023;WZ;10
+Piasta sprzêg³a TRASCO ES;GESM 28/38 F35;szt;2023;25.08.2023;WZ;2
+Piasta sprzêg³a TRASCO ES;GESM 28/38 F35;szt;2023;22.09.2023;WZ;147
+Piasta sprzêg³a TRASCO ES;GESM 28/38 F35;szt;2023 Razem;;;185
+Piasta sprzêg³a TRASCO ES;GESM 28/38 F35;szt Razem;;;;191
+Wk³adka sprzêg³a k³owego TRASCO;AR 24/32 R 98 Shore A;szt;2020;17.01.2020;WZ;1
+Wk³adka sprzêg³a k³owego TRASCO;AR 24/32 R 98 Shore A;szt;2020;18.02.2020;WZ;2
+Wk³adka sprzêg³a k³owego TRASCO;AR 24/32 R 98 Shore A;szt;2020;26.02.2020;WZ;1
+Wk³adka sprzêg³a k³owego TRASCO;AR 24/32 R 98 Shore A;szt;2020;15.04.2020;WZ;2
+Wk³adka sprzêg³a k³owego TRASCO;AR 24/32 R 98 Shore A;szt;2020;24.04.2020;WZ;10
+Wk³adka sprzêg³a k³owego TRASCO;AR 24/32 R 98 Shore A;szt;2020;21.05.2020;WZ;3
+Wk³adka sprzêg³a k³owego TRASCO;AR 24/32 R 98 Shore A;szt;2020;26.05.2020;WZ;10
+Wk³adka sprzêg³a k³owego TRASCO;AR 24/32 R 98 Shore A;szt;2020;28.05.2020;WZ;10
+Wk³adka sprzêg³a k³owego TRASCO;AR 24/32 R 98 Shore A;szt;2020;29.05.2020;WZ;12
+Wk³adka sprzêg³a k³owego TRASCO;AR 24/32 R 98 Shore A;szt;2020;22.07.2020;WZ;1
+Wk³adka sprzêg³a k³owego TRASCO;AR 24/32 R 98 Shore A;szt;2020;19.08.2020;WZ;2
+Wk³adka sprzêg³a k³owego TRASCO;AR 24/32 R 98 Shore A;szt;2020;14.09.2020;WZ;2
+Wk³adka sprzêg³a k³owego TRASCO;AR 24/32 R 98 Shore A;szt;2020;1.10.2020;WZ;4
+Wk³adka sprzêg³a k³owego TRASCO;AR 24/32 R 98 Shore A;szt;2020 Razem;;;60
+Wk³adka sprzêg³a k³owego TRASCO;AR 24/32 R 98 Shore A;szt;2021;7.01.2021;WZ;30
+Wk³adka sprzêg³a k³owego TRASCO;AR 24/32 R 98 Shore A;szt;2021;17.03.2021;WZ;10
+Wk³adka sprzêg³a k³owego TRASCO;AR 24/32 R 98 Shore A;szt;2021;12.04.2021;WZ;3
+Wk³adka sprzêg³a k³owego TRASCO;AR 24/32 R 98 Shore A;szt;2021;11.05.2021;WZ;7
+Wk³adka sprzêg³a k³owego TRASCO;AR 24/32 R 98 Shore A;szt;2021;9.06.2021;WZ;2
+Wk³adka sprzêg³a k³owego TRASCO;AR 24/32 R 98 Shore A;szt;2021;22.07.2021;WZ;3
+Wk³adka sprzêg³a k³owego TRASCO;AR 24/32 R 98 Shore A;szt;2021;3.11.2021;WZ;4
+Wk³adka sprzêg³a k³owego TRASCO;AR 24/32 R 98 Shore A;szt;2021;22.11.2021;WZ;1
+Wk³adka sprzêg³a k³owego TRASCO;AR 24/32 R 98 Shore A;szt;2021;24.11.2021;WZ;1
+Wk³adka sprzêg³a k³owego TRASCO;AR 24/32 R 98 Shore A;szt;2021;1.12.2021;WZ;8
+Wk³adka sprzêg³a k³owego TRASCO;AR 24/32 R 98 Shore A;szt;2021 Razem;;;69
+Wk³adka sprzêg³a k³owego TRASCO;AR 24/32 R 98 Shore A;szt;2022;10.01.2022;WZ;6
+Wk³adka sprzêg³a k³owego TRASCO;AR 24/32 R 98 Shore A;szt;2022;2.02.2022;WZ;2
+Wk³adka sprzêg³a k³owego TRASCO;AR 24/32 R 98 Shore A;szt;2022;25.04.2022;WZ;3
+Wk³adka sprzêg³a k³owego TRASCO;AR 24/32 R 98 Shore A;szt;2022;19.08.2022;WZ;1
+Wk³adka sprzêg³a k³owego TRASCO;AR 24/32 R 98 Shore A;szt;2022;18.11.2022;WZ;1
+Wk³adka sprzêg³a k³owego TRASCO;AR 24/32 R 98 Shore A;szt;2022;13.12.2022;WZ;3
+Wk³adka sprzêg³a k³owego TRASCO;AR 24/32 R 98 Shore A;szt;2022 Razem;;;16
+Wk³adka sprzêg³a k³owego TRASCO;AR 24/32 R 98 Shore A;szt;2023;1.03.2023;WZ;2
+Wk³adka sprzêg³a k³owego TRASCO;AR 24/32 R 98 Shore A;szt;2023;5.10.2023;WZ;6
+Wk³adka sprzêg³a k³owego TRASCO;AR 24/32 R 98 Shore A;szt;2023;12.10.2023;WZ;2
+Wk³adka sprzêg³a k³owego TRASCO;AR 24/32 R 98 Shore A;szt;2023;16.10.2023;WZ;3
+Wk³adka sprzêg³a k³owego TRASCO;AR 24/32 R 98 Shore A;szt;2023 Razem;;;13
+Wk³adka sprzêg³a k³owego TRASCO;AR 24/32 R 98 Shore A;szt;2024;9.01.2024;WZ;3
+Wk³adka sprzêg³a k³owego TRASCO;AR 24/32 R 98 Shore A;szt;2024;1.08.2024;WZ;3
+Wk³adka sprzêg³a k³owego TRASCO;AR 24/32 R 98 Shore A;szt;2024;23.09.2024;WZ;1
+Wk³adka sprzêg³a k³owego TRASCO;AR 24/32 R 98 Shore A;szt;2024;4.11.2024;WZ;2
+Wk³adka sprzêg³a k³owego TRASCO;AR 24/32 R 98 Shore A;szt;2024 Razem;;;9
+Wk³adka sprzêg³a k³owego TRASCO;AR 24/32 R 98 Shore A;szt;2025;18.04.2025;WZ;6
+Wk³adka sprzêg³a k³owego TRASCO;AR 24/32 R 98 Shore A;szt;2025;22.04.2025;WZ;1
+Wk³adka sprzêg³a k³owego TRASCO;AR 24/32 R 98 Shore A;szt;2025;14.08.2025;WZ;1
+Wk³adka sprzêg³a k³owego TRASCO;AR 24/32 R 98 Shore A;szt;2025 Razem;;;8
+Wk³adka sprzêg³a k³owego TRASCO;AR 24/32 R 98 Shore A;szt Razem;;;;175
+Wk³adka sprzêg³a k³owego TRASCO;AR 19/24 92 Shore A;szt;2020;20.01.2020;WZ;1
+Wk³adka sprzêg³a k³owego TRASCO;AR 19/24 92 Shore A;szt;2020;13.02.2020;WZ;2
+Wk³adka sprzêg³a k³owego TRASCO;AR 19/24 92 Shore A;szt;2020;12.03.2020;WZ;5
+Wk³adka sprzêg³a k³owego TRASCO;AR 19/24 92 Shore A;szt;2020;16.03.2020;WZ;2
+Wk³adka sprzêg³a k³owego TRASCO;AR 19/24 92 Shore A;szt;2020;31.03.2020;WZ;2
+Wk³adka sprzêg³a k³owego TRASCO;AR 19/24 92 Shore A;szt;2020;9.04.2020;WZ;2
+Wk³adka sprzêg³a k³owego TRASCO;AR 19/24 92 Shore A;szt;2020;14.05.2020;WZ;3
+Wk³adka sprzêg³a k³owego TRASCO;AR 19/24 92 Shore A;szt;2020;17.06.2020;WZ;2
+Wk³adka sprzêg³a k³owego TRASCO;AR 19/24 92 Shore A;szt;2020;18.06.2020;WZ;1
+Wk³adka sprzêg³a k³owego TRASCO;AR 19/24 92 Shore A;szt;2020;26.06.2020;WZ;1
+Wk³adka sprzêg³a k³owego TRASCO;AR 19/24 92 Shore A;szt;2020;23.07.2020;WZ;2
+Wk³adka sprzêg³a k³owego TRASCO;AR 19/24 92 Shore A;szt;2020;15.09.2020;WZ;5
+Wk³adka sprzêg³a k³owego TRASCO;AR 19/24 92 Shore A;szt;2020;30.09.2020;WZ;5
+Wk³adka sprzêg³a k³owego TRASCO;AR 19/24 92 Shore A;szt;2020;15.10.2020;WZ;4
+Wk³adka sprzêg³a k³owego TRASCO;AR 19/24 92 Shore A;szt;2020;6.11.2020;WZ;12
+Wk³adka sprzêg³a k³owego TRASCO;AR 19/24 92 Shore A;szt;2020;1.12.2020;WZ;3
+Wk³adka sprzêg³a k³owego TRASCO;AR 19/24 92 Shore A;szt;2020 Razem;;;52
+Wk³adka sprzêg³a k³owego TRASCO;AR 19/24 92 Shore A;szt;2021;27.01.2021;WZ;3
+Wk³adka sprzêg³a k³owego TRASCO;AR 19/24 92 Shore A;szt;2021;4.02.2021;WZ;5
+Wk³adka sprzêg³a k³owego TRASCO;AR 19/24 92 Shore A;szt;2021;9.02.2021;WZ;4
+Wk³adka sprzêg³a k³owego TRASCO;AR 19/24 92 Shore A;szt;2021;22.02.2021;WZ;2
+Wk³adka sprzêg³a k³owego TRASCO;AR 19/24 92 Shore A;szt;2021;8.03.2021;WZ;4
+Wk³adka sprzêg³a k³owego TRASCO;AR 19/24 92 Shore A;szt;2021;30.03.2021;WZ;1
+Wk³adka sprzêg³a k³owego TRASCO;AR 19/24 92 Shore A;szt;2021;9.04.2021;WZ;2
+Wk³adka sprzêg³a k³owego TRASCO;AR 19/24 92 Shore A;szt;2021;16.04.2021;WZ;7
+Wk³adka sprzêg³a k³owego TRASCO;AR 19/24 92 Shore A;szt;2021;28.07.2021;WZ;6
+Wk³adka sprzêg³a k³owego TRASCO;AR 19/24 92 Shore A;szt;2021;26.08.2021;WZ;3
+Wk³adka sprzêg³a k³owego TRASCO;AR 19/24 92 Shore A;szt;2021;3.09.2021;WZ;1
+Wk³adka sprzêg³a k³owego TRASCO;AR 19/24 92 Shore A;szt;2021;15.09.2021;WZ;2
+Wk³adka sprzêg³a k³owego TRASCO;AR 19/24 92 Shore A;szt;2021;10.12.2021;WZ;2
+Wk³adka sprzêg³a k³owego TRASCO;AR 19/24 92 Shore A;szt;2021 Razem;;;42
+Wk³adka sprzêg³a k³owego TRASCO;AR 19/24 92 Shore A;szt;2022;12.01.2022;WZ;10
+Wk³adka sprzêg³a k³owego TRASCO;AR 19/24 92 Shore A;szt;2022;4.02.2022;WZ;10
+Wk³adka sprzêg³a k³owego TRASCO;AR 19/24 92 Shore A;szt;2022;18.10.2022;WZ;1
+Wk³adka sprzêg³a k³owego TRASCO;AR 19/24 92 Shore A;szt;2022;17.11.2022;WZ;1
+Wk³adka sprzêg³a k³owego TRASCO;AR 19/24 92 Shore A;szt;2022 Razem;;;22
+Wk³adka sprzêg³a k³owego TRASCO;AR 19/24 92 Shore A;szt;2023;13.01.2023;WZ;1
+Wk³adka sprzêg³a k³owego TRASCO;AR 19/24 92 Shore A;szt;2023;16.01.2023;WZ;3
+Wk³adka sprzêg³a k³owego TRASCO;AR 19/24 92 Shore A;szt;2023;31.03.2023;WZ;1
+Wk³adka sprzêg³a k³owego TRASCO;AR 19/24 92 Shore A;szt;2023;21.06.2023;WZ;1
+Wk³adka sprzêg³a k³owego TRASCO;AR 19/24 92 Shore A;szt;2023;28.06.2023;WZ;3
+Wk³adka sprzêg³a k³owego TRASCO;AR 19/24 92 Shore A;szt;2023;12.07.2023;WZ;2
+Wk³adka sprzêg³a k³owego TRASCO;AR 19/24 92 Shore A;szt;2023;28.08.2023;WZ;2
+Wk³adka sprzêg³a k³owego TRASCO;AR 19/24 92 Shore A;szt;2023;29.08.2023;WZ;1
+Wk³adka sprzêg³a k³owego TRASCO;AR 19/24 92 Shore A;szt;2023;14.09.2023;WZ;1
+Wk³adka sprzêg³a k³owego TRASCO;AR 19/24 92 Shore A;szt;2023;27.09.2023;WZ;4
+Wk³adka sprzêg³a k³owego TRASCO;AR 19/24 92 Shore A;szt;2023;26.10.2023;WZ;10
+Wk³adka sprzêg³a k³owego TRASCO;AR 19/24 92 Shore A;szt;2023 Razem;;;29
+Wk³adka sprzêg³a k³owego TRASCO;AR 19/24 92 Shore A;szt;2024;29.04.2024;WZ;1
+Wk³adka sprzêg³a k³owego TRASCO;AR 19/24 92 Shore A;szt;2024;13.09.2024;WZ;2
+Wk³adka sprzêg³a k³owego TRASCO;AR 19/24 92 Shore A;szt;2024;7.11.2024;WZ;5
+Wk³adka sprzêg³a k³owego TRASCO;AR 19/24 92 Shore A;szt;2024 Razem;;;8
+Wk³adka sprzêg³a k³owego TRASCO;AR 19/24 92 Shore A;szt;2025;10.02.2025;WZ;5
+Wk³adka sprzêg³a k³owego TRASCO;AR 19/24 92 Shore A;szt;2025;20.05.2025;WZ;1
+Wk³adka sprzêg³a k³owego TRASCO;AR 19/24 92 Shore A;szt;2025;29.05.2025;WZ;2
+Wk³adka sprzêg³a k³owego TRASCO;AR 19/24 92 Shore A;szt;2025;12.08.2025;WZ;4
+Wk³adka sprzêg³a k³owego TRASCO;AR 19/24 92 Shore A;szt;2025 Razem;;;12
+Wk³adka sprzêg³a k³owego TRASCO;AR 19/24 92 Shore A;szt Razem;;;;165
+Sprzêg³o ³añcuchowe ComInTec;GC 3 (1''x17,02mm Z17);szt;2020;27.02.2020;WZ;12
+Sprzêg³o ³añcuchowe ComInTec;GC 3 (1''x17,02mm Z17);szt;2020;29.04.2020;WZ;1
+Sprzêg³o ³añcuchowe ComInTec;GC 3 (1''x17,02mm Z17);szt;2020;20.05.2020;WZ;1
+Sprzêg³o ³añcuchowe ComInTec;GC 3 (1''x17,02mm Z17);szt;2020;30.09.2020;WZ;9
+Sprzêg³o ³añcuchowe ComInTec;GC 3 (1''x17,02mm Z17);szt;2020;4.11.2020;WZ;6
+Sprzêg³o ³añcuchowe ComInTec;GC 3 (1''x17,02mm Z17);szt;2020 Razem;;;29
+Sprzêg³o ³añcuchowe ComInTec;GC 3 (1''x17,02mm Z17);szt;2021;26.04.2021;WZ;12
+Sprzêg³o ³añcuchowe ComInTec;GC 3 (1''x17,02mm Z17);szt;2021;9.07.2021;WZ;6
+Sprzêg³o ³añcuchowe ComInTec;GC 3 (1''x17,02mm Z17);szt;2021;16.08.2021;WZ;18
+Sprzêg³o ³añcuchowe ComInTec;GC 3 (1''x17,02mm Z17);szt;2021;5.10.2021;WZ;10
+Sprzêg³o ³añcuchowe ComInTec;GC 3 (1''x17,02mm Z17);szt;2021;23.11.2021;WZ;12
+Sprzêg³o ³añcuchowe ComInTec;GC 3 (1''x17,02mm Z17);szt;2021 Razem;;;58
+Sprzêg³o ³añcuchowe ComInTec;GC 3 (1''x17,02mm Z17);szt;2022;21.02.2022;WZ;4
+Sprzêg³o ³añcuchowe ComInTec;GC 3 (1''x17,02mm Z17);szt;2022;20.04.2022;WZ;2
+Sprzêg³o ³añcuchowe ComInTec;GC 3 (1''x17,02mm Z17);szt;2022;5.08.2022;WZ;8
+Sprzêg³o ³añcuchowe ComInTec;GC 3 (1''x17,02mm Z17);szt;2022;13.10.2022;WZE;4
+Sprzêg³o ³añcuchowe ComInTec;GC 3 (1''x17,02mm Z17);szt;2022 Razem;;;18
+Sprzêg³o ³añcuchowe ComInTec;GC 3 (1''x17,02mm Z17);szt;2023;17.02.2023;WZ;1
+Sprzêg³o ³añcuchowe ComInTec;GC 3 (1''x17,02mm Z17);szt;2023;1.03.2023;WZ;10
+Sprzêg³o ³añcuchowe ComInTec;GC 3 (1''x17,02mm Z17);szt;2023;9.03.2023;WZ;2
+Sprzêg³o ³añcuchowe ComInTec;GC 3 (1''x17,02mm Z17);szt;2023;11.04.2023;WZ;1
+Sprzêg³o ³añcuchowe ComInTec;GC 3 (1''x17,02mm Z17);szt;2023;21.06.2023;WZ;1
+Sprzêg³o ³añcuchowe ComInTec;GC 3 (1''x17,02mm Z17);szt;2023;27.09.2023;WZ;6
+Sprzêg³o ³añcuchowe ComInTec;GC 3 (1''x17,02mm Z17);szt;2023;19.10.2023;WZ;2
+Sprzêg³o ³añcuchowe ComInTec;GC 3 (1''x17,02mm Z17);szt;2023;20.10.2023;WZ;2
+Sprzêg³o ³añcuchowe ComInTec;GC 3 (1''x17,02mm Z17);szt;2023;8.11.2023;WZ;2
+Sprzêg³o ³añcuchowe ComInTec;GC 3 (1''x17,02mm Z17);szt;2023 Razem;;;27
+Sprzêg³o ³añcuchowe ComInTec;GC 3 (1''x17,02mm Z17);szt;2024;11.01.2024;WZ;6
+Sprzêg³o ³añcuchowe ComInTec;GC 3 (1''x17,02mm Z17);szt;2024;9.04.2024;WZ;3
+Sprzêg³o ³añcuchowe ComInTec;GC 3 (1''x17,02mm Z17);szt;2024;22.04.2024;WZ;2
+Sprzêg³o ³añcuchowe ComInTec;GC 3 (1''x17,02mm Z17);szt;2024;7.08.2024;WZ;3
+Sprzêg³o ³añcuchowe ComInTec;GC 3 (1''x17,02mm Z17);szt;2024 Razem;;;14
+Sprzêg³o ³añcuchowe ComInTec;GC 3 (1''x17,02mm Z17);szt;2025;16.09.2025;WZ;6
+Sprzêg³o ³añcuchowe ComInTec;GC 3 (1''x17,02mm Z17);szt Razem;;;;152
+Wk³adka sprzêg³a HRC;HRC 90;szt;2020;20.08.2020;WZ;1
+Wk³adka sprzêg³a HRC;HRC 90;szt;2020;13.11.2020;WZ;20
+Wk³adka sprzêg³a HRC;HRC 90;szt;2020;27.11.2020;WZ;10
+Wk³adka sprzêg³a HRC;HRC 90;szt;2020 Razem;;;31
+Wk³adka sprzêg³a HRC;HRC 90;szt;2021;12.01.2021;WZ;10
+Wk³adka sprzêg³a HRC;HRC 90;szt;2021;2.04.2021;WZ;19
+Wk³adka sprzêg³a HRC;HRC 90;szt;2021;7.04.2021;WZ;11
+Wk³adka sprzêg³a HRC;HRC 90;szt;2021;23.07.2021;WZ;3
+Wk³adka sprzêg³a HRC;HRC 90;szt;2021 Razem;;;43
+Wk³adka sprzêg³a HRC;HRC 90;szt;2022;20.09.2022;WZ;1
+Wk³adka sprzêg³a HRC;HRC 90;szt;2022;3.10.2022;WZ;1
+Wk³adka sprzêg³a HRC;HRC 90;szt;2022;7.12.2022;WZ;10
+Wk³adka sprzêg³a HRC;HRC 90;szt;2022 Razem;;;12
+Wk³adka sprzêg³a HRC;HRC 90;szt;2023;14.02.2023;WZ;10
+Wk³adka sprzêg³a HRC;HRC 90;szt;2023;10.05.2023;WZ;10
+Wk³adka sprzêg³a HRC;HRC 90;szt;2023;14.07.2023;WZ;1
+Wk³adka sprzêg³a HRC;HRC 90;szt;2023;2.08.2023;WZ;10
+Wk³adka sprzêg³a HRC;HRC 90;szt;2023 Razem;;;31
+Wk³adka sprzêg³a HRC;HRC 90;szt;2024;19.04.2024;WZ;10
+Wk³adka sprzêg³a HRC;HRC 90;szt;2025;2.07.2025;WZ;2
+Wk³adka sprzêg³a HRC;HRC 90;szt;2025;17.09.2025;WZ;9
+Wk³adka sprzêg³a HRC;HRC 90;szt;2025 Razem;;;11
+Wk³adka sprzêg³a HRC;HRC 90;szt Razem;;;;138
+Wk³adka sprzêg³a ES;AES 14 G 92 Shore A;szt;2020;8.01.2020;WZ;5
+Wk³adka sprzêg³a ES;AES 14 G 92 Shore A;szt;2020;10.01.2020;WZ;4
+Wk³adka sprzêg³a ES;AES 14 G 92 Shore A;szt;2020;15.01.2020;WZ;1
+Wk³adka sprzêg³a ES;AES 14 G 92 Shore A;szt;2020;21.01.2020;WZ;2
+Wk³adka sprzêg³a ES;AES 14 G 92 Shore A;szt;2020;19.03.2020;WZ;2
+Wk³adka sprzêg³a ES;AES 14 G 92 Shore A;szt;2020;2.06.2020;WZ;9
+Wk³adka sprzêg³a ES;AES 14 G 92 Shore A;szt;2020;15.06.2020;WZ;12
+Wk³adka sprzêg³a ES;AES 14 G 92 Shore A;szt;2020;7.07.2020;WZ;2
+Wk³adka sprzêg³a ES;AES 14 G 92 Shore A;szt;2020;30.07.2020;WZ;4
+Wk³adka sprzêg³a ES;AES 14 G 92 Shore A;szt;2020;23.09.2020;WZ;2
+Wk³adka sprzêg³a ES;AES 14 G 92 Shore A;szt;2020;8.10.2020;WZ;4
+Wk³adka sprzêg³a ES;AES 14 G 92 Shore A;szt;2020;6.11.2020;WZ;3
+Wk³adka sprzêg³a ES;AES 14 G 92 Shore A;szt;2020 Razem;;;50
+Wk³adka sprzêg³a ES;AES 14 G 92 Shore A;szt;2021;25.02.2021;WZ;30
+Wk³adka sprzêg³a ES;AES 14 G 92 Shore A;szt;2021;10.03.2021;WZ;12
+Wk³adka sprzêg³a ES;AES 14 G 92 Shore A;szt;2021;22.03.2021;WZ;4
+Wk³adka sprzêg³a ES;AES 14 G 92 Shore A;szt;2021;12.04.2021;WZ;2
+Wk³adka sprzêg³a ES;AES 14 G 92 Shore A;szt;2021;9.07.2021;WZ;4
+Wk³adka sprzêg³a ES;AES 14 G 92 Shore A;szt;2021;29.10.2021;FSL;0
+Wk³adka sprzêg³a ES;AES 14 G 92 Shore A;szt;2021;3.11.2021;WZ;1
+Wk³adka sprzêg³a ES;AES 14 G 92 Shore A;szt;2021 Razem;;;53
+Wk³adka sprzêg³a ES;AES 14 G 92 Shore A;szt;2022;25.02.2022;WZ;1
+Wk³adka sprzêg³a ES;AES 14 G 92 Shore A;szt;2022;4.05.2022;WZ;1
+Wk³adka sprzêg³a ES;AES 14 G 92 Shore A;szt;2022;7.07.2022;WZ;3
+Wk³adka sprzêg³a ES;AES 14 G 92 Shore A;szt;2022;27.09.2022;WZ;1
+Wk³adka sprzêg³a ES;AES 14 G 92 Shore A;szt;2022;29.09.2022;WZ;1
+Wk³adka sprzêg³a ES;AES 14 G 92 Shore A;szt;2022;30.11.2022;WZ;3
+Wk³adka sprzêg³a ES;AES 14 G 92 Shore A;szt;2022;7.12.2022;WZ;2
+Wk³adka sprzêg³a ES;AES 14 G 92 Shore A;szt;2022 Razem;;;12
+Wk³adka sprzêg³a ES;AES 14 G 92 Shore A;szt;2023;3.02.2023;WZ;4
+Wk³adka sprzêg³a ES;AES 14 G 92 Shore A;szt;2023;30.03.2023;WZ;2
+Wk³adka sprzêg³a ES;AES 14 G 92 Shore A;szt;2023;4.04.2023;WZ;1
+Wk³adka sprzêg³a ES;AES 14 G 92 Shore A;szt;2023;22.06.2023;WZ;1
+Wk³adka sprzêg³a ES;AES 14 G 92 Shore A;szt;2023;7.07.2023;WZ;1
+Wk³adka sprzêg³a ES;AES 14 G 92 Shore A;szt;2023 Razem;;;9
+Wk³adka sprzêg³a ES;AES 14 G 92 Shore A;szt;2024;14.03.2024;WZ;1
+Wk³adka sprzêg³a ES;AES 14 G 92 Shore A;szt;2024;2.04.2024;WZ;3
+Wk³adka sprzêg³a ES;AES 14 G 92 Shore A;szt;2024;14.05.2024;WZ;1
+Wk³adka sprzêg³a ES;AES 14 G 92 Shore A;szt;2024;29.08.2024;WZ;2
+Wk³adka sprzêg³a ES;AES 14 G 92 Shore A;szt;2024;5.11.2024;WZ;1
+Wk³adka sprzêg³a ES;AES 14 G 92 Shore A;szt;2024 Razem;;;8
+Wk³adka sprzêg³a ES;AES 14 G 92 Shore A;szt;2025;4.03.2025;WZ;1
+Wk³adka sprzêg³a ES;AES 14 G 92 Shore A;szt Razem;;;;133
+Piasta sprzêg³a k³owego TRASCO ALU;GRMALU 24/32 B;szt;2020;22.07.2020;WZ;2
+Piasta sprzêg³a k³owego TRASCO ALU;GRMALU 24/32 B;szt;2020;4.09.2020;WZ;2
+Piasta sprzêg³a k³owego TRASCO ALU;GRMALU 24/32 B;szt;2020;23.10.2020;WZ;20
+Piasta sprzêg³a k³owego TRASCO ALU;GRMALU 24/32 B;szt;2020 Razem;;;24
+Piasta sprzêg³a k³owego TRASCO ALU;GRMALU 24/32 B;szt;2021;21.01.2021;WZ;5
+Piasta sprzêg³a k³owego TRASCO ALU;GRMALU 24/32 B;szt;2021;9.02.2021;WZ;2
+Piasta sprzêg³a k³owego TRASCO ALU;GRMALU 24/32 B;szt;2021;14.04.2021;WZ;10
+Piasta sprzêg³a k³owego TRASCO ALU;GRMALU 24/32 B;szt;2021;17.06.2021;WZ;6
+Piasta sprzêg³a k³owego TRASCO ALU;GRMALU 24/32 B;szt;2021;15.09.2021;WZ;4
+Piasta sprzêg³a k³owego TRASCO ALU;GRMALU 24/32 B;szt;2021;1.12.2021;WZ;16
+Piasta sprzêg³a k³owego TRASCO ALU;GRMALU 24/32 B;szt;2021 Razem;;;43
+Piasta sprzêg³a k³owego TRASCO ALU;GRMALU 24/32 B;szt;2022;2.06.2022;WZ;2
+Piasta sprzêg³a k³owego TRASCO ALU;GRMALU 24/32 B;szt;2022;31.10.2022;WZ;20
+Piasta sprzêg³a k³owego TRASCO ALU;GRMALU 24/32 B;szt;2022 Razem;;;22
+Piasta sprzêg³a k³owego TRASCO ALU;GRMALU 24/32 B;szt;2024;20.03.2024;WZ;20
+Piasta sprzêg³a k³owego TRASCO ALU;GRMALU 24/32 B;szt;2024;29.11.2024;WZ;20
+Piasta sprzêg³a k³owego TRASCO ALU;GRMALU 24/32 B;szt;2024 Razem;;;40
+Piasta sprzêg³a k³owego TRASCO ALU;GRMALU 24/32 B;szt;2025;22.04.2025;WZ;1
+Piasta sprzêg³a k³owego TRASCO ALU;GRMALU 24/32 B;szt Razem;;;;130
+Piasta sprzêg³a METALDRIVE;GMD 038;szt;2024;19.12.2024;WZ;60
+Piasta sprzêg³a METALDRIVE;GMD 038;szt;2025;29.08.2025;WZ;32
+Piasta sprzêg³a METALDRIVE;GMD 038;szt;2025;31.10.2025;WZ;32
+Piasta sprzêg³a METALDRIVE;GMD 038;szt;2025 Razem;;;64
+Piasta sprzêg³a METALDRIVE;GMD 038;szt Razem;;;;124
+Wk³adka sprzêg³a ES;AES 24/28 R 98 Shore A;szt;2020;13.05.2020;WZ;2
+Wk³adka sprzêg³a ES;AES 24/28 R 98 Shore A;szt;2020;14.05.2020;WZ;40
+Wk³adka sprzêg³a ES;AES 24/28 R 98 Shore A;szt;2020;10.06.2020;WZ;1
+Wk³adka sprzêg³a ES;AES 24/28 R 98 Shore A;szt;2020;26.08.2020;WZ;2
+Wk³adka sprzêg³a ES;AES 24/28 R 98 Shore A;szt;2020;30.11.2020;WZ;2
+Wk³adka sprzêg³a ES;AES 24/28 R 98 Shore A;szt;2020 Razem;;;47
+Wk³adka sprzêg³a ES;AES 24/28 R 98 Shore A;szt;2021;26.02.2021;WZ;4
+Wk³adka sprzêg³a ES;AES 24/28 R 98 Shore A;szt;2021;16.03.2021;WZ;1
+Wk³adka sprzêg³a ES;AES 24/28 R 98 Shore A;szt;2021;12.04.2021;WZ;6
+Wk³adka sprzêg³a ES;AES 24/28 R 98 Shore A;szt;2021;31.08.2021;WZ;2
+Wk³adka sprzêg³a ES;AES 24/28 R 98 Shore A;szt;2021;15.10.2021;WZ;4
+Wk³adka sprzêg³a ES;AES 24/28 R 98 Shore A;szt;2021 Razem;;;17
+Wk³adka sprzêg³a ES;AES 24/28 R 98 Shore A;szt;2022;2.02.2022;WZ;2
+Wk³adka sprzêg³a ES;AES 24/28 R 98 Shore A;szt;2022;15.03.2022;WZ;2
+Wk³adka sprzêg³a ES;AES 24/28 R 98 Shore A;szt;2022;25.04.2022;WZ;2
+Wk³adka sprzêg³a ES;AES 24/28 R 98 Shore A;szt;2022;4.08.2022;WZ;2
+Wk³adka sprzêg³a ES;AES 24/28 R 98 Shore A;szt;2022;11.08.2022;WZ;1
+Wk³adka sprzêg³a ES;AES 24/28 R 98 Shore A;szt;2022 Razem;;;9
+Wk³adka sprzêg³a ES;AES 24/28 R 98 Shore A;szt;2023;20.02.2023;WZ;2
+Wk³adka sprzêg³a ES;AES 24/28 R 98 Shore A;szt;2023;13.04.2023;WZ;1
+Wk³adka sprzêg³a ES;AES 24/28 R 98 Shore A;szt;2023;26.06.2023;WZ;1
+Wk³adka sprzêg³a ES;AES 24/28 R 98 Shore A;szt;2023;12.12.2023;WZ;1
+Wk³adka sprzêg³a ES;AES 24/28 R 98 Shore A;szt;2023;22.12.2023;WZ;1
+Wk³adka sprzêg³a ES;AES 24/28 R 98 Shore A;szt;2023 Razem;;;6
+Wk³adka sprzêg³a ES;AES 24/28 R 98 Shore A;szt;2024;5.06.2024;WZ;4
+Wk³adka sprzêg³a ES;AES 24/28 R 98 Shore A;szt;2024;21.06.2024;WZ;2
+Wk³adka sprzêg³a ES;AES 24/28 R 98 Shore A;szt;2024;26.06.2024;WZE;1
+Wk³adka sprzêg³a ES;AES 24/28 R 98 Shore A;szt;2024;25.07.2024;WZ;13
+Wk³adka sprzêg³a ES;AES 24/28 R 98 Shore A;szt;2024;18.09.2024;WZ;1
+Wk³adka sprzêg³a ES;AES 24/28 R 98 Shore A;szt;2024;13.11.2024;WZ;4
+Wk³adka sprzêg³a ES;AES 24/28 R 98 Shore A;szt;2024 Razem;;;25
+Wk³adka sprzêg³a ES;AES 24/28 R 98 Shore A;szt;2025;21.01.2025;WZ;1
+Wk³adka sprzêg³a ES;AES 24/28 R 98 Shore A;szt;2025;10.02.2025;WZ;4
+Wk³adka sprzêg³a ES;AES 24/28 R 98 Shore A;szt;2025;25.04.2025;WZ;2
+Wk³adka sprzêg³a ES;AES 24/28 R 98 Shore A;szt;2025;23.05.2025;WZ;4
+Wk³adka sprzêg³a ES;AES 24/28 R 98 Shore A;szt;2025;24.06.2025;WZ;1
+Wk³adka sprzêg³a ES;AES 24/28 R 98 Shore A;szt;2025;26.06.2025;WZ;1
+Wk³adka sprzêg³a ES;AES 24/28 R 98 Shore A;szt;2025;26.11.2025;WZ;2
+Wk³adka sprzêg³a ES;AES 24/28 R 98 Shore A;szt;2025;11.12.2025;WZ;4
+Wk³adka sprzêg³a ES;AES 24/28 R 98 Shore A;szt;2025 Razem;;;19
+Wk³adka sprzêg³a ES;AES 24/28 R 98 Shore A;szt Razem;;;;123
+Piasta sprzêg³a TRASCO ES z rowkiem;GESM 28/38 F25, dr. DIN 6985/1;szt;2020;8.12.2020;WZ;2
+Piasta sprzêg³a TRASCO ES z rowkiem;GESM 28/38 F25, dr. DIN 6985/1;szt;2021;15.03.2021;WZ;1
+Piasta sprzêg³a TRASCO ES z rowkiem;GESM 28/38 F25, dr. DIN 6985/1;szt;2021;29.07.2021;WZ;1
+Piasta sprzêg³a TRASCO ES z rowkiem;GESM 28/38 F25, dr. DIN 6985/1;szt;2021 Razem;;;2
+Piasta sprzêg³a TRASCO ES z rowkiem;GESM 28/38 F25, dr. DIN 6985/1;szt;2022;24.10.2022;WZ;4
+Piasta sprzêg³a TRASCO ES z rowkiem;GESM 28/38 F25, dr. DIN 6985/1;szt;2023;15.06.2023;WZ;2
+Piasta sprzêg³a TRASCO ES z rowkiem;GESM 28/38 F25, dr. DIN 6985/1;szt;2023;26.06.2023;WZ;6
+Piasta sprzêg³a TRASCO ES z rowkiem;GESM 28/38 F25, dr. DIN 6985/1;szt;2023;5.07.2023;WZ;26
+Piasta sprzêg³a TRASCO ES z rowkiem;GESM 28/38 F25, dr. DIN 6985/1;szt;2023;13.09.2023;WZ;2
+Piasta sprzêg³a TRASCO ES z rowkiem;GESM 28/38 F25, dr. DIN 6985/1;szt;2023;22.09.2023;WZ;55
+Piasta sprzêg³a TRASCO ES z rowkiem;GESM 28/38 F25, dr. DIN 6985/1;szt;2023 Razem;;;91
+Piasta sprzêg³a TRASCO ES z rowkiem;GESM 28/38 F25, dr. DIN 6985/1;szt;2024;10.06.2024;WZ;2
+Piasta sprzêg³a TRASCO ES z rowkiem;GESM 28/38 F25, dr. DIN 6985/1;szt;2024;17.07.2024;WZ;4
+Piasta sprzêg³a TRASCO ES z rowkiem;GESM 28/38 F25, dr. DIN 6985/1;szt;2024;26.09.2024;WZ;8
+Piasta sprzêg³a TRASCO ES z rowkiem;GESM 28/38 F25, dr. DIN 6985/1;szt;2024 Razem;;;14
+Piasta sprzêg³a TRASCO ES z rowkiem;GESM 28/38 F25, dr. DIN 6985/1;szt;2025;28.01.2025;WZ;2
+Piasta sprzêg³a TRASCO ES z rowkiem;GESM 28/38 F25, dr. DIN 6985/1;szt;2025;20.02.2025;WZ;1
+Piasta sprzêg³a TRASCO ES z rowkiem;GESM 28/38 F25, dr. DIN 6985/1;szt;2025;9.05.2025;WZ;2
+Piasta sprzêg³a TRASCO ES z rowkiem;GESM 28/38 F25, dr. DIN 6985/1;szt;2025;31.07.2025;WZ;4
+Piasta sprzêg³a TRASCO ES z rowkiem;GESM 28/38 F25, dr. DIN 6985/1;szt;2025 Razem;;;9
+Piasta sprzêg³a TRASCO ES z rowkiem;GESM 28/38 F25, dr. DIN 6985/1;szt Razem;;;;122
+Piasta sprzêg³a k³owego TRASCO ALU;GRMALU 28/38 A;szt;2020;23.01.2020;WZ;20
+Piasta sprzêg³a k³owego TRASCO ALU;GRMALU 28/38 A;szt;2020;15.04.2020;WZ;1
+Piasta sprzêg³a k³owego TRASCO ALU;GRMALU 28/38 A;szt;2020;16.04.2020;WZ;25
+Piasta sprzêg³a k³owego TRASCO ALU;GRMALU 28/38 A;szt;2020;30.04.2020;WZ;5
+Piasta sprzêg³a k³owego TRASCO ALU;GRMALU 28/38 A;szt;2020;31.07.2020;WZ;2
+Piasta sprzêg³a k³owego TRASCO ALU;GRMALU 28/38 A;szt;2020 Razem;;;53
+Piasta sprzêg³a k³owego TRASCO ALU;GRMALU 28/38 A;szt;2021;9.02.2021;WZ;2
+Piasta sprzêg³a k³owego TRASCO ALU;GRMALU 28/38 A;szt;2021;23.03.2021;WZ;2
+Piasta sprzêg³a k³owego TRASCO ALU;GRMALU 28/38 A;szt;2021;9.04.2021;WZ;2
+Piasta sprzêg³a k³owego TRASCO ALU;GRMALU 28/38 A;szt;2021;31.05.2021;WZ;10
+Piasta sprzêg³a k³owego TRASCO ALU;GRMALU 28/38 A;szt;2021;21.09.2021;WZ;2
+Piasta sprzêg³a k³owego TRASCO ALU;GRMALU 28/38 A;szt;2021;13.10.2021;WZ;6
+Piasta sprzêg³a k³owego TRASCO ALU;GRMALU 28/38 A;szt;2021 Razem;;;24
+Piasta sprzêg³a k³owego TRASCO ALU;GRMALU 28/38 A;szt;2022;12.01.2022;WZ;2
+Piasta sprzêg³a k³owego TRASCO ALU;GRMALU 28/38 A;szt;2022;5.04.2022;WZ;2
+Piasta sprzêg³a k³owego TRASCO ALU;GRMALU 28/38 A;szt;2022;26.04.2022;WZ;4
+Piasta sprzêg³a k³owego TRASCO ALU;GRMALU 28/38 A;szt;2022;27.09.2022;WZ;4
+Piasta sprzêg³a k³owego TRASCO ALU;GRMALU 28/38 A;szt;2022 Razem;;;12
+Piasta sprzêg³a k³owego TRASCO ALU;GRMALU 28/38 A;szt;2023;6.09.2023;WZ;6
+Piasta sprzêg³a k³owego TRASCO ALU;GRMALU 28/38 A;szt;2025;28.04.2025;FSL;0
+Piasta sprzêg³a k³owego TRASCO ALU;GRMALU 28/38 A;szt;2025;30.04.2025;WZ;2
+Piasta sprzêg³a k³owego TRASCO ALU;GRMALU 28/38 A;szt;2025;6.11.2025;WZ;20
+Piasta sprzêg³a k³owego TRASCO ALU;GRMALU 28/38 A;szt;2025;18.11.2025;WZ;1
+Piasta sprzêg³a k³owego TRASCO ALU;GRMALU 28/38 A;szt;2025 Razem;;;23
+Piasta sprzêg³a k³owego TRASCO ALU;GRMALU 28/38 A;szt Razem;;;;118
+Krótka piasta sprzêg³a k³owego TRASCO;GRMP 28/38 A;szt;2020;17.01.2020;WZ;20
+Krótka piasta sprzêg³a k³owego TRASCO;GRMP 28/38 A;szt;2020;2.03.2020;WZ;1
+Krótka piasta sprzêg³a k³owego TRASCO;GRMP 28/38 A;szt;2020;18.06.2020;WZ;1
+Krótka piasta sprzêg³a k³owego TRASCO;GRMP 28/38 A;szt;2020 Razem;;;22
+Krótka piasta sprzêg³a k³owego TRASCO;GRMP 28/38 A;szt;2021;7.01.2021;WZ;20
+Krótka piasta sprzêg³a k³owego TRASCO;GRMP 28/38 A;szt;2021;9.02.2021;WZ;2
+Krótka piasta sprzêg³a k³owego TRASCO;GRMP 28/38 A;szt;2021;26.03.2021;WZ;1
+Krótka piasta sprzêg³a k³owego TRASCO;GRMP 28/38 A;szt;2021;7.04.2021;WZ;2
+Krótka piasta sprzêg³a k³owego TRASCO;GRMP 28/38 A;szt;2021;10.06.2021;WZ;2
+Krótka piasta sprzêg³a k³owego TRASCO;GRMP 28/38 A;szt;2021 Razem;;;27
+Krótka piasta sprzêg³a k³owego TRASCO;GRMP 28/38 A;szt;2022;8.03.2022;WZ;2
+Krótka piasta sprzêg³a k³owego TRASCO;GRMP 28/38 A;szt;2022;17.05.2022;WZ;8
+Krótka piasta sprzêg³a k³owego TRASCO;GRMP 28/38 A;szt;2022 Razem;;;10
+Krótka piasta sprzêg³a k³owego TRASCO;GRMP 28/38 A;szt;2023;24.07.2023;WZ;2
+Krótka piasta sprzêg³a k³owego TRASCO;GRMP 28/38 A;szt;2023;17.10.2023;WZ;10
+Krótka piasta sprzêg³a k³owego TRASCO;GRMP 28/38 A;szt;2023;6.11.2023;WZ;2
+Krótka piasta sprzêg³a k³owego TRASCO;GRMP 28/38 A;szt;2023 Razem;;;14
+Krótka piasta sprzêg³a k³owego TRASCO;GRMP 28/38 A;szt;2024;29.02.2024;WZ;20
+Krótka piasta sprzêg³a k³owego TRASCO;GRMP 28/38 A;szt;2024;13.05.2024;WZ;1
+Krótka piasta sprzêg³a k³owego TRASCO;GRMP 28/38 A;szt;2024;18.09.2024;WZ;4
+Krótka piasta sprzêg³a k³owego TRASCO;GRMP 28/38 A;szt;2024 Razem;;;25
+Krótka piasta sprzêg³a k³owego TRASCO;GRMP 28/38 A;szt;2025;13.05.2025;WZ;3
+Krótka piasta sprzêg³a k³owego TRASCO;GRMP 28/38 A;szt;2025;4.06.2025;WZ;3
+Krótka piasta sprzêg³a k³owego TRASCO;GRMP 28/38 A;szt;2025;17.12.2025;WZ;12
+Krótka piasta sprzêg³a k³owego TRASCO;GRMP 28/38 A;szt;2025 Razem;;;18
+Krótka piasta sprzêg³a k³owego TRASCO;GRMP 28/38 A;szt Razem;;;;116
+Krótka piasta sprzêg³a k³owego TRASCO;GRMP 19/24 A;szt;2020;17.02.2020;WZ;1
+Krótka piasta sprzêg³a k³owego TRASCO;GRMP 19/24 A;szt;2020;26.02.2020;WZ;4
+Krótka piasta sprzêg³a k³owego TRASCO;GRMP 19/24 A;szt;2020;17.03.2020;WZ;6
+Krótka piasta sprzêg³a k³owego TRASCO;GRMP 19/24 A;szt;2020;18.06.2020;WZ;2
+Krótka piasta sprzêg³a k³owego TRASCO;GRMP 19/24 A;szt;2020;19.08.2020;WZ;4
+Krótka piasta sprzêg³a k³owego TRASCO;GRMP 19/24 A;szt;2020;30.09.2020;WZ;10
+Krótka piasta sprzêg³a k³owego TRASCO;GRMP 19/24 A;szt;2020;15.10.2020;WZ;8
+Krótka piasta sprzêg³a k³owego TRASCO;GRMP 19/24 A;szt;2020;15.12.2020;WZ;4
+Krótka piasta sprzêg³a k³owego TRASCO;GRMP 19/24 A;szt;2020 Razem;;;39
+Krótka piasta sprzêg³a k³owego TRASCO;GRMP 19/24 A;szt;2021;7.01.2021;WZ;4
+Krótka piasta sprzêg³a k³owego TRASCO;GRMP 19/24 A;szt;2021;10.02.2021;WZ;14
+Krótka piasta sprzêg³a k³owego TRASCO;GRMP 19/24 A;szt;2021;30.03.2021;WZ;2
+Krótka piasta sprzêg³a k³owego TRASCO;GRMP 19/24 A;szt;2021;12.04.2021;WZ;6
+Krótka piasta sprzêg³a k³owego TRASCO;GRMP 19/24 A;szt;2021;16.04.2021;WZ;8
+Krótka piasta sprzêg³a k³owego TRASCO;GRMP 19/24 A;szt;2021;4.08.2021;WZ;1
+Krótka piasta sprzêg³a k³owego TRASCO;GRMP 19/24 A;szt;2021;18.08.2021;WZ;2
+Krótka piasta sprzêg³a k³owego TRASCO;GRMP 19/24 A;szt;2021;26.08.2021;WZ;4
+Krótka piasta sprzêg³a k³owego TRASCO;GRMP 19/24 A;szt;2021 Razem;;;41
+Krótka piasta sprzêg³a k³owego TRASCO;GRMP 19/24 A;szt;2022;24.01.2022;WZ;2
+Krótka piasta sprzêg³a k³owego TRASCO;GRMP 19/24 A;szt;2022;18.10.2022;WZ;1
+Krótka piasta sprzêg³a k³owego TRASCO;GRMP 19/24 A;szt;2022 Razem;;;3
+Krótka piasta sprzêg³a k³owego TRASCO;GRMP 19/24 A;szt;2023;5.01.2023;WZ;4
+Krótka piasta sprzêg³a k³owego TRASCO;GRMP 19/24 A;szt;2023;16.01.2023;WZ;6
+Krótka piasta sprzêg³a k³owego TRASCO;GRMP 19/24 A;szt;2023;21.02.2023;WZ;2
+Krótka piasta sprzêg³a k³owego TRASCO;GRMP 19/24 A;szt;2023;21.06.2023;WZ;2
+Krótka piasta sprzêg³a k³owego TRASCO;GRMP 19/24 A;szt;2023;28.08.2023;WZ;4
+Krótka piasta sprzêg³a k³owego TRASCO;GRMP 19/24 A;szt;2023 Razem;;;18
+Krótka piasta sprzêg³a k³owego TRASCO;GRMP 19/24 A;szt;2024;29.04.2024;WZ;1
+Krótka piasta sprzêg³a k³owego TRASCO;GRMP 19/24 A;szt;2024;19.08.2024;WZ;2
+Krótka piasta sprzêg³a k³owego TRASCO;GRMP 19/24 A;szt;2024 Razem;;;3
+Krótka piasta sprzêg³a k³owego TRASCO;GRMP 19/24 A;szt;2025;28.03.2025;WZ;1
+Krótka piasta sprzêg³a k³owego TRASCO;GRMP 19/24 A;szt;2025;11.04.2025;WZ;1
+Krótka piasta sprzêg³a k³owego TRASCO;GRMP 19/24 A;szt;2025;29.05.2025;WZ;2
+Krótka piasta sprzêg³a k³owego TRASCO;GRMP 19/24 A;szt;2025;30.07.2025;WZ;4
+Krótka piasta sprzêg³a k³owego TRASCO;GRMP 19/24 A;szt;2025 Razem;;;8
+Krótka piasta sprzêg³a k³owego TRASCO;GRMP 19/24 A;szt Razem;;;;112
+Krótka piasta sprzêg³a k³owego TRASCO;GRMP 42/55 A;szt;2020;10.03.2020;WZ;4
+Krótka piasta sprzêg³a k³owego TRASCO;GRMP 42/55 A;szt;2020;5.08.2020;WZ;2
+Krótka piasta sprzêg³a k³owego TRASCO;GRMP 42/55 A;szt;2020 Razem;;;6
+Krótka piasta sprzêg³a k³owego TRASCO;GRMP 42/55 A;szt;2021;9.02.2021;WZ;2
+Krótka piasta sprzêg³a k³owego TRASCO;GRMP 42/55 A;szt;2021;16.04.2021;WZ;4
+Krótka piasta sprzêg³a k³owego TRASCO;GRMP 42/55 A;szt;2021;25.05.2021;WZ;8
+Krótka piasta sprzêg³a k³owego TRASCO;GRMP 42/55 A;szt;2021 Razem;;;14
+Krótka piasta sprzêg³a k³owego TRASCO;GRMP 42/55 A;szt;2022;10.01.2022;WZ;2
+Krótka piasta sprzêg³a k³owego TRASCO;GRMP 42/55 A;szt;2022;24.02.2022;WZ;2
+Krótka piasta sprzêg³a k³owego TRASCO;GRMP 42/55 A;szt;2022;23.03.2022;WZ;8
+Krótka piasta sprzêg³a k³owego TRASCO;GRMP 42/55 A;szt;2022;11.08.2022;WZ;10
+Krótka piasta sprzêg³a k³owego TRASCO;GRMP 42/55 A;szt;2022;29.09.2022;WZ;64
+Krótka piasta sprzêg³a k³owego TRASCO;GRMP 42/55 A;szt;2022;10.10.2022;WZ;1
+Krótka piasta sprzêg³a k³owego TRASCO;GRMP 42/55 A;szt;2022 Razem;;;87
+Krótka piasta sprzêg³a k³owego TRASCO;GRMP 42/55 A;szt;2023;3.02.2023;WZ;1
+Krótka piasta sprzêg³a k³owego TRASCO;GRMP 42/55 A;szt;2024;21.02.2024;WZ;1
+Krótka piasta sprzêg³a k³owego TRASCO;GRMP 42/55 A;szt;2024;1.08.2024;WZ;1
+Krótka piasta sprzêg³a k³owego TRASCO;GRMP 42/55 A;szt;2024 Razem;;;2
+Krótka piasta sprzêg³a k³owego TRASCO;GRMP 42/55 A;szt Razem;;;;110
+Wk³adka sprzêg³a TRASCO ES;AES 24/28 G 92 Shore A;szt;2020;4.03.2020;WZ;5
+Wk³adka sprzêg³a TRASCO ES;AES 24/28 G 92 Shore A;szt;2020;31.03.2020;WZ;80
+Wk³adka sprzêg³a TRASCO ES;AES 24/28 G 92 Shore A;szt;2020;25.05.2020;WZ;1
+Wk³adka sprzêg³a TRASCO ES;AES 24/28 G 92 Shore A;szt;2020;21.07.2020;WZ;2
+Wk³adka sprzêg³a TRASCO ES;AES 24/28 G 92 Shore A;szt;2020;29.10.2020;WZ;2
+Wk³adka sprzêg³a TRASCO ES;AES 24/28 G 92 Shore A;szt;2020 Razem;;;90
+Wk³adka sprzêg³a TRASCO ES;AES 24/28 G 92 Shore A;szt;2021;9.03.2021;WZ;1
+Wk³adka sprzêg³a TRASCO ES;AES 24/28 G 92 Shore A;szt;2021;1.12.2021;WZ;1
+Wk³adka sprzêg³a TRASCO ES;AES 24/28 G 92 Shore A;szt;2021;15.12.2021;WZ;1
+Wk³adka sprzêg³a TRASCO ES;AES 24/28 G 92 Shore A;szt;2021 Razem;;;3
+Wk³adka sprzêg³a TRASCO ES;AES 24/28 G 92 Shore A;szt;2022;11.05.2022;WZ;5
+Wk³adka sprzêg³a TRASCO ES;AES 24/28 G 92 Shore A;szt;2023;18.05.2023;WZ;1
+Wk³adka sprzêg³a TRASCO ES;AES 24/28 G 92 Shore A;szt;2023;13.06.2023;WZ;1
+Wk³adka sprzêg³a TRASCO ES;AES 24/28 G 92 Shore A;szt;2023 Razem;;;2
+Wk³adka sprzêg³a TRASCO ES;AES 24/28 G 92 Shore A;szt;2024;18.01.2024;WZ;4
+Wk³adka sprzêg³a TRASCO ES;AES 24/28 G 92 Shore A;szt;2024;21.08.2024;WZ;2
+Wk³adka sprzêg³a TRASCO ES;AES 24/28 G 92 Shore A;szt;2024;4.09.2024;WZ;1
+Wk³adka sprzêg³a TRASCO ES;AES 24/28 G 92 Shore A;szt;2024;18.09.2024;WZ;1
+Wk³adka sprzêg³a TRASCO ES;AES 24/28 G 92 Shore A;szt;2024;29.10.2024;WZ;1
+Wk³adka sprzêg³a TRASCO ES;AES 24/28 G 92 Shore A;szt;2024 Razem;;;9
+Wk³adka sprzêg³a TRASCO ES;AES 24/28 G 92 Shore A;szt;2025;9.04.2025;WZ;1
+Wk³adka sprzêg³a TRASCO ES;AES 24/28 G 92 Shore A;szt Razem;;;;110
+Suma koñcowa;;;;;;6 959,00

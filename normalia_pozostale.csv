@@ -1,0 +1,680 @@
+;;;;;;Dane
+;;;;;;Suma koñcowa
+Produkt.Nazwa;Produkt.Symbol;Produkt.Jednostka podstawowa;Czas.Kalendarzowy.Rok;Czas.Kalendarzowy.Data;Dokument.Dokument.Rodzaj.Typ dokumentu;Sprzeda¿ Iloœæ
+"Uszczelnienie Expander 4x4; korpus i kulka stal nierdzewna";MB 600-040;szt.;2024;15.04.2024;WZ;2 000,00
+"Uszczelnienie Expander 4x4; korpus i kulka stal nierdzewna";MB 600-040;szt.;2024;18.04.2024;WZ;4 000,00
+"Uszczelnienie Expander 4x4; korpus i kulka stal nierdzewna";MB 600-040;szt.;2024;6.08.2024;WZ;10 000,00
+"Uszczelnienie Expander 4x4; korpus i kulka stal nierdzewna";MB 600-040;szt.;2024;27.08.2024;WZ;10 000,00
+"Uszczelnienie Expander 4x4; korpus i kulka stal nierdzewna";MB 600-040;szt.;2024;5.09.2024;WZ;15 000,00
+"Uszczelnienie Expander 4x4; korpus i kulka stal nierdzewna";MB 600-040;szt.;2024 Razem;;;41 000,00
+Pokrêt³o - gwiazda;M10x63;szt;2023;14.03.2023;WZ;500
+Pokrêt³o - gwiazda;M10x63;szt;2023;26.06.2023;WZ;500
+Pokrêt³o - gwiazda;M10x63;szt;2023;13.07.2023;WZ;1 000,00
+Pokrêt³o - gwiazda;M10x63;szt;2023;31.07.2023;WZ;500
+Pokrêt³o - gwiazda;M10x63;szt;2023;21.09.2023;WZ;500
+Pokrêt³o - gwiazda;M10x63;szt;2023 Razem;;;3 000,00
+Pokrêt³o - gwiazda;M10x63;szt;2024;11.03.2024;WZ;700
+Pokrêt³o - gwiazda;M10x63;szt;2024;14.05.2024;WZ;317
+Pokrêt³o - gwiazda;M10x63;szt;2024;22.05.2024;WZ;683
+Pokrêt³o - gwiazda;M10x63;szt;2024;18.11.2024;WZ;689
+Pokrêt³o - gwiazda;M10x63;szt;2024;5.12.2024;WZ;311
+Pokrêt³o - gwiazda;M10x63;szt;2024;17.12.2024;WZ;500
+Pokrêt³o - gwiazda;M10x63;szt;2024 Razem;;;3 200,00
+Pokrêt³o - gwiazda;M10x63;szt;2025;17.06.2025;WZ;1 140,00
+Pokrêt³o - gwiazda;M10x63;szt;2025;4.07.2025;WZ;360
+Pokrêt³o - gwiazda;M10x63;szt;2025 Razem;;;1 500,00
+Pokrêt³o - gwiazda;M10x63;szt Razem;;;;7 700,00
+Pokrêt³o VPX GAMM;VPX30 M6x20 (6158060);szt.;2024;29.02.2024;WZ;500
+Pokrêt³o VPX GAMM;VPX30 M6x20 (6158060);szt.;2024;27.03.2024;WZ;1 500,00
+Pokrêt³o VPX GAMM;VPX30 M6x20 (6158060);szt.;2024;24.05.2024;WZ;1 500,00
+Pokrêt³o VPX GAMM;VPX30 M6x20 (6158060);szt.;2024;15.07.2024;WZ;982
+Pokrêt³o VPX GAMM;VPX30 M6x20 (6158060);szt.;2024 Razem;;;4 482,00
+Pokrêt³o VPX GAMM;VPX30 M6x20 (6158060);szt.;2025;30.07.2025;WZ;500
+Pokrêt³o VPX GAMM;VPX30 M6x20 (6158060);szt.;2025;16.09.2025;WZ;500
+Pokrêt³o VPX GAMM;VPX30 M6x20 (6158060);szt.;2025;28.10.2025;WZ;620
+Pokrêt³o VPX GAMM;VPX30 M6x20 (6158060);szt.;2025;8.12.2025;WZ;620
+Pokrêt³o VPX GAMM;VPX30 M6x20 (6158060);szt.;2025 Razem;;;2 240,00
+Pokrêt³o VPX GAMM;VPX30 M6x20 (6158060);szt. Razem;;;;6 722,00
+Silentblok A;50x30mm, M10x28mm;szt;2020;12.02.2020;WZ;10
+Silentblok A;50x30mm, M10x28mm;szt;2020;13.03.2020;WZ;20
+Silentblok A;50x30mm, M10x28mm;szt;2020;31.03.2020;WZ;100
+Silentblok A;50x30mm, M10x28mm;szt;2020;23.04.2020;WZ;100
+Silentblok A;50x30mm, M10x28mm;szt;2020;1.12.2020;WZ;4
+Silentblok A;50x30mm, M10x28mm;szt;2020 Razem;;;234
+Silentblok A;50x30mm, M10x28mm;szt;2021;5.02.2021;WZ;13
+Silentblok A;50x30mm, M10x28mm;szt;2021;22.02.2021;WZ;40
+Silentblok A;50x30mm, M10x28mm;szt;2021;9.03.2021;WZ;50
+Silentblok A;50x30mm, M10x28mm;szt;2021;6.04.2021;WZ;12
+Silentblok A;50x30mm, M10x28mm;szt;2021;26.04.2021;WZ;60
+Silentblok A;50x30mm, M10x28mm;szt;2021;12.05.2021;WZ;30
+Silentblok A;50x30mm, M10x28mm;szt;2021;17.06.2021;WZ;352
+Silentblok A;50x30mm, M10x28mm;szt;2021;28.06.2021;WZ;6
+Silentblok A;50x30mm, M10x28mm;szt;2021;13.07.2021;WZ;225
+Silentblok A;50x30mm, M10x28mm;szt;2021;13.08.2021;WZ;150
+Silentblok A;50x30mm, M10x28mm;szt;2021;20.08.2021;WZ;40
+Silentblok A;50x30mm, M10x28mm;szt;2021;1.09.2021;WZ;110
+Silentblok A;50x30mm, M10x28mm;szt;2021;10.09.2021;WZ;64
+Silentblok A;50x30mm, M10x28mm;szt;2021;5.10.2021;WZ;465
+Silentblok A;50x30mm, M10x28mm;szt;2021;14.10.2021;WZ;300
+Silentblok A;50x30mm, M10x28mm;szt;2021;16.11.2021;WZ;61
+Silentblok A;50x30mm, M10x28mm;szt;2021;18.11.2021;WZ;500
+Silentblok A;50x30mm, M10x28mm;szt;2021 Razem;;;2 478,00
+Silentblok A;50x30mm, M10x28mm;szt;2022;8.11.2022;WZ;42
+Silentblok A;50x30mm, M10x28mm;szt;2022;28.11.2022;WZ;81
+Silentblok A;50x30mm, M10x28mm;szt;2022 Razem;;;123
+Silentblok A;50x30mm, M10x28mm;szt;2023;13.01.2023;WZ;177
+Silentblok A;50x30mm, M10x28mm;szt;2023;9.02.2023;WZ;148
+Silentblok A;50x30mm, M10x28mm;szt;2023;13.03.2023;WZ;138
+Silentblok A;50x30mm, M10x28mm;szt;2023;17.03.2023;WZ;100
+Silentblok A;50x30mm, M10x28mm;szt;2023;31.03.2023;WZ;100
+Silentblok A;50x30mm, M10x28mm;szt;2023;7.04.2023;WZ;100
+Silentblok A;50x30mm, M10x28mm;szt;2023;20.04.2023;WZ;50
+Silentblok A;50x30mm, M10x28mm;szt;2023;22.05.2023;WZ;170
+Silentblok A;50x30mm, M10x28mm;szt;2023;26.05.2023;WZ;30
+Silentblok A;50x30mm, M10x28mm;szt;2023;18.07.2023;WZ;150
+Silentblok A;50x30mm, M10x28mm;szt;2023;8.08.2023;WZ;200
+Silentblok A;50x30mm, M10x28mm;szt;2023;28.08.2023;WZ;230
+Silentblok A;50x30mm, M10x28mm;szt;2023;29.09.2023;WZ;12
+Silentblok A;50x30mm, M10x28mm;szt;2023;9.11.2023;WZ;5
+Silentblok A;50x30mm, M10x28mm;szt;2023;30.11.2023;WZ;150
+Silentblok A;50x30mm, M10x28mm;szt;2023 Razem;;;1 760,00
+Silentblok A;50x30mm, M10x28mm;szt;2024;29.02.2024;WZ;25
+Silentblok A;50x30mm, M10x28mm;szt;2024;4.03.2024;WZ;40
+Silentblok A;50x30mm, M10x28mm;szt;2024;8.04.2024;WZ;40
+Silentblok A;50x30mm, M10x28mm;szt;2024;19.04.2024;WZ;107
+Silentblok A;50x30mm, M10x28mm;szt;2024;25.04.2024;WZ;93
+Silentblok A;50x30mm, M10x28mm;szt;2024;30.04.2024;WZ;90
+Silentblok A;50x30mm, M10x28mm;szt;2024;9.07.2024;WZ;100
+Silentblok A;50x30mm, M10x28mm;szt;2024;16.09.2024;WZ;40
+Silentblok A;50x30mm, M10x28mm;szt;2024;22.10.2024;WZ;50
+Silentblok A;50x30mm, M10x28mm;szt;2024 Razem;;;585
+Silentblok A;50x30mm, M10x28mm;szt;2025;15.01.2025;WZ;60
+Silentblok A;50x30mm, M10x28mm;szt;2025;5.02.2025;WZ;90
+Silentblok A;50x30mm, M10x28mm;szt;2025;14.03.2025;WZ;45
+Silentblok A;50x30mm, M10x28mm;szt;2025;24.03.2025;WZ;71
+Silentblok A;50x30mm, M10x28mm;szt;2025;7.04.2025;WZ;20
+Silentblok A;50x30mm, M10x28mm;szt;2025;16.04.2025;WZ;145
+Silentblok A;50x30mm, M10x28mm;szt;2025;13.05.2025;WZ;85
+Silentblok A;50x30mm, M10x28mm;szt;2025;23.05.2025;WZ;40
+Silentblok A;50x30mm, M10x28mm;szt;2025;4.07.2025;WZ;130
+Silentblok A;50x30mm, M10x28mm;szt;2025;7.07.2025;WZ;72
+Silentblok A;50x30mm, M10x28mm;szt;2025;14.07.2025;WZ;20
+Silentblok A;50x30mm, M10x28mm;szt;2025;12.09.2025;WZ;20
+Silentblok A;50x30mm, M10x28mm;szt;2025;27.11.2025;WZ;60
+Silentblok A;50x30mm, M10x28mm;szt;2025 Razem;;;858
+Silentblok A;50x30mm, M10x28mm;szt Razem;;;;6 038,00
+Uchwyt;117;szt;2020;27.02.2020;WZ;1 000,00
+Uchwyt;117;szt;2021;26.03.2021;WZ;1 000,00
+Uchwyt;117;szt;2022;3.02.2022;WZ;1 000,00
+Uchwyt;117;szt;2022;14.06.2022;WZ;1 000,00
+Uchwyt;117;szt;2022 Razem;;;2 000,00
+Uchwyt;117;szt;2023;8.08.2023;WZ;1 000,00
+Uchwyt;117;szt;2024;29.04.2024;WZ;1 000,00
+Uchwyt;117;szt Razem;;;;6 000,00
+"Wibroizolator typ A 30x13, M10x28; mat. CR70; gruboœæ blachy S=2,6mm";GP-AZ-030x013-M10x28-CR70;szt.;2021;22.12.2021;WZ;382
+"Wibroizolator typ A 30x13, M10x28; mat. CR70; gruboœæ blachy S=2,6mm";GP-AZ-030x013-M10x28-CR70;szt.;2022;18.02.2022;WZ;5 000,00
+"Wibroizolator typ A 30x13, M10x28; mat. CR70; gruboœæ blachy S=2,6mm";GP-AZ-030x013-M10x28-CR70;szt.;2022;11.03.2022;WZ;200
+"Wibroizolator typ A 30x13, M10x28; mat. CR70; gruboœæ blachy S=2,6mm";GP-AZ-030x013-M10x28-CR70;szt.;2022 Razem;;;5 200,00
+"Wibroizolator typ A 30x13, M10x28; mat. CR70; gruboœæ blachy S=2,6mm";GP-AZ-030x013-M10x28-CR70;szt. Razem;;;;5 582,00
+Pokrêt³o - gwiazda;M10;szt;2023;14.03.2023;WZ;100
+Pokrêt³o - gwiazda;M10;szt;2023;16.03.2023;WZ;100
+Pokrêt³o - gwiazda;M10;szt;2023;5.04.2023;WZ;100
+Pokrêt³o - gwiazda;M10;szt;2023;7.07.2023;WZ;400
+Pokrêt³o - gwiazda;M10;szt;2023;31.07.2023;WZ;200
+Pokrêt³o - gwiazda;M10;szt;2023;24.08.2023;WZ;20
+Pokrêt³o - gwiazda;M10;szt;2023;8.09.2023;WZ;400
+Pokrêt³o - gwiazda;M10;szt;2023;12.09.2023;WZ;200
+Pokrêt³o - gwiazda;M10;szt;2023;19.09.2023;WZ;400
+Pokrêt³o - gwiazda;M10;szt;2023 Razem;;;1 920,00
+Pokrêt³o - gwiazda;M10;szt;2024;21.03.2024;WZ;10
+Pokrêt³o - gwiazda;M10;szt;2024;30.07.2024;WZ;10
+Pokrêt³o - gwiazda;M10;szt;2024 Razem;;;20
+Pokrêt³o - gwiazda;M10;szt;2025;9.01.2025;WZ;500
+Pokrêt³o - gwiazda;M10;szt;2025;17.06.2025;WZ;20
+Pokrêt³o - gwiazda;M10;szt;2025 Razem;;;520
+Pokrêt³o - gwiazda;M10;szt Razem;;;;2 460,00
+"Stopa maszynowa MF-H3-078x030-M10-NR70; obci¹zenie maks. 3000N";MF-H3-078x030-M10-NR70;szt.;2024;12.03.2024;WZE;60
+"Stopa maszynowa MF-H3-078x030-M10-NR70; obci¹zenie maks. 3000N";MF-H3-078x030-M10-NR70;szt.;2024;29.05.2024;WZE;40
+"Stopa maszynowa MF-H3-078x030-M10-NR70; obci¹zenie maks. 3000N";MF-H3-078x030-M10-NR70;szt.;2024;6.06.2024;WZE;20
+"Stopa maszynowa MF-H3-078x030-M10-NR70; obci¹zenie maks. 3000N";MF-H3-078x030-M10-NR70;szt.;2024;21.06.2024;WZE;60
+"Stopa maszynowa MF-H3-078x030-M10-NR70; obci¹zenie maks. 3000N";MF-H3-078x030-M10-NR70;szt.;2024;16.07.2024;WZE;60
+"Stopa maszynowa MF-H3-078x030-M10-NR70; obci¹zenie maks. 3000N";MF-H3-078x030-M10-NR70;szt.;2024;26.08.2024;WZE;60
+"Stopa maszynowa MF-H3-078x030-M10-NR70; obci¹zenie maks. 3000N";MF-H3-078x030-M10-NR70;szt.;2024;12.09.2024;WZE;60
+"Stopa maszynowa MF-H3-078x030-M10-NR70; obci¹zenie maks. 3000N";MF-H3-078x030-M10-NR70;szt.;2024;18.10.2024;WZE;60
+"Stopa maszynowa MF-H3-078x030-M10-NR70; obci¹zenie maks. 3000N";MF-H3-078x030-M10-NR70;szt.;2024;18.11.2024;WZE;60
+"Stopa maszynowa MF-H3-078x030-M10-NR70; obci¹zenie maks. 3000N";MF-H3-078x030-M10-NR70;szt.;2024;5.12.2024;WZE;60
+"Stopa maszynowa MF-H3-078x030-M10-NR70; obci¹zenie maks. 3000N";MF-H3-078x030-M10-NR70;szt.;2024 Razem;;;540
+"Stopa maszynowa MF-H3-078x030-M10-NR70; obci¹zenie maks. 3000N";MF-H3-078x030-M10-NR70;szt.;2025;6.02.2025;WZE;60
+"Stopa maszynowa MF-H3-078x030-M10-NR70; obci¹zenie maks. 3000N";MF-H3-078x030-M10-NR70;szt.;2025;24.02.2025;WZE;60
+"Stopa maszynowa MF-H3-078x030-M10-NR70; obci¹zenie maks. 3000N";MF-H3-078x030-M10-NR70;szt.;2025;19.03.2025;WZE;60
+"Stopa maszynowa MF-H3-078x030-M10-NR70; obci¹zenie maks. 3000N";MF-H3-078x030-M10-NR70;szt.;2025;4.04.2025;WZE;60
+"Stopa maszynowa MF-H3-078x030-M10-NR70; obci¹zenie maks. 3000N";MF-H3-078x030-M10-NR70;szt.;2025;14.04.2025;WZE;60
+"Stopa maszynowa MF-H3-078x030-M10-NR70; obci¹zenie maks. 3000N";MF-H3-078x030-M10-NR70;szt.;2025;29.04.2025;WZE;60
+"Stopa maszynowa MF-H3-078x030-M10-NR70; obci¹zenie maks. 3000N";MF-H3-078x030-M10-NR70;szt.;2025;30.05.2025;WZE;60
+"Stopa maszynowa MF-H3-078x030-M10-NR70; obci¹zenie maks. 3000N";MF-H3-078x030-M10-NR70;szt.;2025;9.06.2025;WZE;60
+"Stopa maszynowa MF-H3-078x030-M10-NR70; obci¹zenie maks. 3000N";MF-H3-078x030-M10-NR70;szt.;2025;2.07.2025;WZE;60
+"Stopa maszynowa MF-H3-078x030-M10-NR70; obci¹zenie maks. 3000N";MF-H3-078x030-M10-NR70;szt.;2025;16.07.2025;WZE;60
+"Stopa maszynowa MF-H3-078x030-M10-NR70; obci¹zenie maks. 3000N";MF-H3-078x030-M10-NR70;szt.;2025;12.08.2025;WZE;60
+"Stopa maszynowa MF-H3-078x030-M10-NR70; obci¹zenie maks. 3000N";MF-H3-078x030-M10-NR70;szt.;2025;13.08.2025;WZE;60
+"Stopa maszynowa MF-H3-078x030-M10-NR70; obci¹zenie maks. 3000N";MF-H3-078x030-M10-NR70;szt.;2025;27.08.2025;WZE;53
+"Stopa maszynowa MF-H3-078x030-M10-NR70; obci¹zenie maks. 3000N";MF-H3-078x030-M10-NR70;szt.;2025;9.09.2025;WZE;60
+"Stopa maszynowa MF-H3-078x030-M10-NR70; obci¹zenie maks. 3000N";MF-H3-078x030-M10-NR70;szt.;2025;11.09.2025;WZE;60
+"Stopa maszynowa MF-H3-078x030-M10-NR70; obci¹zenie maks. 3000N";MF-H3-078x030-M10-NR70;szt.;2025;1.10.2025;WZE;60
+"Stopa maszynowa MF-H3-078x030-M10-NR70; obci¹zenie maks. 3000N";MF-H3-078x030-M10-NR70;szt.;2025;3.11.2025;WZE;60
+"Stopa maszynowa MF-H3-078x030-M10-NR70; obci¹zenie maks. 3000N";MF-H3-078x030-M10-NR70;szt.;2025;14.11.2025;WZE;60
+"Stopa maszynowa MF-H3-078x030-M10-NR70; obci¹zenie maks. 3000N";MF-H3-078x030-M10-NR70;szt.;2025;28.11.2025;WZE;60
+"Stopa maszynowa MF-H3-078x030-M10-NR70; obci¹zenie maks. 3000N";MF-H3-078x030-M10-NR70;szt.;2025 Razem;;;1 133,00
+"Stopa maszynowa MF-H3-078x030-M10-NR70; obci¹zenie maks. 3000N";MF-H3-078x030-M10-NR70;szt. Razem;;;;1 673,00
+Silentblok B;40x30mm, M8x23mm, M8x8mm;szt;2020;8.01.2020;WZ;4
+Silentblok B;40x30mm, M8x23mm, M8x8mm;szt;2020;10.02.2020;WZ;20
+Silentblok B;40x30mm, M8x23mm, M8x8mm;szt;2020;31.03.2020;WZ;100
+Silentblok B;40x30mm, M8x23mm, M8x8mm;szt;2020;20.08.2020;WZ;32
+Silentblok B;40x30mm, M8x23mm, M8x8mm;szt;2020;9.10.2020;WZ;2
+Silentblok B;40x30mm, M8x23mm, M8x8mm;szt;2020;21.10.2020;WZ;10
+Silentblok B;40x30mm, M8x23mm, M8x8mm;szt;2020 Razem;;;168
+Silentblok B;40x30mm, M8x23mm, M8x8mm;szt;2021;8.01.2021;WZ;20
+Silentblok B;40x30mm, M8x23mm, M8x8mm;szt;2021;1.02.2021;WZ;10
+Silentblok B;40x30mm, M8x23mm, M8x8mm;szt;2021;5.02.2021;WZ;15
+Silentblok B;40x30mm, M8x23mm, M8x8mm;szt;2021;22.02.2021;WZ;34
+Silentblok B;40x30mm, M8x23mm, M8x8mm;szt;2021;1.03.2021;WZ;18
+Silentblok B;40x30mm, M8x23mm, M8x8mm;szt;2021;18.03.2021;WZ;16
+Silentblok B;40x30mm, M8x23mm, M8x8mm;szt;2021;1.04.2021;WZ;16
+Silentblok B;40x30mm, M8x23mm, M8x8mm;szt;2021;8.04.2021;WZ;14
+Silentblok B;40x30mm, M8x23mm, M8x8mm;szt;2021;4.05.2021;WZ;10
+Silentblok B;40x30mm, M8x23mm, M8x8mm;szt;2021;12.05.2021;WZ;40
+Silentblok B;40x30mm, M8x23mm, M8x8mm;szt;2021;13.08.2021;WZ;6
+Silentblok B;40x30mm, M8x23mm, M8x8mm;szt;2021;16.08.2021;WZ;12
+Silentblok B;40x30mm, M8x23mm, M8x8mm;szt;2021;20.08.2021;WZ;4
+Silentblok B;40x30mm, M8x23mm, M8x8mm;szt;2021;10.09.2021;WZ;24
+Silentblok B;40x30mm, M8x23mm, M8x8mm;szt;2021;5.10.2021;WZ;4
+Silentblok B;40x30mm, M8x23mm, M8x8mm;szt;2021;25.10.2021;WZ;106
+Silentblok B;40x30mm, M8x23mm, M8x8mm;szt;2021;15.11.2021;WZ;8
+Silentblok B;40x30mm, M8x23mm, M8x8mm;szt;2021 Razem;;;357
+Silentblok B;40x30mm, M8x23mm, M8x8mm;szt;2022;18.03.2022;WZ;6
+Silentblok B;40x30mm, M8x23mm, M8x8mm;szt;2022;26.05.2022;WZ;12
+Silentblok B;40x30mm, M8x23mm, M8x8mm;szt;2022;1.06.2022;WZ;12
+Silentblok B;40x30mm, M8x23mm, M8x8mm;szt;2022;25.07.2022;WZ;32
+Silentblok B;40x30mm, M8x23mm, M8x8mm;szt;2022;29.07.2022;WZ;78
+Silentblok B;40x30mm, M8x23mm, M8x8mm;szt;2022;29.08.2022;WZ;40
+Silentblok B;40x30mm, M8x23mm, M8x8mm;szt;2022;21.12.2022;WZ;4
+Silentblok B;40x30mm, M8x23mm, M8x8mm;szt;2022 Razem;;;184
+Silentblok B;40x30mm, M8x23mm, M8x8mm;szt;2023;20.01.2023;WZ;15
+Silentblok B;40x30mm, M8x23mm, M8x8mm;szt;2023;27.01.2023;WZ;28
+Silentblok B;40x30mm, M8x23mm, M8x8mm;szt;2023;20.04.2023;WZ;45
+Silentblok B;40x30mm, M8x23mm, M8x8mm;szt;2023;25.08.2023;WZ;4
+Silentblok B;40x30mm, M8x23mm, M8x8mm;szt;2023;28.08.2023;WZ;60
+Silentblok B;40x30mm, M8x23mm, M8x8mm;szt;2023;19.09.2023;WZ;35
+Silentblok B;40x30mm, M8x23mm, M8x8mm;szt;2023;9.11.2023;WZ;5
+Silentblok B;40x30mm, M8x23mm, M8x8mm;szt;2023 Razem;;;192
+Silentblok B;40x30mm, M8x23mm, M8x8mm;szt;2024;12.01.2024;WZ;24
+Silentblok B;40x30mm, M8x23mm, M8x8mm;szt;2024;29.02.2024;WZ;8
+Silentblok B;40x30mm, M8x23mm, M8x8mm;szt;2024;8.04.2024;WZ;84
+Silentblok B;40x30mm, M8x23mm, M8x8mm;szt;2024;30.04.2024;WZ;10
+Silentblok B;40x30mm, M8x23mm, M8x8mm;szt;2024;18.06.2024;WZ;76
+Silentblok B;40x30mm, M8x23mm, M8x8mm;szt;2024;16.09.2024;WZ;14
+Silentblok B;40x30mm, M8x23mm, M8x8mm;szt;2024;22.10.2024;WZ;40
+Silentblok B;40x30mm, M8x23mm, M8x8mm;szt;2024 Razem;;;256
+Silentblok B;40x30mm, M8x23mm, M8x8mm;szt;2025;16.01.2025;WZ;93
+Silentblok B;40x30mm, M8x23mm, M8x8mm;szt;2025;27.01.2025;WZ;50
+Silentblok B;40x30mm, M8x23mm, M8x8mm;szt;2025;28.03.2025;WZ;100
+Silentblok B;40x30mm, M8x23mm, M8x8mm;szt;2025;7.04.2025;WZ;8
+Silentblok B;40x30mm, M8x23mm, M8x8mm;szt;2025;16.05.2025;WZ;16
+Silentblok B;40x30mm, M8x23mm, M8x8mm;szt;2025;12.08.2025;WZ;36
+Silentblok B;40x30mm, M8x23mm, M8x8mm;szt;2025;9.09.2025;WZ;24
+Silentblok B;40x30mm, M8x23mm, M8x8mm;szt;2025;15.09.2025;WZ;4
+Silentblok B;40x30mm, M8x23mm, M8x8mm;szt;2025;29.10.2025;WZ;48
+Silentblok B;40x30mm, M8x23mm, M8x8mm;szt;2025;19.11.2025;WZ;32
+Silentblok B;40x30mm, M8x23mm, M8x8mm;szt;2025;5.12.2025;WZ;40
+Silentblok B;40x30mm, M8x23mm, M8x8mm;szt;2025;15.12.2025;WZ;20
+Silentblok B;40x30mm, M8x23mm, M8x8mm;szt;2025 Razem;;;471
+Silentblok B;40x30mm, M8x23mm, M8x8mm;szt Razem;;;;1 628,00
+Silentblok B;20x15mm, M6x10mm, M6x6mm;szt;2021;16.12.2021;WZ;200
+Silentblok B;20x15mm, M6x10mm, M6x6mm;szt;2022;19.05.2022;FSL;0
+Silentblok B;20x15mm, M6x10mm, M6x6mm;szt;2022;10.06.2022;WZ;400
+Silentblok B;20x15mm, M6x10mm, M6x6mm;szt;2022 Razem;;;400
+Silentblok B;20x15mm, M6x10mm, M6x6mm;szt;2024;12.02.2024;WZ;400
+Silentblok B;20x15mm, M6x10mm, M6x6mm;szt;2024;15.04.2024;WZ;600
+Silentblok B;20x15mm, M6x10mm, M6x6mm;szt;2024 Razem;;;1 000,00
+Silentblok B;20x15mm, M6x10mm, M6x6mm;szt Razem;;;;1 600,00
+Silentblok B;40x20mm, M8x23mm, M8x8mm;szt;2020;20.08.2020;WZ;200
+Silentblok B;40x20mm, M8x23mm, M8x8mm;szt;2021;28.07.2021;WZ;100
+Silentblok B;40x20mm, M8x23mm, M8x8mm;szt;2021;16.08.2021;WZ;100
+Silentblok B;40x20mm, M8x23mm, M8x8mm;szt;2021;19.08.2021;WZ;100
+Silentblok B;40x20mm, M8x23mm, M8x8mm;szt;2021;10.09.2021;WZ;50
+Silentblok B;40x20mm, M8x23mm, M8x8mm;szt;2021;20.10.2021;WZ;250
+Silentblok B;40x20mm, M8x23mm, M8x8mm;szt;2021 Razem;;;600
+Silentblok B;40x20mm, M8x23mm, M8x8mm;szt;2023;13.01.2023;WZ;29
+Silentblok B;40x20mm, M8x23mm, M8x8mm;szt;2023;1.09.2023;WZ;4
+Silentblok B;40x20mm, M8x23mm, M8x8mm;szt;2023 Razem;;;33
+Silentblok B;40x20mm, M8x23mm, M8x8mm;szt;2024;29.02.2024;WZ;206
+Silentblok B;40x20mm, M8x23mm, M8x8mm;szt;2024;4.03.2024;WZ;80
+Silentblok B;40x20mm, M8x23mm, M8x8mm;szt;2024;15.03.2024;WZ;23
+Silentblok B;40x20mm, M8x23mm, M8x8mm;szt;2024;25.03.2024;WZ;223
+Silentblok B;40x20mm, M8x23mm, M8x8mm;szt;2024 Razem;;;532
+Silentblok B;40x20mm, M8x23mm, M8x8mm;szt;2025;7.07.2025;WZ;40
+Silentblok B;40x20mm, M8x23mm, M8x8mm;szt;2025;23.07.2025;WZ;27
+Silentblok B;40x20mm, M8x23mm, M8x8mm;szt;2025;24.10.2025;WZ;21
+Silentblok B;40x20mm, M8x23mm, M8x8mm;szt;2025 Razem;;;88
+Silentblok B;40x20mm, M8x23mm, M8x8mm;szt Razem;;;;1 453,00
+Silentblok B;30x20mm, M8x23mm, M8x8mm;szt;2022;10.01.2022;WZ;10
+Silentblok B;30x20mm, M8x23mm, M8x8mm;szt;2022;24.01.2022;WZ;20
+Silentblok B;30x20mm, M8x23mm, M8x8mm;szt;2022;14.02.2022;WZ;5
+Silentblok B;30x20mm, M8x23mm, M8x8mm;szt;2022;18.03.2022;WZ;13
+Silentblok B;30x20mm, M8x23mm, M8x8mm;szt;2022;19.04.2022;WZ;24
+Silentblok B;30x20mm, M8x23mm, M8x8mm;szt;2022;20.05.2022;WZ;8
+Silentblok B;30x20mm, M8x23mm, M8x8mm;szt;2022;25.07.2022;WZ;4
+Silentblok B;30x20mm, M8x23mm, M8x8mm;szt;2022;11.08.2022;WZ;4
+Silentblok B;30x20mm, M8x23mm, M8x8mm;szt;2022;30.09.2022;WZ;20
+Silentblok B;30x20mm, M8x23mm, M8x8mm;szt;2022;28.10.2022;WZ;4
+Silentblok B;30x20mm, M8x23mm, M8x8mm;szt;2022 Razem;;;112
+Silentblok B;30x20mm, M8x23mm, M8x8mm;szt;2023;9.02.2023;WZ;40
+Silentblok B;30x20mm, M8x23mm, M8x8mm;szt;2023;19.06.2023;WZ;40
+Silentblok B;30x20mm, M8x23mm, M8x8mm;szt;2023;28.08.2023;WZ;20
+Silentblok B;30x20mm, M8x23mm, M8x8mm;szt;2023;19.09.2023;WZ;13
+Silentblok B;30x20mm, M8x23mm, M8x8mm;szt;2023;27.09.2023;WZ;7
+Silentblok B;30x20mm, M8x23mm, M8x8mm;szt;2023;31.10.2023;WZ;20
+Silentblok B;30x20mm, M8x23mm, M8x8mm;szt;2023;9.11.2023;WZ;20
+Silentblok B;30x20mm, M8x23mm, M8x8mm;szt;2023;30.11.2023;WZ;60
+Silentblok B;30x20mm, M8x23mm, M8x8mm;szt;2023 Razem;;;220
+Silentblok B;30x20mm, M8x23mm, M8x8mm;szt;2024;4.03.2024;WZ;20
+Silentblok B;30x20mm, M8x23mm, M8x8mm;szt;2024;8.04.2024;WZ;60
+Silentblok B;30x20mm, M8x23mm, M8x8mm;szt;2024;19.04.2024;WZ;100
+Silentblok B;30x20mm, M8x23mm, M8x8mm;szt;2024;18.06.2024;WZ;60
+Silentblok B;30x20mm, M8x23mm, M8x8mm;szt;2024;12.08.2024;WZ;40
+Silentblok B;30x20mm, M8x23mm, M8x8mm;szt;2024;24.10.2024;WZ;80
+Silentblok B;30x20mm, M8x23mm, M8x8mm;szt;2024;14.11.2024;WZ;180
+Silentblok B;30x20mm, M8x23mm, M8x8mm;szt;2024 Razem;;;540
+Silentblok B;30x20mm, M8x23mm, M8x8mm;szt;2025;24.03.2025;WZ;40
+Silentblok B;30x20mm, M8x23mm, M8x8mm;szt;2025;16.04.2025;WZ;80
+Silentblok B;30x20mm, M8x23mm, M8x8mm;szt;2025;12.05.2025;WZ;60
+Silentblok B;30x20mm, M8x23mm, M8x8mm;szt;2025;7.07.2025;WZ;60
+Silentblok B;30x20mm, M8x23mm, M8x8mm;szt;2025;2.09.2025;WZ;120
+Silentblok B;30x20mm, M8x23mm, M8x8mm;szt;2025;1.12.2025;WZ;200
+Silentblok B;30x20mm, M8x23mm, M8x8mm;szt;2025 Razem;;;560
+Silentblok B;30x20mm, M8x23mm, M8x8mm;szt Razem;;;;1 432,00
+Rêkojeœæ Gamm PMF/23x70;6362112;szt.;2020;24.03.2020;WZ;200
+Rêkojeœæ Gamm PMF/23x70;6362112;szt.;2021;6.05.2021;WZ;500
+Rêkojeœæ Gamm PMF/23x70;6362112;szt.;2021;27.10.2021;WZ;200
+Rêkojeœæ Gamm PMF/23x70;6362112;szt.;2021 Razem;;;700
+Rêkojeœæ Gamm PMF/23x70;6362112;szt.;2025;19.02.2025;WZ;200
+Rêkojeœæ Gamm PMF/23x70;6362112;szt. Razem;;;;1 100,00
+Podstawa stopki z otworem kulistym i otworami kotwi¹cymi;Pr. 100mm;szt;2021;20.04.2021;WZ;1
+Podstawa stopki z otworem kulistym i otworami kotwi¹cymi;Pr. 100mm;szt;2021;5.08.2021;WZ;36
+Podstawa stopki z otworem kulistym i otworami kotwi¹cymi;Pr. 100mm;szt;2021 Razem;;;37
+Podstawa stopki z otworem kulistym i otworami kotwi¹cymi;Pr. 100mm;szt;2022;4.08.2022;WZ;20
+Podstawa stopki z otworem kulistym i otworami kotwi¹cymi;Pr. 100mm;szt;2022;26.08.2022;WZ;30
+Podstawa stopki z otworem kulistym i otworami kotwi¹cymi;Pr. 100mm;szt;2022;8.12.2022;WZ;15
+Podstawa stopki z otworem kulistym i otworami kotwi¹cymi;Pr. 100mm;szt;2022 Razem;;;65
+Podstawa stopki z otworem kulistym i otworami kotwi¹cymi;Pr. 100mm;szt;2023;10.02.2023;WZ;20
+Podstawa stopki z otworem kulistym i otworami kotwi¹cymi;Pr. 100mm;szt;2023;21.04.2023;WZ;10
+Podstawa stopki z otworem kulistym i otworami kotwi¹cymi;Pr. 100mm;szt;2023;4.05.2023;WZ;14
+Podstawa stopki z otworem kulistym i otworami kotwi¹cymi;Pr. 100mm;szt;2023;16.10.2023;WZ;30
+Podstawa stopki z otworem kulistym i otworami kotwi¹cymi;Pr. 100mm;szt;2023;28.11.2023;WZ;200
+Podstawa stopki z otworem kulistym i otworami kotwi¹cymi;Pr. 100mm;szt;2023 Razem;;;274
+Podstawa stopki z otworem kulistym i otworami kotwi¹cymi;Pr. 100mm;szt;2024;17.07.2024;WZ;100
+Podstawa stopki z otworem kulistym i otworami kotwi¹cymi;Pr. 100mm;szt;2024;14.11.2024;WZ;200
+Podstawa stopki z otworem kulistym i otworami kotwi¹cymi;Pr. 100mm;szt;2024;18.12.2024;WZ;20
+Podstawa stopki z otworem kulistym i otworami kotwi¹cymi;Pr. 100mm;szt;2024 Razem;;;320
+Podstawa stopki z otworem kulistym i otworami kotwi¹cymi;Pr. 100mm;szt;2025;8.05.2025;WZ;400
+Podstawa stopki z otworem kulistym i otworami kotwi¹cymi;Pr. 100mm;szt Razem;;;;1 096,00
+Uchwyt krzy¿owy;24640.0232 32 / M6;szt;2020;23.04.2020;WZ;3
+Uchwyt krzy¿owy;24640.0232 32 / M6;szt;2020;2.07.2020;WZ;40
+Uchwyt krzy¿owy;24640.0232 32 / M6;szt;2020 Razem;;;43
+Uchwyt krzy¿owy;24640.0232 32 / M6;szt;2021;28.01.2021;WZ;20
+Uchwyt krzy¿owy;24640.0232 32 / M6;szt;2021;4.03.2021;WZ;40
+Uchwyt krzy¿owy;24640.0232 32 / M6;szt;2021;27.04.2021;WZ;20
+Uchwyt krzy¿owy;24640.0232 32 / M6;szt;2021;19.05.2021;WZ;30
+Uchwyt krzy¿owy;24640.0232 32 / M6;szt;2021;8.07.2021;WZ;20
+Uchwyt krzy¿owy;24640.0232 32 / M6;szt;2021;21.07.2021;WZ;10
+Uchwyt krzy¿owy;24640.0232 32 / M6;szt;2021;1.10.2021;WZ;40
+Uchwyt krzy¿owy;24640.0232 32 / M6;szt;2021;25.11.2021;WZ;20
+Uchwyt krzy¿owy;24640.0232 32 / M6;szt;2021;9.12.2021;WZ;10
+Uchwyt krzy¿owy;24640.0232 32 / M6;szt;2021 Razem;;;210
+Uchwyt krzy¿owy;24640.0232 32 / M6;szt;2022;5.01.2022;WZ;20
+Uchwyt krzy¿owy;24640.0232 32 / M6;szt;2022;13.01.2022;WZ;20
+Uchwyt krzy¿owy;24640.0232 32 / M6;szt;2022;3.02.2022;WZ;40
+Uchwyt krzy¿owy;24640.0232 32 / M6;szt;2022;3.03.2022;WZ;50
+Uchwyt krzy¿owy;24640.0232 32 / M6;szt;2022;19.05.2022;WZ;100
+Uchwyt krzy¿owy;24640.0232 32 / M6;szt;2022;1.09.2022;WZ;40
+Uchwyt krzy¿owy;24640.0232 32 / M6;szt;2022;3.10.2022;WZ;80
+Uchwyt krzy¿owy;24640.0232 32 / M6;szt;2022 Razem;;;350
+Uchwyt krzy¿owy;24640.0232 32 / M6;szt;2023;26.01.2023;WZ;80
+Uchwyt krzy¿owy;24640.0232 32 / M6;szt;2023;20.02.2023;WZ;100
+Uchwyt krzy¿owy;24640.0232 32 / M6;szt;2023;31.03.2023;WZ;40
+Uchwyt krzy¿owy;24640.0232 32 / M6;szt;2023;18.05.2023;WZ;40
+Uchwyt krzy¿owy;24640.0232 32 / M6;szt;2023;26.07.2023;WZ;40
+Uchwyt krzy¿owy;24640.0232 32 / M6;szt;2023;17.08.2023;WZ;100
+Uchwyt krzy¿owy;24640.0232 32 / M6;szt;2023;7.09.2023;WZ;40
+Uchwyt krzy¿owy;24640.0232 32 / M6;szt;2023;23.11.2023;WZ;40
+Uchwyt krzy¿owy;24640.0232 32 / M6;szt;2023 Razem;;;480
+Uchwyt krzy¿owy;24640.0232 32 / M6;szt Razem;;;;1 083,00
+Ga³ka - Duroplast;24560.0032 32 / M8;szt;2020;17.04.2020;WZ;5
+Ga³ka - Duroplast;24560.0032 32 / M8;szt;2023;5.01.2023;WZ;15
+Ga³ka - Duroplast;24560.0032 32 / M8;szt;2025;9.05.2025;WZ;87
+Ga³ka - Duroplast;24560.0032 32 / M8;szt;2025;16.05.2025;WZ;910
+Ga³ka - Duroplast;24560.0032 32 / M8;szt;2025;29.05.2025;WZ;3
+Ga³ka - Duroplast;24560.0032 32 / M8;szt;2025 Razem;;;1 000,00
+Ga³ka - Duroplast;24560.0032 32 / M8;szt Razem;;;;1 020,00
+"Stopa maszynowa MF-H3-106x039-M12-NR70; obci¹zenie maks. 5000N";MF-H3-106x039-M12-NR70;szt.;2024;22.05.2024;WZE;70
+"Stopa maszynowa MF-H3-106x039-M12-NR70; obci¹zenie maks. 5000N";MF-H3-106x039-M12-NR70;szt.;2024;6.06.2024;WZE;30
+"Stopa maszynowa MF-H3-106x039-M12-NR70; obci¹zenie maks. 5000N";MF-H3-106x039-M12-NR70;szt.;2024;4.10.2024;WZE;100
+"Stopa maszynowa MF-H3-106x039-M12-NR70; obci¹zenie maks. 5000N";MF-H3-106x039-M12-NR70;szt.;2024;6.11.2024;WZE;100
+"Stopa maszynowa MF-H3-106x039-M12-NR70; obci¹zenie maks. 5000N";MF-H3-106x039-M12-NR70;szt.;2024 Razem;;;300
+"Stopa maszynowa MF-H3-106x039-M12-NR70; obci¹zenie maks. 5000N";MF-H3-106x039-M12-NR70;szt.;2025;28.01.2025;WZE;100
+"Stopa maszynowa MF-H3-106x039-M12-NR70; obci¹zenie maks. 5000N";MF-H3-106x039-M12-NR70;szt.;2025;11.03.2025;WZE;100
+"Stopa maszynowa MF-H3-106x039-M12-NR70; obci¹zenie maks. 5000N";MF-H3-106x039-M12-NR70;szt.;2025;15.05.2025;WZE;100
+"Stopa maszynowa MF-H3-106x039-M12-NR70; obci¹zenie maks. 5000N";MF-H3-106x039-M12-NR70;szt.;2025;24.06.2025;WZE;100
+"Stopa maszynowa MF-H3-106x039-M12-NR70; obci¹zenie maks. 5000N";MF-H3-106x039-M12-NR70;szt.;2025;25.08.2025;WZE;100
+"Stopa maszynowa MF-H3-106x039-M12-NR70; obci¹zenie maks. 5000N";MF-H3-106x039-M12-NR70;szt.;2025;19.09.2025;WZE;100
+"Stopa maszynowa MF-H3-106x039-M12-NR70; obci¹zenie maks. 5000N";MF-H3-106x039-M12-NR70;szt.;2025;29.10.2025;WZE;100
+"Stopa maszynowa MF-H3-106x039-M12-NR70; obci¹zenie maks. 5000N";MF-H3-106x039-M12-NR70;szt.;2025 Razem;;;700
+"Stopa maszynowa MF-H3-106x039-M12-NR70; obci¹zenie maks. 5000N";MF-H3-106x039-M12-NR70;szt. Razem;;;;1 000,00
+Gumowy ogranicznik okr¹g³y;50x40mm, M10x28mm;szt;2020;26.08.2020;WZ;60
+Gumowy ogranicznik okr¹g³y;50x40mm, M10x28mm;szt;2020;28.08.2020;WZ;60
+Gumowy ogranicznik okr¹g³y;50x40mm, M10x28mm;szt;2020;13.11.2020;WZ;60
+Gumowy ogranicznik okr¹g³y;50x40mm, M10x28mm;szt;2020 Razem;;;180
+Gumowy ogranicznik okr¹g³y;50x40mm, M10x28mm;szt;2021;5.02.2021;WZ;60
+Gumowy ogranicznik okr¹g³y;50x40mm, M10x28mm;szt;2021;14.07.2021;WZ;60
+Gumowy ogranicznik okr¹g³y;50x40mm, M10x28mm;szt;2021;18.11.2021;WZ;100
+Gumowy ogranicznik okr¹g³y;50x40mm, M10x28mm;szt;2021 Razem;;;220
+Gumowy ogranicznik okr¹g³y;50x40mm, M10x28mm;szt;2022;23.02.2022;WZ;4
+Gumowy ogranicznik okr¹g³y;50x40mm, M10x28mm;szt;2023;21.03.2023;WZ;100
+Gumowy ogranicznik okr¹g³y;50x40mm, M10x28mm;szt;2023;30.06.2023;WZ;50
+Gumowy ogranicznik okr¹g³y;50x40mm, M10x28mm;szt;2023;1.09.2023;WZ;50
+Gumowy ogranicznik okr¹g³y;50x40mm, M10x28mm;szt;2023;11.10.2023;WZ;8
+Gumowy ogranicznik okr¹g³y;50x40mm, M10x28mm;szt;2023;31.10.2023;WZ;50
+Gumowy ogranicznik okr¹g³y;50x40mm, M10x28mm;szt;2023 Razem;;;258
+Gumowy ogranicznik okr¹g³y;50x40mm, M10x28mm;szt;2024;27.02.2024;WZ;100
+Gumowy ogranicznik okr¹g³y;50x40mm, M10x28mm;szt;2024;25.06.2024;WZ;100
+Gumowy ogranicznik okr¹g³y;50x40mm, M10x28mm;szt;2024 Razem;;;200
+Gumowy ogranicznik okr¹g³y;50x40mm, M10x28mm;szt;2025;29.01.2025;WZ;20
+Gumowy ogranicznik okr¹g³y;50x40mm, M10x28mm;szt;2025;24.02.2025;WZ;100
+Gumowy ogranicznik okr¹g³y;50x40mm, M10x28mm;szt;2025 Razem;;;120
+Gumowy ogranicznik okr¹g³y;50x40mm, M10x28mm;szt Razem;;;;982
+"Podk³adka M16; 300HV; cynkowana; DIN 7349";"M16 ZN; 17X40 (E41270)";szt.;2022;26.01.2022;WZ;900
+Gumowy ogranicznik okr¹g³y;40x32mm, M8x23mm;szt;2020;7.01.2020;WZ;6
+Gumowy ogranicznik okr¹g³y;40x32mm, M8x23mm;szt;2020;29.01.2020;WZ;40
+Gumowy ogranicznik okr¹g³y;40x32mm, M8x23mm;szt;2020;13.02.2020;WZ;30
+Gumowy ogranicznik okr¹g³y;40x32mm, M8x23mm;szt;2020;10.07.2020;WZ;10
+Gumowy ogranicznik okr¹g³y;40x32mm, M8x23mm;szt;2020;24.07.2020;WZ;20
+Gumowy ogranicznik okr¹g³y;40x32mm, M8x23mm;szt;2020;8.10.2020;WZ;40
+Gumowy ogranicznik okr¹g³y;40x32mm, M8x23mm;szt;2020;13.11.2020;WZ;50
+Gumowy ogranicznik okr¹g³y;40x32mm, M8x23mm;szt;2020 Razem;;;196
+Gumowy ogranicznik okr¹g³y;40x32mm, M8x23mm;szt;2021;13.05.2021;WZ;30
+Gumowy ogranicznik okr¹g³y;40x32mm, M8x23mm;szt;2021;14.07.2021;WZ;30
+Gumowy ogranicznik okr¹g³y;40x32mm, M8x23mm;szt;2021;16.12.2021;WZ;50
+Gumowy ogranicznik okr¹g³y;40x32mm, M8x23mm;szt;2021 Razem;;;110
+Gumowy ogranicznik okr¹g³y;40x32mm, M8x23mm;szt;2022;6.04.2022;WZ;40
+Gumowy ogranicznik okr¹g³y;40x32mm, M8x23mm;szt;2022;18.07.2022;WZ;20
+Gumowy ogranicznik okr¹g³y;40x32mm, M8x23mm;szt;2022;9.09.2022;WZ;40
+Gumowy ogranicznik okr¹g³y;40x32mm, M8x23mm;szt;2022 Razem;;;100
+Gumowy ogranicznik okr¹g³y;40x32mm, M8x23mm;szt;2023;14.07.2023;WZ;20
+Gumowy ogranicznik okr¹g³y;40x32mm, M8x23mm;szt;2023;1.09.2023;WZ;20
+Gumowy ogranicznik okr¹g³y;40x32mm, M8x23mm;szt;2023;31.10.2023;WZ;50
+Gumowy ogranicznik okr¹g³y;40x32mm, M8x23mm;szt;2023;14.11.2023;WZ;20
+Gumowy ogranicznik okr¹g³y;40x32mm, M8x23mm;szt;2023 Razem;;;110
+Gumowy ogranicznik okr¹g³y;40x32mm, M8x23mm;szt;2024;27.02.2024;WZ;50
+Gumowy ogranicznik okr¹g³y;40x32mm, M8x23mm;szt;2024;9.05.2024;WZ;108
+Gumowy ogranicznik okr¹g³y;40x32mm, M8x23mm;szt;2024;13.05.2024;WZ;4
+Gumowy ogranicznik okr¹g³y;40x32mm, M8x23mm;szt;2024;25.06.2024;WZ;100
+Gumowy ogranicznik okr¹g³y;40x32mm, M8x23mm;szt;2024 Razem;;;262
+Gumowy ogranicznik okr¹g³y;40x32mm, M8x23mm;szt;2025;24.02.2025;WZ;100
+Gumowy ogranicznik okr¹g³y;40x32mm, M8x23mm;szt;2025;15.07.2025;WZ;2
+Gumowy ogranicznik okr¹g³y;40x32mm, M8x23mm;szt;2025 Razem;;;102
+Gumowy ogranicznik okr¹g³y;40x32mm, M8x23mm;szt Razem;;;;880
+"R¹czka p³aska Gamm; czarne PCV";7317300;szt.;2020;16.09.2020;WZ;50
+"R¹czka p³aska Gamm; czarne PCV";7317300;szt.;2021;10.03.2021;WZ;50
+"R¹czka p³aska Gamm; czarne PCV";7317300;szt.;2021;10.05.2021;WZ;60
+"R¹czka p³aska Gamm; czarne PCV";7317300;szt.;2021;5.07.2021;WZ;30
+"R¹czka p³aska Gamm; czarne PCV";7317300;szt.;2021;11.08.2021;WZ;50
+"R¹czka p³aska Gamm; czarne PCV";7317300;szt.;2021 Razem;;;190
+"R¹czka p³aska Gamm; czarne PCV";7317300;szt.;2022;25.04.2022;WZ;50
+"R¹czka p³aska Gamm; czarne PCV";7317300;szt.;2022;24.05.2022;WZ;100
+"R¹czka p³aska Gamm; czarne PCV";7317300;szt.;2022;28.11.2022;WZ;100
+"R¹czka p³aska Gamm; czarne PCV";7317300;szt.;2022 Razem;;;250
+"R¹czka p³aska Gamm; czarne PCV";7317300;szt.;2023;11.04.2023;WZ;50
+"R¹czka p³aska Gamm; czarne PCV";7317300;szt.;2023;10.05.2023;WZ;30
+"R¹czka p³aska Gamm; czarne PCV";7317300;szt.;2023;26.06.2023;WZ;50
+"R¹czka p³aska Gamm; czarne PCV";7317300;szt.;2023;17.07.2023;WZ;50
+"R¹czka p³aska Gamm; czarne PCV";7317300;szt.;2023;25.09.2023;WZ;50
+"R¹czka p³aska Gamm; czarne PCV";7317300;szt.;2023 Razem;;;230
+"R¹czka p³aska Gamm; czarne PCV";7317300;szt.;2025;7.04.2025;WZ;50
+"R¹czka p³aska Gamm; czarne PCV";7317300;szt.;2025;28.08.2025;WZ;50
+"R¹czka p³aska Gamm; czarne PCV";7317300;szt.;2025 Razem;;;100
+"R¹czka p³aska Gamm; czarne PCV";7317300;szt. Razem;;;;820
+Silentblok A;40x30mm, M8x23mm;szt;2020;24.01.2020;WZ;6
+Silentblok A;40x30mm, M8x23mm;szt;2020;16.03.2020;WZ;7
+Silentblok A;40x30mm, M8x23mm;szt;2020;31.08.2020;WZ;6
+Silentblok A;40x30mm, M8x23mm;szt;2020;2.10.2020;WZ;10
+Silentblok A;40x30mm, M8x23mm;szt;2020 Razem;;;29
+Silentblok A;40x30mm, M8x23mm;szt;2021;1.02.2021;WZ;10
+Silentblok A;40x30mm, M8x23mm;szt;2021;17.03.2021;WZ;7
+Silentblok A;40x30mm, M8x23mm;szt;2021;26.04.2021;WZ;50
+Silentblok A;40x30mm, M8x23mm;szt;2021;7.06.2021;WZ;16
+Silentblok A;40x30mm, M8x23mm;szt;2021;30.06.2021;WZ;45
+Silentblok A;40x30mm, M8x23mm;szt;2021;30.07.2021;WZ;16
+Silentblok A;40x30mm, M8x23mm;szt;2021;20.10.2021;WZ;3
+Silentblok A;40x30mm, M8x23mm;szt;2021;13.12.2021;WZ;20
+Silentblok A;40x30mm, M8x23mm;szt;2021 Razem;;;167
+Silentblok A;40x30mm, M8x23mm;szt;2022;10.01.2022;WZ;4
+Silentblok A;40x30mm, M8x23mm;szt;2022;4.02.2022;WZ;6
+Silentblok A;40x30mm, M8x23mm;szt;2022;6.05.2022;WZ;10
+Silentblok A;40x30mm, M8x23mm;szt;2022;29.07.2022;WZ;20
+Silentblok A;40x30mm, M8x23mm;szt;2022;11.08.2022;WZ;4
+Silentblok A;40x30mm, M8x23mm;szt;2022;28.10.2022;WZ;8
+Silentblok A;40x30mm, M8x23mm;szt;2022;21.11.2022;WZ;24
+Silentblok A;40x30mm, M8x23mm;szt;2022 Razem;;;76
+Silentblok A;40x30mm, M8x23mm;szt;2023;2.03.2023;WZ;7
+Silentblok A;40x30mm, M8x23mm;szt;2023;17.03.2023;WZ;30
+Silentblok A;40x30mm, M8x23mm;szt;2023;20.04.2023;WZ;50
+Silentblok A;40x30mm, M8x23mm;szt;2023;26.05.2023;WZ;50
+Silentblok A;40x30mm, M8x23mm;szt;2023;8.08.2023;WZ;9
+Silentblok A;40x30mm, M8x23mm;szt;2023;19.09.2023;WZ;10
+Silentblok A;40x30mm, M8x23mm;szt;2023;8.11.2023;WZ;40
+Silentblok A;40x30mm, M8x23mm;szt;2023;14.11.2023;WZ;35
+Silentblok A;40x30mm, M8x23mm;szt;2023 Razem;;;231
+Silentblok A;40x30mm, M8x23mm;szt;2024;25.04.2024;WZ;100
+Silentblok A;40x30mm, M8x23mm;szt;2024;22.10.2024;WZ;40
+Silentblok A;40x30mm, M8x23mm;szt;2024 Razem;;;140
+Silentblok A;40x30mm, M8x23mm;szt;2025;5.02.2025;WZ;55
+Silentblok A;40x30mm, M8x23mm;szt;2025;7.04.2025;WZ;15
+Silentblok A;40x30mm, M8x23mm;szt;2025;7.07.2025;WZ;15
+Silentblok A;40x30mm, M8x23mm;szt;2025;15.07.2025;WZ;50
+Silentblok A;40x30mm, M8x23mm;szt;2025;1.12.2025;WZ;36
+Silentblok A;40x30mm, M8x23mm;szt;2025 Razem;;;171
+Silentblok A;40x30mm, M8x23mm;szt Razem;;;;814
+Silentblok  DP;50x58mm, M10x28mm;szt;2020;20.01.2020;WZ;4
+Silentblok  DP;50x58mm, M10x28mm;szt;2020;31.01.2020;WZ;14
+Silentblok  DP;50x58mm, M10x28mm;szt;2020;2.03.2020;WZ;20
+Silentblok  DP;50x58mm, M10x28mm;szt;2020;14.05.2020;WZ;1
+Silentblok  DP;50x58mm, M10x28mm;szt;2020;24.06.2020;WZ;10
+Silentblok  DP;50x58mm, M10x28mm;szt;2020;26.06.2020;WZ;10
+Silentblok  DP;50x58mm, M10x28mm;szt;2020;4.08.2020;WZ;10
+Silentblok  DP;50x58mm, M10x28mm;szt;2020;6.08.2020;WZ;20
+Silentblok  DP;50x58mm, M10x28mm;szt;2020;30.09.2020;WZ;10
+Silentblok  DP;50x58mm, M10x28mm;szt;2020;16.10.2020;WZ;10
+Silentblok  DP;50x58mm, M10x28mm;szt;2020;15.12.2020;WZ;10
+Silentblok  DP;50x58mm, M10x28mm;szt;2020 Razem;;;119
+Silentblok  DP;50x58mm, M10x28mm;szt;2021;14.01.2021;WZ;10
+Silentblok  DP;50x58mm, M10x28mm;szt;2021;21.01.2021;WZ;20
+Silentblok  DP;50x58mm, M10x28mm;szt;2021;10.02.2021;WZ;40
+Silentblok  DP;50x58mm, M10x28mm;szt;2021;18.06.2021;WZ;50
+Silentblok  DP;50x58mm, M10x28mm;szt;2021;29.07.2021;WZ;20
+Silentblok  DP;50x58mm, M10x28mm;szt;2021;7.10.2021;WZ;25
+Silentblok  DP;50x58mm, M10x28mm;szt;2021 Razem;;;165
+Silentblok  DP;50x58mm, M10x28mm;szt;2022;20.05.2022;WZ;100
+Silentblok  DP;50x58mm, M10x28mm;szt;2022;16.09.2022;WZ;100
+Silentblok  DP;50x58mm, M10x28mm;szt;2022 Razem;;;200
+Silentblok  DP;50x58mm, M10x28mm;szt;2023;25.04.2023;WZ;99
+Silentblok  DP;50x58mm, M10x28mm;szt;2024;15.07.2024;WZ;50
+Silentblok  DP;50x58mm, M10x28mm;szt;2024;22.10.2024;WZ;8
+Silentblok  DP;50x58mm, M10x28mm;szt;2024;30.11.2024;WZ;20
+Silentblok  DP;50x58mm, M10x28mm;szt;2024 Razem;;;78
+Silentblok  DP;50x58mm, M10x28mm;szt;2025;5.02.2025;WZ;9
+Silentblok  DP;50x58mm, M10x28mm;szt;2025;20.02.2025;WZ;10
+Silentblok  DP;50x58mm, M10x28mm;szt;2025;25.03.2025;WZ;38
+Silentblok  DP;50x58mm, M10x28mm;szt;2025;26.05.2025;WZ;8
+Silentblok  DP;50x58mm, M10x28mm;szt;2025;15.07.2025;WZ;14
+Silentblok  DP;50x58mm, M10x28mm;szt;2025;16.09.2025;WZ;4
+Silentblok  DP;50x58mm, M10x28mm;szt;2025;8.10.2025;WZE;2
+Silentblok  DP;50x58mm, M10x28mm;szt;2025;28.11.2025;WZ;20
+Silentblok  DP;50x58mm, M10x28mm;szt;2025;12.12.2025;WZ;20
+Silentblok  DP;50x58mm, M10x28mm;szt;2025 Razem;;;125
+Silentblok  DP;50x58mm, M10x28mm;szt Razem;;;;786
+Silentblok B;20x10mm, M6x10mm, M6x6mm;szt;2020;21.02.2020;WZ;10
+Silentblok B;20x10mm, M6x10mm, M6x6mm;szt;2020;14.05.2020;WZ;10
+Silentblok B;20x10mm, M6x10mm, M6x6mm;szt;2020;7.08.2020;WZ;40
+Silentblok B;20x10mm, M6x10mm, M6x6mm;szt;2020;20.08.2020;WZ;4
+Silentblok B;20x10mm, M6x10mm, M6x6mm;szt;2020;26.08.2020;WZ;9
+Silentblok B;20x10mm, M6x10mm, M6x6mm;szt;2020;31.08.2020;WZ;12
+Silentblok B;20x10mm, M6x10mm, M6x6mm;szt;2020;10.09.2020;WZ;20
+Silentblok B;20x10mm, M6x10mm, M6x6mm;szt;2020;18.09.2020;WZ;40
+Silentblok B;20x10mm, M6x10mm, M6x6mm;szt;2020;9.10.2020;WZ;16
+Silentblok B;20x10mm, M6x10mm, M6x6mm;szt;2020;26.10.2020;WZ;20
+Silentblok B;20x10mm, M6x10mm, M6x6mm;szt;2020;4.11.2020;WZ;32
+Silentblok B;20x10mm, M6x10mm, M6x6mm;szt;2020 Razem;;;213
+Silentblok B;20x10mm, M6x10mm, M6x6mm;szt;2021;14.01.2021;WZ;22
+Silentblok B;20x10mm, M6x10mm, M6x6mm;szt;2021;1.04.2021;WZ;82
+Silentblok B;20x10mm, M6x10mm, M6x6mm;szt;2021;8.04.2021;WZ;4
+Silentblok B;20x10mm, M6x10mm, M6x6mm;szt;2021;4.05.2021;WZ;8
+Silentblok B;20x10mm, M6x10mm, M6x6mm;szt;2021;12.05.2021;WZ;4
+Silentblok B;20x10mm, M6x10mm, M6x6mm;szt;2021;7.06.2021;WZ;40
+Silentblok B;20x10mm, M6x10mm, M6x6mm;szt;2021;30.07.2021;WZ;12
+Silentblok B;20x10mm, M6x10mm, M6x6mm;szt;2021;10.09.2021;WZ;8
+Silentblok B;20x10mm, M6x10mm, M6x6mm;szt;2021;5.11.2021;WZ;4
+Silentblok B;20x10mm, M6x10mm, M6x6mm;szt;2021;15.11.2021;WZ;8
+Silentblok B;20x10mm, M6x10mm, M6x6mm;szt;2021;18.11.2021;WZ;100
+Silentblok B;20x10mm, M6x10mm, M6x6mm;szt;2021;9.12.2021;WZ;15
+Silentblok B;20x10mm, M6x10mm, M6x6mm;szt;2021;13.12.2021;WZ;20
+Silentblok B;20x10mm, M6x10mm, M6x6mm;szt;2021 Razem;;;327
+Silentblok B;20x10mm, M6x10mm, M6x6mm;szt;2022;10.01.2022;WZ;1
+Silentblok B;20x10mm, M6x10mm, M6x6mm;szt;2022;14.02.2022;WZ;10
+Silentblok B;20x10mm, M6x10mm, M6x6mm;szt;2022;18.03.2022;WZ;17
+Silentblok B;20x10mm, M6x10mm, M6x6mm;szt;2022;24.06.2022;WZ;84
+Silentblok B;20x10mm, M6x10mm, M6x6mm;szt;2022;14.07.2022;WZ;44
+Silentblok B;20x10mm, M6x10mm, M6x6mm;szt;2022;25.07.2022;WZ;20
+Silentblok B;20x10mm, M6x10mm, M6x6mm;szt;2022;11.08.2022;WZ;25
+Silentblok B;20x10mm, M6x10mm, M6x6mm;szt;2022;10.10.2022;WZ;8
+Silentblok B;20x10mm, M6x10mm, M6x6mm;szt;2022;14.11.2022;WZ;10
+Silentblok B;20x10mm, M6x10mm, M6x6mm;szt;2022 Razem;;;219
+Silentblok B;20x10mm, M6x10mm, M6x6mm;szt Razem;;;;759
+Silentblok B;50x30mm, M10x28mm, M10x10mm;szt;2020;16.03.2020;WZ;50
+Silentblok B;50x30mm, M10x28mm, M10x10mm;szt;2020;31.03.2020;WZ;100
+Silentblok B;50x30mm, M10x28mm, M10x10mm;szt;2020;27.05.2020;WZ;50
+Silentblok B;50x30mm, M10x28mm, M10x10mm;szt;2020;18.06.2020;WZ;100
+Silentblok B;50x30mm, M10x28mm, M10x10mm;szt;2020;17.09.2020;WZ;30
+Silentblok B;50x30mm, M10x28mm, M10x10mm;szt;2020 Razem;;;330
+Silentblok B;50x30mm, M10x28mm, M10x10mm;szt;2021;13.01.2021;WZ;10
+Silentblok B;50x30mm, M10x28mm, M10x10mm;szt;2022;15.11.2022;WZ;10
+Silentblok B;50x30mm, M10x28mm, M10x10mm;szt;2022;25.11.2022;WZ;50
+Silentblok B;50x30mm, M10x28mm, M10x10mm;szt;2022 Razem;;;60
+Silentblok B;50x30mm, M10x28mm, M10x10mm;szt;2023;27.01.2023;WZ;100
+Silentblok B;50x30mm, M10x28mm, M10x10mm;szt;2024;15.07.2024;WZ;42
+Silentblok B;50x30mm, M10x28mm, M10x10mm;szt;2024;6.08.2024;WZ;80
+Silentblok B;50x30mm, M10x28mm, M10x10mm;szt;2024;22.10.2024;WZ;24
+Silentblok B;50x30mm, M10x28mm, M10x10mm;szt;2024 Razem;;;146
+Silentblok B;50x30mm, M10x28mm, M10x10mm;szt;2025;5.02.2025;WZ;14
+Silentblok B;50x30mm, M10x28mm, M10x10mm;szt;2025;21.05.2025;WZ;5
+Silentblok B;50x30mm, M10x28mm, M10x10mm;szt;2025;12.08.2025;WZ;12
+Silentblok B;50x30mm, M10x28mm, M10x10mm;szt;2025;21.11.2025;WZ;60
+Silentblok B;50x30mm, M10x28mm, M10x10mm;szt;2025 Razem;;;91
+Silentblok B;50x30mm, M10x28mm, M10x10mm;szt Razem;;;;737
+Silentblok 20x15 M6;25150.0321;szt.;2024;26.09.2024;WZ;10
+Silentblok 20x15 M6;25150.0321;szt.;2025;27.03.2025;WZ;30
+Silentblok 20x15 M6;25150.0321;szt.;2025;6.08.2025;WZ;80
+Silentblok 20x15 M6;25150.0321;szt.;2025;13.11.2025;WZ;500
+Silentblok 20x15 M6;25150.0321;szt.;2025 Razem;;;610
+Silentblok 20x15 M6;25150.0321;szt. Razem;;;;620
+Silentblok B;30x20mm, M8x20mm, M8x8mm;szt;2020;2.10.2020;WZ;20
+Silentblok B;30x20mm, M8x20mm, M8x8mm;szt;2021;14.01.2021;WZ;10
+Silentblok B;30x20mm, M8x20mm, M8x8mm;szt;2021;15.11.2021;WZ;17
+Silentblok B;30x20mm, M8x20mm, M8x8mm;szt;2021;25.11.2021;WZ;20
+Silentblok B;30x20mm, M8x20mm, M8x8mm;szt;2021 Razem;;;47
+Silentblok B;30x20mm, M8x20mm, M8x8mm;szt;2022;10.01.2022;WZ;20
+Silentblok B;30x20mm, M8x20mm, M8x8mm;szt;2022;13.01.2022;WZ;20
+Silentblok B;30x20mm, M8x20mm, M8x8mm;szt;2022;18.03.2022;WZ;7
+Silentblok B;30x20mm, M8x20mm, M8x8mm;szt;2022;29.08.2022;WZ;20
+Silentblok B;30x20mm, M8x20mm, M8x8mm;szt;2022;17.10.2022;WZ;29
+Silentblok B;30x20mm, M8x20mm, M8x8mm;szt;2022;8.11.2022;WZ;4
+Silentblok B;30x20mm, M8x20mm, M8x8mm;szt;2022;17.11.2022;WZ;5
+Silentblok B;30x20mm, M8x20mm, M8x8mm;szt;2022;25.11.2022;WZ;16
+Silentblok B;30x20mm, M8x20mm, M8x8mm;szt;2022 Razem;;;121
+Silentblok B;30x20mm, M8x20mm, M8x8mm;szt;2023;27.01.2023;WZ;96
+Silentblok B;30x20mm, M8x20mm, M8x8mm;szt;2023;26.05.2023;WZ;8
+Silentblok B;30x20mm, M8x20mm, M8x8mm;szt;2023;29.05.2023;WZ;50
+Silentblok B;30x20mm, M8x20mm, M8x8mm;szt;2023;21.09.2023;WZ;6
+Silentblok B;30x20mm, M8x20mm, M8x8mm;szt;2023 Razem;;;160
+Silentblok B;30x20mm, M8x20mm, M8x8mm;szt;2024;9.02.2024;WZ;11
+Silentblok B;30x20mm, M8x20mm, M8x8mm;szt;2024;25.04.2024;WZ;12
+Silentblok B;30x20mm, M8x20mm, M8x8mm;szt;2024;15.07.2024;WZ;28
+Silentblok B;30x20mm, M8x20mm, M8x8mm;szt;2024;6.08.2024;WZ;68
+Silentblok B;30x20mm, M8x20mm, M8x8mm;szt;2024;16.09.2024;WZ;4
+Silentblok B;30x20mm, M8x20mm, M8x8mm;szt;2024;4.12.2024;WZ;20
+Silentblok B;30x20mm, M8x20mm, M8x8mm;szt;2024;17.12.2024;WZ;2
+Silentblok B;30x20mm, M8x20mm, M8x8mm;szt;2024 Razem;;;145
+Silentblok B;30x20mm, M8x20mm, M8x8mm;szt;2025;5.02.2025;WZ;4
+Silentblok B;30x20mm, M8x20mm, M8x8mm;szt;2025;25.02.2025;WZ;50
+Silentblok B;30x20mm, M8x20mm, M8x8mm;szt;2025;16.09.2025;WZ;10
+Silentblok B;30x20mm, M8x20mm, M8x8mm;szt;2025;21.11.2025;WZ;31
+Silentblok B;30x20mm, M8x20mm, M8x8mm;szt;2025 Razem;;;95
+Silentblok B;30x20mm, M8x20mm, M8x8mm;szt Razem;;;;588
+Silentblok C;50x30mm, M10x10mm;szt;2020;7.08.2020;WZ;12
+Silentblok C;50x30mm, M10x10mm;szt;2020;9.10.2020;WZ;2
+Silentblok C;50x30mm, M10x10mm;szt;2020 Razem;;;14
+Silentblok C;50x30mm, M10x10mm;szt;2021;8.01.2021;WZ;30
+Silentblok C;50x30mm, M10x10mm;szt;2021;13.01.2021;WZ;100
+Silentblok C;50x30mm, M10x10mm;szt;2021;2.02.2021;WZ;2
+Silentblok C;50x30mm, M10x10mm;szt;2021;1.03.2021;WZ;18
+Silentblok C;50x30mm, M10x10mm;szt;2021;17.03.2021;WZ;7
+Silentblok C;50x30mm, M10x10mm;szt;2021;8.04.2021;WZ;15
+Silentblok C;50x30mm, M10x10mm;szt;2021;4.05.2021;WZ;8
+Silentblok C;50x30mm, M10x10mm;szt;2021;13.08.2021;WZ;32
+Silentblok C;50x30mm, M10x10mm;szt;2021;25.10.2021;WZ;56
+Silentblok C;50x30mm, M10x10mm;szt;2021;5.11.2021;WZ;180
+Silentblok C;50x30mm, M10x10mm;szt;2021 Razem;;;448
+Silentblok C;50x30mm, M10x10mm;szt;2022;26.05.2022;WZ;24
+Silentblok C;50x30mm, M10x10mm;szt;2022;15.11.2022;WZ;100
+Silentblok C;50x30mm, M10x10mm;szt;2022 Razem;;;124
+Silentblok C;50x30mm, M10x10mm;szt Razem;;;;586
+Pokrêt³o;M8x20;szt;2020;18.02.2020;WZ;20
+Pokrêt³o;M8x20;szt;2020;20.04.2020;WZ;20
+Pokrêt³o;M8x20;szt;2020;2.07.2020;WZ;20
+Pokrêt³o;M8x20;szt;2020;13.10.2020;WZ;30
+Pokrêt³o;M8x20;szt;2020;9.11.2020;WZ;20
+Pokrêt³o;M8x20;szt;2020;25.11.2020;WZ;20
+Pokrêt³o;M8x20;szt;2020 Razem;;;130
+Pokrêt³o;M8x20;szt;2021;23.02.2021;WZ;20
+Pokrêt³o;M8x20;szt;2021;1.06.2021;WZ;50
+Pokrêt³o;M8x20;szt;2021 Razem;;;70
+Pokrêt³o;M8x20;szt;2022;18.07.2022;WZ;50
+Pokrêt³o;M8x20;szt;2022;14.12.2022;WZ;70
+Pokrêt³o;M8x20;szt;2022 Razem;;;120
+Pokrêt³o;M8x20;szt;2023;19.04.2023;WZ;50
+Pokrêt³o;M8x20;szt;2024;8.05.2024;WZ;50
+Pokrêt³o;M8x20;szt;2024;24.10.2024;WZ;50
+Pokrêt³o;M8x20;szt;2024 Razem;;;100
+Pokrêt³o;M8x20;szt;2025;28.11.2025;WZ;50
+Pokrêt³o;M8x20;szt Razem;;;;520
+Pokrêt³o - gwiazda;24740.0104 32 / M6x20;szt;2024;24.01.2024;WZ;5
+Pokrêt³o - gwiazda;24740.0104 32 / M6x20;szt;2024;27.06.2024;WZ;5
+Pokrêt³o - gwiazda;24740.0104 32 / M6x20;szt;2024 Razem;;;10
+Pokrêt³o - gwiazda;24740.0104 32 / M6x20;szt;2025;5.06.2025;WZ;2
+Pokrêt³o - gwiazda;24740.0104 32 / M6x20;szt;2025;26.06.2025;WZ;500
+Pokrêt³o - gwiazda;24740.0104 32 / M6x20;szt;2025 Razem;;;502
+Pokrêt³o - gwiazda;24740.0104 32 / M6x20;szt Razem;;;;512
+Silentblok DK;25x17mm, M6x18mm;szt;2021;31.08.2021;WZ;10
+Silentblok DK;25x17mm, M6x18mm;szt;2024;9.05.2024;WZ;1
+Silentblok DK;25x17mm, M6x18mm;szt;2024;21.11.2024;WZ;200
+Silentblok DK;25x17mm, M6x18mm;szt;2024 Razem;;;201
+Silentblok DK;25x17mm, M6x18mm;szt;2025;28.05.2025;WZ;200
+Silentblok DK;25x17mm, M6x18mm;szt;2025;24.06.2025;WZ;100
+Silentblok DK;25x17mm, M6x18mm;szt;2025 Razem;;;300
+Silentblok DK;25x17mm, M6x18mm;szt Razem;;;;511
+£o¿ysko sto¿kowe sprê¿yste 61x51;61x51mm;szt;2022;15.02.2022;WZ;30
+£o¿ysko sto¿kowe sprê¿yste 61x51;61x51mm;szt;2022;4.05.2022;WZ;42
+£o¿ysko sto¿kowe sprê¿yste 61x51;61x51mm;szt;2022;24.05.2022;WZ;52
+£o¿ysko sto¿kowe sprê¿yste 61x51;61x51mm;szt;2022;21.09.2022;WZ;100
+£o¿ysko sto¿kowe sprê¿yste 61x51;61x51mm;szt;2022;9.11.2022;WZ;60
+£o¿ysko sto¿kowe sprê¿yste 61x51;61x51mm;szt;2022;15.12.2022;WZ;224
+£o¿ysko sto¿kowe sprê¿yste 61x51;61x51mm;szt;2022 Razem;;;508
+Suma koñcowa;;;;;;99 110,00

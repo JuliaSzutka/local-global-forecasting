@@ -1,0 +1,396 @@
+;;;;;;Dane
+;;;;;;Suma koñcowa
+Produkt.Nazwa;Produkt.Symbol;Produkt.Jednostka podstawowa;Czas.Kalendarzowy.Rok;Czas.Kalendarzowy.Data;Dokument.Dokument.Rodzaj.Typ dokumentu;Sprzeda¿ Iloœæ
+Prowadnica ³añcucha rolkowego profil 1;pro øetìz 5/8''x3/8'';m;2020;27.01.2020;WZ;40
+Prowadnica ³añcucha rolkowego profil 1;pro øetìz 5/8''x3/8'';m;2020;12.02.2020;WZ;16
+Prowadnica ³añcucha rolkowego profil 1;pro øetìz 5/8''x3/8'';m;2020;30.04.2020;WZ;20
+Prowadnica ³añcucha rolkowego profil 1;pro øetìz 5/8''x3/8'';m;2020;26.05.2020;WZ;40
+Prowadnica ³añcucha rolkowego profil 1;pro øetìz 5/8''x3/8'';m;2020;8.07.2020;WZ;20
+Prowadnica ³añcucha rolkowego profil 1;pro øetìz 5/8''x3/8'';m;2020;15.09.2020;WZ;44
+Prowadnica ³añcucha rolkowego profil 1;pro øetìz 5/8''x3/8'';m;2020;21.12.2020;WZ;20
+Prowadnica ³añcucha rolkowego profil 1;pro øetìz 5/8''x3/8'';m;2020 Razem;;;200
+Prowadnica ³añcucha rolkowego profil 1;pro øetìz 5/8''x3/8'';m;2021;12.01.2021;WZ;20
+Prowadnica ³añcucha rolkowego profil 1;pro øetìz 5/8''x3/8'';m;2021;22.01.2021;WZ;20
+Prowadnica ³añcucha rolkowego profil 1;pro øetìz 5/8''x3/8'';m;2021;2.02.2021;WZ;4
+Prowadnica ³añcucha rolkowego profil 1;pro øetìz 5/8''x3/8'';m;2021;19.03.2021;WZ;20
+Prowadnica ³añcucha rolkowego profil 1;pro øetìz 5/8''x3/8'';m;2021;22.03.2021;WZ;2
+Prowadnica ³añcucha rolkowego profil 1;pro øetìz 5/8''x3/8'';m;2021;15.06.2021;WZ;40
+Prowadnica ³añcucha rolkowego profil 1;pro øetìz 5/8''x3/8'';m;2021;22.07.2021;WZ;20
+Prowadnica ³añcucha rolkowego profil 1;pro øetìz 5/8''x3/8'';m;2021;10.08.2021;WZ;12
+Prowadnica ³añcucha rolkowego profil 1;pro øetìz 5/8''x3/8'';m;2021;8.09.2021;WZ;20
+Prowadnica ³añcucha rolkowego profil 1;pro øetìz 5/8''x3/8'';m;2021;14.09.2021;WZ;4
+Prowadnica ³añcucha rolkowego profil 1;pro øetìz 5/8''x3/8'';m;2021;15.09.2021;WZ;20
+Prowadnica ³añcucha rolkowego profil 1;pro øetìz 5/8''x3/8'';m;2021;21.09.2021;WZ;8
+Prowadnica ³añcucha rolkowego profil 1;pro øetìz 5/8''x3/8'';m;2021;8.10.2021;WZ;40
+Prowadnica ³añcucha rolkowego profil 1;pro øetìz 5/8''x3/8'';m;2021 Razem;;;230
+Prowadnica ³añcucha rolkowego profil 1;pro øetìz 5/8''x3/8'';m;2022;28.01.2022;WZ;20
+Prowadnica ³añcucha rolkowego profil 1;pro øetìz 5/8''x3/8'';m;2022;25.02.2022;WZ;20
+Prowadnica ³añcucha rolkowego profil 1;pro øetìz 5/8''x3/8'';m;2022;21.04.2022;WZ;20
+Prowadnica ³añcucha rolkowego profil 1;pro øetìz 5/8''x3/8'';m;2022;30.06.2022;WZ;20
+Prowadnica ³añcucha rolkowego profil 1;pro øetìz 5/8''x3/8'';m;2022;23.08.2022;WZ;20
+Prowadnica ³añcucha rolkowego profil 1;pro øetìz 5/8''x3/8'';m;2022;21.10.2022;WZ;18
+Prowadnica ³añcucha rolkowego profil 1;pro øetìz 5/8''x3/8'';m;2022;15.12.2022;WZ;4
+Prowadnica ³añcucha rolkowego profil 1;pro øetìz 5/8''x3/8'';m;2022 Razem;;;122
+Prowadnica ³añcucha rolkowego profil 1;pro øetìz 5/8''x3/8'';m;2023;11.01.2023;WZ;28
+Prowadnica ³añcucha rolkowego profil 1;pro øetìz 5/8''x3/8'';m;2023;26.01.2023;WZ;6
+Prowadnica ³añcucha rolkowego profil 1;pro øetìz 5/8''x3/8'';m;2023;9.02.2023;WZ;20
+Prowadnica ³añcucha rolkowego profil 1;pro øetìz 5/8''x3/8'';m;2023;23.02.2023;WZ;8
+Prowadnica ³añcucha rolkowego profil 1;pro øetìz 5/8''x3/8'';m;2023;8.03.2023;WZ;20
+Prowadnica ³añcucha rolkowego profil 1;pro øetìz 5/8''x3/8'';m;2023;7.05.2023;WZ;20
+Prowadnica ³añcucha rolkowego profil 1;pro øetìz 5/8''x3/8'';m;2023;28.06.2023;WZ;4
+Prowadnica ³añcucha rolkowego profil 1;pro øetìz 5/8''x3/8'';m;2023;5.07.2023;WZ;12
+Prowadnica ³añcucha rolkowego profil 1;pro øetìz 5/8''x3/8'';m;2023;24.07.2023;WZ;30
+Prowadnica ³añcucha rolkowego profil 1;pro øetìz 5/8''x3/8'';m;2023;7.09.2023;WZ;10
+Prowadnica ³añcucha rolkowego profil 1;pro øetìz 5/8''x3/8'';m;2023;14.09.2023;WZ;10
+Prowadnica ³añcucha rolkowego profil 1;pro øetìz 5/8''x3/8'';m;2023;6.10.2023;WZ;8
+Prowadnica ³añcucha rolkowego profil 1;pro øetìz 5/8''x3/8'';m;2023;14.11.2023;WZ;10
+Prowadnica ³añcucha rolkowego profil 1;pro øetìz 5/8''x3/8'';m;2023;5.12.2023;WZ;20
+Prowadnica ³añcucha rolkowego profil 1;pro øetìz 5/8''x3/8'';m;2023 Razem;;;206
+Prowadnica ³añcucha rolkowego profil 1;pro øetìz 5/8''x3/8'';m;2024;7.02.2024;WZ;40
+Prowadnica ³añcucha rolkowego profil 1;pro øetìz 5/8''x3/8'';m;2024;5.03.2024;WZ;20
+Prowadnica ³añcucha rolkowego profil 1;pro øetìz 5/8''x3/8'';m;2024;3.04.2024;WZ;12
+Prowadnica ³añcucha rolkowego profil 1;pro øetìz 5/8''x3/8'';m;2024;12.07.2024;WZ;40
+Prowadnica ³añcucha rolkowego profil 1;pro øetìz 5/8''x3/8'';m;2024;18.10.2024;WZ;20
+Prowadnica ³añcucha rolkowego profil 1;pro øetìz 5/8''x3/8'';m;2024;25.10.2024;WZ;2
+Prowadnica ³añcucha rolkowego profil 1;pro øetìz 5/8''x3/8'';m;2024 Razem;;;134
+Prowadnica ³añcucha rolkowego profil 1;pro øetìz 5/8''x3/8'';m;2025;20.01.2025;WZ;12
+Prowadnica ³añcucha rolkowego profil 1;pro øetìz 5/8''x3/8'';m;2025;27.02.2025;WZ;20
+Prowadnica ³añcucha rolkowego profil 1;pro øetìz 5/8''x3/8'';m;2025;27.03.2025;WZ;10
+Prowadnica ³añcucha rolkowego profil 1;pro øetìz 5/8''x3/8'';m;2025;11.04.2025;WZ;20
+Prowadnica ³añcucha rolkowego profil 1;pro øetìz 5/8''x3/8'';m;2025;14.08.2025;WZ;16
+Prowadnica ³añcucha rolkowego profil 1;pro øetìz 5/8''x3/8'';m;2025;28.08.2025;WZ;4
+Prowadnica ³añcucha rolkowego profil 1;pro øetìz 5/8''x3/8'';m;2025;8.09.2025;WZ;14
+Prowadnica ³añcucha rolkowego profil 1;pro øetìz 5/8''x3/8'';m;2025;16.10.2025;WZ;16
+Prowadnica ³añcucha rolkowego profil 1;pro øetìz 5/8''x3/8'';m;2025 Razem;;;112
+Prowadnica ³añcucha rolkowego profil 1;pro øetìz 5/8''x3/8'';m Razem;;;;1 004,00
+Prowadnica ³añcucha rolkowego profil 1;pro øetìz 3/8''x7/32'';m;2020;17.07.2020;WZ;4
+Prowadnica ³añcucha rolkowego profil 1;pro øetìz 3/8''x7/32'';m;2020;4.09.2020;WZ;4
+Prowadnica ³añcucha rolkowego profil 1;pro øetìz 3/8''x7/32'';m;2020;9.09.2020;WZ;8
+Prowadnica ³añcucha rolkowego profil 1;pro øetìz 3/8''x7/32'';m;2020 Razem;;;16
+Prowadnica ³añcucha rolkowego profil 1;pro øetìz 3/8''x7/32'';m;2021;12.02.2021;WZ;220
+Prowadnica ³añcucha rolkowego profil 1;pro øetìz 3/8''x7/32'';m;2021;18.06.2021;FSL;0
+Prowadnica ³añcucha rolkowego profil 1;pro øetìz 3/8''x7/32'';m;2021;9.07.2021;WZ;40
+Prowadnica ³añcucha rolkowego profil 1;pro øetìz 3/8''x7/32'';m;2021;27.07.2021;WZ;4
+Prowadnica ³añcucha rolkowego profil 1;pro øetìz 3/8''x7/32'';m;2021;1.10.2021;WZ;64
+Prowadnica ³añcucha rolkowego profil 1;pro øetìz 3/8''x7/32'';m;2021;17.11.2021;WZ;66
+Prowadnica ³añcucha rolkowego profil 1;pro øetìz 3/8''x7/32'';m;2021 Razem;;;394
+Prowadnica ³añcucha rolkowego profil 1;pro øetìz 3/8''x7/32'';m;2022;19.04.2022;WZ;70
+Prowadnica ³añcucha rolkowego profil 1;pro øetìz 3/8''x7/32'';m;2022;21.12.2022;WZ;6
+Prowadnica ³añcucha rolkowego profil 1;pro øetìz 3/8''x7/32'';m;2022 Razem;;;76
+Prowadnica ³añcucha rolkowego profil 1;pro øetìz 3/8''x7/32'';m;2024;11.06.2024;WZ;2
+Prowadnica ³añcucha rolkowego profil 1;pro øetìz 3/8''x7/32'';m;2025;11.02.2025;WZ;4
+Prowadnica ³añcucha rolkowego profil 1;pro øetìz 3/8''x7/32'';m;2025;11.03.2025;WZ;40
+Prowadnica ³añcucha rolkowego profil 1;pro øetìz 3/8''x7/32'';m;2025;22.09.2025;WZ;130
+Prowadnica ³añcucha rolkowego profil 1;pro øetìz 3/8''x7/32'';m;2025 Razem;;;174
+Prowadnica ³añcucha rolkowego profil 1;pro øetìz 3/8''x7/32'';m Razem;;;;662
+Prowadzenie ³añcucha;T0 - profil, 3/8x7/32'', 15x10'';m;2022;7.12.2022;WZ;100
+Prowadzenie ³añcucha;T0 - profil, 3/8x7/32'', 15x10'';m;2023;12.05.2023;WZ;320
+Prowadzenie ³añcucha;T0 - profil, 3/8x7/32'', 15x10'';m Razem;;;;420
+"Œlizg AT5/32 R10 19,5x40x2000mm, wg rys.RT70.0010.010; mat. PE1000 - czarny";"AT5/32; RT70.0010.010";szt.;2025;20.03.2025;WZ;20
+"Œlizg AT5/32 R10 19,5x40x2000mm, wg rys.RT70.0010.010; mat. PE1000 - czarny";"AT5/32; RT70.0010.010";szt.;2025;13.08.2025;WZ;200
+"Œlizg AT5/32 R10 19,5x40x2000mm, wg rys.RT70.0010.010; mat. PE1000 - czarny";"AT5/32; RT70.0010.010";szt.;2025;30.09.2025;WZ;200
+"Œlizg AT5/32 R10 19,5x40x2000mm, wg rys.RT70.0010.010; mat. PE1000 - czarny";"AT5/32; RT70.0010.010";szt.;2025 Razem;;;420
+Prowadnica ³añcucha rolkowego profil 1;pro øetìz 1/2''x5/16'';m;2020;27.01.2020;WZ;20
+Prowadnica ³añcucha rolkowego profil 1;pro øetìz 1/2''x5/16'';m;2020;29.04.2020;WZ;16
+Prowadnica ³añcucha rolkowego profil 1;pro øetìz 1/2''x5/16'';m;2020 Razem;;;36
+Prowadnica ³añcucha rolkowego profil 1;pro øetìz 1/2''x5/16'';m;2021;12.01.2021;WZ;20
+Prowadnica ³añcucha rolkowego profil 1;pro øetìz 1/2''x5/16'';m;2021;11.02.2021;WZ;16
+Prowadnica ³añcucha rolkowego profil 1;pro øetìz 1/2''x5/16'';m;2021;19.02.2021;WZ;16
+Prowadnica ³añcucha rolkowego profil 1;pro øetìz 1/2''x5/16'';m;2021;30.03.2021;WZ;2
+Prowadnica ³añcucha rolkowego profil 1;pro øetìz 1/2''x5/16'';m;2021;18.05.2021;WZ;20
+Prowadnica ³añcucha rolkowego profil 1;pro øetìz 1/2''x5/16'';m;2021;27.07.2021;WZ;16
+Prowadnica ³añcucha rolkowego profil 1;pro øetìz 1/2''x5/16'';m;2021;7.12.2021;WZ;10
+Prowadnica ³añcucha rolkowego profil 1;pro øetìz 1/2''x5/16'';m;2021 Razem;;;100
+Prowadnica ³añcucha rolkowego profil 1;pro øetìz 1/2''x5/16'';m;2022;5.01.2022;WZ;16
+Prowadnica ³añcucha rolkowego profil 1;pro øetìz 1/2''x5/16'';m;2022;25.02.2022;WZ;20
+Prowadnica ³añcucha rolkowego profil 1;pro øetìz 1/2''x5/16'';m;2022;6.04.2022;WZ;8
+Prowadnica ³añcucha rolkowego profil 1;pro øetìz 1/2''x5/16'';m;2022;13.06.2022;WZ;20
+Prowadnica ³añcucha rolkowego profil 1;pro øetìz 1/2''x5/16'';m;2022;3.08.2022;WZ;76
+Prowadnica ³añcucha rolkowego profil 1;pro øetìz 1/2''x5/16'';m;2022;17.11.2022;WZ;4
+Prowadnica ³añcucha rolkowego profil 1;pro øetìz 1/2''x5/16'';m;2022 Razem;;;144
+Prowadnica ³añcucha rolkowego profil 1;pro øetìz 1/2''x5/16'';m;2023;12.01.2023;WZ;2
+Prowadnica ³añcucha rolkowego profil 1;pro øetìz 1/2''x5/16'';m;2023;30.11.2023;WZ;4
+Prowadnica ³añcucha rolkowego profil 1;pro øetìz 1/2''x5/16'';m;2023 Razem;;;6
+Prowadnica ³añcucha rolkowego profil 1;pro øetìz 1/2''x5/16'';m;2024;25.01.2024;WZ;16
+Prowadnica ³añcucha rolkowego profil 1;pro øetìz 1/2''x5/16'';m;2024;3.04.2024;WZ;20
+Prowadnica ³añcucha rolkowego profil 1;pro øetìz 1/2''x5/16'';m;2024;7.05.2024;WZ;4
+Prowadnica ³añcucha rolkowego profil 1;pro øetìz 1/2''x5/16'';m;2024;13.05.2024;WZ;2
+Prowadnica ³añcucha rolkowego profil 1;pro øetìz 1/2''x5/16'';m;2024;25.06.2024;WZ;10
+Prowadnica ³añcucha rolkowego profil 1;pro øetìz 1/2''x5/16'';m;2024;13.11.2024;WZ;10
+Prowadnica ³añcucha rolkowego profil 1;pro øetìz 1/2''x5/16'';m;2024 Razem;;;62
+Prowadnica ³añcucha rolkowego profil 1;pro øetìz 1/2''x5/16'';m;2025;21.01.2025;WZ;20
+Prowadnica ³añcucha rolkowego profil 1;pro øetìz 1/2''x5/16'';m;2025;12.05.2025;WZ;4
+Prowadnica ³añcucha rolkowego profil 1;pro øetìz 1/2''x5/16'';m;2025;14.07.2025;WZ;12
+Prowadnica ³añcucha rolkowego profil 1;pro øetìz 1/2''x5/16'';m;2025;6.08.2025;WZ;4
+Prowadnica ³añcucha rolkowego profil 1;pro øetìz 1/2''x5/16'';m;2025 Razem;;;40
+Prowadnica ³añcucha rolkowego profil 1;pro øetìz 1/2''x5/16'';m Razem;;;;388
+Prowadnica ³añcucha rolkowego profil 1;pro øetìz 1/2''x5/16'';m;2020;15.10.2020;WZ;36
+Prowadnica ³añcucha rolkowego profil 1;pro øetìz 1/2''x5/16'';m;2021;15.09.2021;WZ;20
+Prowadnica ³añcucha rolkowego profil 1;pro øetìz 1/2''x5/16'';m;2021;20.12.2021;WZ;6
+Prowadnica ³añcucha rolkowego profil 1;pro øetìz 1/2''x5/16'';m;2021 Razem;;;26
+Prowadnica ³añcucha rolkowego profil 1;pro øetìz 1/2''x5/16'';m;2022;16.02.2022;WZ;10
+Prowadnica ³añcucha rolkowego profil 1;pro øetìz 1/2''x5/16'';m;2022;10.03.2022;WZ;36
+Prowadnica ³añcucha rolkowego profil 1;pro øetìz 1/2''x5/16'';m;2022;24.03.2022;WZ;6
+Prowadnica ³añcucha rolkowego profil 1;pro øetìz 1/2''x5/16'';m;2022;12.04.2022;WZ;6
+Prowadnica ³añcucha rolkowego profil 1;pro øetìz 1/2''x5/16'';m;2022;20.09.2022;WZ;26
+Prowadnica ³añcucha rolkowego profil 1;pro øetìz 1/2''x5/16'';m;2022;27.09.2022;WZ;2
+Prowadnica ³añcucha rolkowego profil 1;pro øetìz 1/2''x5/16'';m;2022;13.10.2022;WZ;26
+Prowadnica ³añcucha rolkowego profil 1;pro øetìz 1/2''x5/16'';m;2022;18.11.2022;WZ;14
+Prowadnica ³añcucha rolkowego profil 1;pro øetìz 1/2''x5/16'';m;2022 Razem;;;126
+Prowadnica ³añcucha rolkowego profil 1;pro øetìz 1/2''x5/16'';m;2023;28.08.2023;WZ;12
+Prowadnica ³añcucha rolkowego profil 1;pro øetìz 1/2''x5/16'';m;2023;21.09.2023;WZ;12
+Prowadnica ³añcucha rolkowego profil 1;pro øetìz 1/2''x5/16'';m;2023;13.10.2023;WZ;18
+Prowadnica ³añcucha rolkowego profil 1;pro øetìz 1/2''x5/16'';m;2023;17.10.2023;WZ;18
+Prowadnica ³añcucha rolkowego profil 1;pro øetìz 1/2''x5/16'';m;2023 Razem;;;60
+Prowadnica ³añcucha rolkowego profil 1;pro øetìz 1/2''x5/16'';m;2024;31.01.2024;WZ;20
+Prowadnica ³añcucha rolkowego profil 1;pro øetìz 1/2''x5/16'';m;2025;14.05.2025;WZ;16
+Prowadnica ³añcucha rolkowego profil 1;pro øetìz 1/2''x5/16'';m;2025;20.08.2025;WZ;2
+Prowadnica ³añcucha rolkowego profil 1;pro øetìz 1/2''x5/16'';m;2025;30.10.2025;WZ;10
+Prowadnica ³añcucha rolkowego profil 1;pro øetìz 1/2''x5/16'';m;2025 Razem;;;28
+Prowadnica ³añcucha rolkowego profil 1;pro øetìz 1/2''x5/16'';m Razem;;;;296
+Prowadnica ³añcucha rolkowego profil 1; 1''x17,02mm;m;2020;31.03.2020;WZ;2
+Prowadnica ³añcucha rolkowego profil 1; 1''x17,02mm;m;2020;20.04.2020;WZ;14
+Prowadnica ³añcucha rolkowego profil 1; 1''x17,02mm;m;2020;10.06.2020;WZ;24
+Prowadnica ³añcucha rolkowego profil 1; 1''x17,02mm;m;2020;23.06.2020;WZE;4
+Prowadnica ³añcucha rolkowego profil 1; 1''x17,02mm;m;2020;21.08.2020;WZ;18
+Prowadnica ³añcucha rolkowego profil 1; 1''x17,02mm;m;2020;20.10.2020;WZ;10
+Prowadnica ³añcucha rolkowego profil 1; 1''x17,02mm;m;2020;30.11.2020;WZ;16
+Prowadnica ³añcucha rolkowego profil 1; 1''x17,02mm;m;2020 Razem;;;88
+Prowadnica ³añcucha rolkowego profil 1; 1''x17,02mm;m;2021;22.02.2021;WZ;6
+Prowadnica ³añcucha rolkowego profil 1; 1''x17,02mm;m;2021;28.04.2021;WZ;12
+Prowadnica ³añcucha rolkowego profil 1; 1''x17,02mm;m;2021;1.06.2021;WZ;24
+Prowadnica ³añcucha rolkowego profil 1; 1''x17,02mm;m;2021;30.06.2021;WZ;6
+Prowadnica ³añcucha rolkowego profil 1; 1''x17,02mm;m;2021;20.08.2021;WZ;32
+Prowadnica ³añcucha rolkowego profil 1; 1''x17,02mm;m;2021;10.09.2021;WZ;16
+Prowadnica ³añcucha rolkowego profil 1; 1''x17,02mm;m;2021;15.10.2021;WZE;2
+Prowadnica ³añcucha rolkowego profil 1; 1''x17,02mm;m;2021;28.10.2021;FSL;0
+Prowadnica ³añcucha rolkowego profil 1; 1''x17,02mm;m;2021;29.10.2021;WZ;2
+Prowadnica ³añcucha rolkowego profil 1; 1''x17,02mm;m;2021;2.11.2021;WZ;22
+Prowadnica ³añcucha rolkowego profil 1; 1''x17,02mm;m;2021;24.11.2021;WZ;24
+Prowadnica ³añcucha rolkowego profil 1; 1''x17,02mm;m;2021 Razem;;;146
+Prowadnica ³añcucha rolkowego profil 1; 1''x17,02mm;m;2022;11.01.2022;WZ;6
+Prowadnica ³añcucha rolkowego profil 1; 1''x17,02mm;m;2022;29.03.2022;FSL;0
+Prowadnica ³añcucha rolkowego profil 1; 1''x17,02mm;m;2022;11.04.2022;WZ;14
+Prowadnica ³añcucha rolkowego profil 1; 1''x17,02mm;m;2022;10.08.2022;WZE;2
+Prowadnica ³añcucha rolkowego profil 1; 1''x17,02mm;m;2022 Razem;;;22
+Prowadnica ³añcucha rolkowego profil 1; 1''x17,02mm;m;2024;8.10.2024;WZ;6
+Prowadnica ³añcucha rolkowego profil 1; 1''x17,02mm;m Razem;;;;262
+Prowadnica ³añcucha rolkowego profil 1;pro øetìz 3/4''x7/16'';m;2020;7.09.2020;WZ;6
+Prowadnica ³añcucha rolkowego profil 1;pro øetìz 3/4''x7/16'';m;2021;11.01.2021;WZ;4
+Prowadnica ³añcucha rolkowego profil 1;pro øetìz 3/4''x7/16'';m;2021;10.03.2021;WZ;4
+Prowadnica ³añcucha rolkowego profil 1;pro øetìz 3/4''x7/16'';m;2021;23.08.2021;WZ;4
+Prowadnica ³añcucha rolkowego profil 1;pro øetìz 3/4''x7/16'';m;2021;16.11.2021;WZ;10
+Prowadnica ³añcucha rolkowego profil 1;pro øetìz 3/4''x7/16'';m;2021 Razem;;;22
+Prowadnica ³añcucha rolkowego profil 1;pro øetìz 3/4''x7/16'';m;2022;25.04.2022;WZ;8
+Prowadnica ³añcucha rolkowego profil 1;pro øetìz 3/4''x7/16'';m;2022;13.06.2022;WZ;8
+Prowadnica ³añcucha rolkowego profil 1;pro øetìz 3/4''x7/16'';m;2022;21.06.2022;FSL;0
+Prowadnica ³añcucha rolkowego profil 1;pro øetìz 3/4''x7/16'';m;2022;8.07.2022;WZ;34
+Prowadnica ³añcucha rolkowego profil 1;pro øetìz 3/4''x7/16'';m;2022;28.07.2022;FSL;0
+Prowadnica ³añcucha rolkowego profil 1;pro øetìz 3/4''x7/16'';m;2022;10.08.2022;WZ;88
+Prowadnica ³añcucha rolkowego profil 1;pro øetìz 3/4''x7/16'';m;2022;3.10.2022;WZ;10
+Prowadnica ³añcucha rolkowego profil 1;pro øetìz 3/4''x7/16'';m;2022;20.10.2022;WZ;22
+Prowadnica ³añcucha rolkowego profil 1;pro øetìz 3/4''x7/16'';m;2022;16.11.2022;WZ;2
+Prowadnica ³añcucha rolkowego profil 1;pro øetìz 3/4''x7/16'';m;2022 Razem;;;172
+Prowadnica ³añcucha rolkowego profil 1;pro øetìz 3/4''x7/16'';m;2023;18.01.2023;WZ;4
+Prowadnica ³añcucha rolkowego profil 1;pro øetìz 3/4''x7/16'';m;2023;9.05.2023;WZ;10
+Prowadnica ³añcucha rolkowego profil 1;pro øetìz 3/4''x7/16'';m;2023;26.07.2023;WZ;4
+Prowadnica ³añcucha rolkowego profil 1;pro øetìz 3/4''x7/16'';m;2023;5.09.2023;WZ;20
+Prowadnica ³añcucha rolkowego profil 1;pro øetìz 3/4''x7/16'';m;2023;19.09.2023;WZ;2
+Prowadnica ³añcucha rolkowego profil 1;pro øetìz 3/4''x7/16'';m;2023 Razem;;;40
+Prowadnica ³añcucha rolkowego profil 1;pro øetìz 3/4''x7/16'';m;2024;28.06.2024;WZ;4
+Prowadnica ³añcucha rolkowego profil 1;pro øetìz 3/4''x7/16'';m Razem;;;;244
+Prowadnica ³añcucha rolkowego z C-profilem, profil 5;5.wrz;m;2022;6.06.2022;WZ;42
+Prowadnica ³añcucha rolkowego z C-profilem, profil 5;5.wrz;m;2022;6.10.2022;WZ;4
+Prowadnica ³añcucha rolkowego z C-profilem, profil 5;5.wrz;m;2022 Razem;;;46
+Prowadnica ³añcucha rolkowego z C-profilem, profil 5;5.wrz;m;2023;5.07.2023;WZ;14
+Prowadnica ³añcucha rolkowego z C-profilem, profil 5;5.wrz;m;2023;20.07.2023;WZ;14
+Prowadnica ³añcucha rolkowego z C-profilem, profil 5;5.wrz;m;2023 Razem;;;28
+Prowadnica ³añcucha rolkowego z C-profilem, profil 5;5.wrz;m;2024;19.02.2024;WZ;16
+Prowadnica ³añcucha rolkowego z C-profilem, profil 5;5.wrz;m;2024;26.03.2024;WZ;8
+Prowadnica ³añcucha rolkowego z C-profilem, profil 5;5.wrz;m;2024;12.12.2024;WZ;42
+Prowadnica ³añcucha rolkowego z C-profilem, profil 5;5.wrz;m;2024 Razem;;;66
+Prowadnica ³añcucha rolkowego z C-profilem, profil 5;5.wrz;m;2025;29.08.2025;WZ;46
+Prowadnica ³añcucha rolkowego z C-profilem, profil 5;5.wrz;m;2025;14.11.2025;WZ;48
+Prowadnica ³añcucha rolkowego z C-profilem, profil 5;5.wrz;m;2025 Razem;;;94
+Prowadnica ³añcucha rolkowego z C-profilem, profil 5;5.wrz;m Razem;;;;234
+Prowadnica ³añcucha rolkowego profil 2;pro øetìz 5/8''x3/8'';m;2020;24.01.2020;WZ;4
+Prowadnica ³añcucha rolkowego profil 2;pro øetìz 5/8''x3/8'';m;2020;17.02.2020;WZ;12
+Prowadnica ³añcucha rolkowego profil 2;pro øetìz 5/8''x3/8'';m;2020;15.09.2020;WZ;24
+Prowadnica ³añcucha rolkowego profil 2;pro øetìz 5/8''x3/8'';m;2020;17.11.2020;WZ;8
+Prowadnica ³añcucha rolkowego profil 2;pro øetìz 5/8''x3/8'';m;2020 Razem;;;48
+Prowadnica ³añcucha rolkowego profil 2;pro øetìz 5/8''x3/8'';m;2021;12.05.2021;WZ;2
+Prowadnica ³añcucha rolkowego profil 2;pro øetìz 5/8''x3/8'';m;2021;17.05.2021;WZ;4
+Prowadnica ³añcucha rolkowego profil 2;pro øetìz 5/8''x3/8'';m;2021;26.11.2021;WZ;34
+Prowadnica ³añcucha rolkowego profil 2;pro øetìz 5/8''x3/8'';m;2021 Razem;;;40
+Prowadnica ³añcucha rolkowego profil 2;pro øetìz 5/8''x3/8'';m;2022;5.01.2022;WZ;6
+Prowadnica ³añcucha rolkowego profil 2;pro øetìz 5/8''x3/8'';m;2022;16.09.2022;WZ;4
+Prowadnica ³añcucha rolkowego profil 2;pro øetìz 5/8''x3/8'';m;2022 Razem;;;10
+Prowadnica ³añcucha rolkowego profil 2;pro øetìz 5/8''x3/8'';m;2023;7.03.2023;WZ;2
+Prowadnica ³añcucha rolkowego profil 2;pro øetìz 5/8''x3/8'';m;2023;15.06.2023;WZ;2
+Prowadnica ³añcucha rolkowego profil 2;pro øetìz 5/8''x3/8'';m;2023;21.08.2023;WZ;2
+Prowadnica ³añcucha rolkowego profil 2;pro øetìz 5/8''x3/8'';m;2023;12.09.2023;WZ;34
+Prowadnica ³añcucha rolkowego profil 2;pro øetìz 5/8''x3/8'';m;2023 Razem;;;40
+Prowadnica ³añcucha rolkowego profil 2;pro øetìz 5/8''x3/8'';m;2024;24.04.2024;WZ;12
+Prowadnica ³añcucha rolkowego profil 2;pro øetìz 5/8''x3/8'';m;2025;23.01.2025;WZ;2
+Prowadnica ³añcucha rolkowego profil 2;pro øetìz 5/8''x3/8'';m;2025;27.01.2025;FSL;0
+Prowadnica ³añcucha rolkowego profil 2;pro øetìz 5/8''x3/8'';m;2025;6.02.2025;WZ;6
+Prowadnica ³añcucha rolkowego profil 2;pro øetìz 5/8''x3/8'';m;2025;7.05.2025;WZ;34
+Prowadnica ³añcucha rolkowego profil 2;pro øetìz 5/8''x3/8'';m;2025;26.08.2025;WZ;34
+Prowadnica ³añcucha rolkowego profil 2;pro øetìz 5/8''x3/8'';m;2025;23.09.2025;WZ;2
+Prowadnica ³añcucha rolkowego profil 2;pro øetìz 5/8''x3/8'';m;2025 Razem;;;78
+Prowadnica ³añcucha rolkowego profil 2;pro øetìz 5/8''x3/8'';m Razem;;;;228
+C-profil cynkowany;C-3;m;2020;15.07.2020;WZ;40
+C-profil cynkowany;C-3;m;2021;24.02.2021;WZ;2
+C-profil cynkowany;C-3;m;2021;5.07.2021;WZ;2
+C-profil cynkowany;C-3;m;2021;24.08.2021;WZ;2
+C-profil cynkowany;C-3;m;2021 Razem;;;6
+C-profil cynkowany;C-3;m;2022;22.02.2022;WZ;4
+C-profil cynkowany;C-3;m;2022;8.08.2022;WZ;20
+C-profil cynkowany;C-3;m;2022 Razem;;;24
+C-profil cynkowany;C-3;m;2023;7.03.2023;WZ;2
+C-profil cynkowany;C-3;m;2023;22.12.2023;WZ;22
+C-profil cynkowany;C-3;m;2023 Razem;;;24
+C-profil cynkowany;C-3;m;2024;10.01.2024;WZ;6
+C-profil cynkowany;C-3;m;2024;7.06.2024;WZ;4
+C-profil cynkowany;C-3;m;2024;12.12.2024;WZ;24
+C-profil cynkowany;C-3;m;2024 Razem;;;34
+C-profil cynkowany;C-3;m;2025;29.08.2025;WZ;22
+C-profil cynkowany;C-3;m;2025;5.11.2025;WZ;40
+C-profil cynkowany;C-3;m;2025;14.11.2025;WZ;6
+C-profil cynkowany;C-3;m;2025 Razem;;;68
+C-profil cynkowany;C-3;m Razem;;;;196
+Prowadnica pod ³añcuch 16B-2 (15x48x2000mm) - kolor czarny;16B-2 15X48X2000 - CZARNA;m;2021;21.10.2021;WZ;36
+Prowadnica pod ³añcuch 16B-2 (15x48x2000mm) - kolor czarny;16B-2 15X48X2000 - CZARNA;m;2023;29.09.2023;WZ;44
+Prowadnica pod ³añcuch 16B-2 (15x48x2000mm) - kolor czarny;16B-2 15X48X2000 - CZARNA;m;2024;26.02.2024;WZ;40
+Prowadnica pod ³añcuch 16B-2 (15x48x2000mm) - kolor czarny;16B-2 15X48X2000 - CZARNA;m;2024;30.09.2024;WZ;72
+Prowadnica pod ³añcuch 16B-2 (15x48x2000mm) - kolor czarny;16B-2 15X48X2000 - CZARNA;m;2024 Razem;;;112
+Prowadnica pod ³añcuch 16B-2 (15x48x2000mm) - kolor czarny;16B-2 15X48X2000 - CZARNA;m Razem;;;;192
+Prowadnica ³añcucha rolkowego z C-profilem, profil 9;pro øetìz 3/4''x7/16'';m;2020;24.09.2020;WZ;16
+Prowadnica ³añcucha rolkowego z C-profilem, profil 9;pro øetìz 3/4''x7/16'';m;2020;16.12.2020;WZ;150
+Prowadnica ³añcucha rolkowego z C-profilem, profil 9;pro øetìz 3/4''x7/16'';m;2020 Razem;;;166
+Prowadnica ³añcucha rolkowego z C-profilem, profil 9;pro øetìz 3/4''x7/16'';m;2021;2.02.2021;WZ;6
+Prowadnica ³añcucha rolkowego z C-profilem, profil 9;pro øetìz 3/4''x7/16'';m;2021;22.09.2021;WZ;12
+Prowadnica ³añcucha rolkowego z C-profilem, profil 9;pro øetìz 3/4''x7/16'';m;2021 Razem;;;18
+Prowadnica ³añcucha rolkowego z C-profilem, profil 9;pro øetìz 3/4''x7/16'';m;2022;10.01.2022;WZ;2
+Prowadnica ³añcucha rolkowego z C-profilem, profil 9;pro øetìz 3/4''x7/16'';m;2022;29.04.2022;WZ;2
+Prowadnica ³añcucha rolkowego z C-profilem, profil 9;pro øetìz 3/4''x7/16'';m;2022 Razem;;;4
+Prowadnica ³añcucha rolkowego z C-profilem, profil 9;pro øetìz 3/4''x7/16'';m;2024;30.04.2024;FSL;0
+Prowadnica ³añcucha rolkowego z C-profilem, profil 9;pro øetìz 3/4''x7/16'';m;2024;6.05.2024;WZ;4
+Prowadnica ³añcucha rolkowego z C-profilem, profil 9;pro øetìz 3/4''x7/16'';m;2024 Razem;;;4
+Prowadnica ³añcucha rolkowego z C-profilem, profil 9;pro øetìz 3/4''x7/16'';m Razem;;;;192
+Prowadnica ³añcucha rolkowego z C-profilem, profil 6;PROFIL-6 3/4''x7/16'';m;2020;30.01.2020;WZ;4
+Prowadnica ³añcucha rolkowego z C-profilem, profil 6;PROFIL-6 3/4''x7/16'';m;2021;21.04.2021;WZ;12
+Prowadnica ³añcucha rolkowego z C-profilem, profil 6;PROFIL-6 3/4''x7/16'';m;2022;30.05.2022;WZ;8
+Prowadnica ³añcucha rolkowego z C-profilem, profil 6;PROFIL-6 3/4''x7/16'';m;2022;14.06.2022;WZ;8
+Prowadnica ³añcucha rolkowego z C-profilem, profil 6;PROFIL-6 3/4''x7/16'';m;2022;27.07.2022;WZ;6
+Prowadnica ³añcucha rolkowego z C-profilem, profil 6;PROFIL-6 3/4''x7/16'';m;2022;15.12.2022;WZ;12
+Prowadnica ³añcucha rolkowego z C-profilem, profil 6;PROFIL-6 3/4''x7/16'';m;2022 Razem;;;34
+Prowadnica ³añcucha rolkowego z C-profilem, profil 6;PROFIL-6 3/4''x7/16'';m;2023;28.06.2023;WZ;12
+Prowadnica ³añcucha rolkowego z C-profilem, profil 6;PROFIL-6 3/4''x7/16'';m;2023;23.10.2023;WZ;36
+Prowadnica ³añcucha rolkowego z C-profilem, profil 6;PROFIL-6 3/4''x7/16'';m;2023 Razem;;;48
+Prowadnica ³añcucha rolkowego z C-profilem, profil 6;PROFIL-6 3/4''x7/16'';m;2024;16.09.2024;WZ;42
+Prowadnica ³añcucha rolkowego z C-profilem, profil 6;PROFIL-6 3/4''x7/16'';m;2025;18.02.2025;WZ;28
+Prowadnica ³añcucha rolkowego z C-profilem, profil 6;PROFIL-6 3/4''x7/16'';m;2025;18.03.2025;WZ;4
+Prowadnica ³añcucha rolkowego z C-profilem, profil 6;PROFIL-6 3/4''x7/16'';m;2025 Razem;;;32
+Prowadnica ³añcucha rolkowego z C-profilem, profil 6;PROFIL-6 3/4''x7/16'';m Razem;;;;172
+Prowadnica ³añcucha rolkowego profil 4;pro øetìz 1/2''x5/16'';m;2020;29.07.2020;WZ;2
+Prowadnica ³añcucha rolkowego profil 4;pro øetìz 1/2''x5/16'';m;2020;29.10.2020;WZ;12
+Prowadnica ³añcucha rolkowego profil 4;pro øetìz 1/2''x5/16'';m;2020;12.11.2020;WZ;14
+Prowadnica ³añcucha rolkowego profil 4;pro øetìz 1/2''x5/16'';m;2020 Razem;;;28
+Prowadnica ³añcucha rolkowego profil 4;pro øetìz 1/2''x5/16'';m;2021;17.03.2021;WZ;8
+Prowadnica ³añcucha rolkowego profil 4;pro øetìz 1/2''x5/16'';m;2021;12.05.2021;WZ;12
+Prowadnica ³añcucha rolkowego profil 4;pro øetìz 1/2''x5/16'';m;2021;15.10.2021;WZ;2
+Prowadnica ³añcucha rolkowego profil 4;pro øetìz 1/2''x5/16'';m;2021 Razem;;;22
+Prowadnica ³añcucha rolkowego profil 4;pro øetìz 1/2''x5/16'';m;2022;2.02.2022;WZ;14
+Prowadnica ³añcucha rolkowego profil 4;pro øetìz 1/2''x5/16'';m;2022;25.04.2022;WZ;10
+Prowadnica ³añcucha rolkowego profil 4;pro øetìz 1/2''x5/16'';m;2022;6.05.2022;WZ;6
+Prowadnica ³añcucha rolkowego profil 4;pro øetìz 1/2''x5/16'';m;2022;10.05.2022;WZ;8
+Prowadnica ³añcucha rolkowego profil 4;pro øetìz 1/2''x5/16'';m;2022;24.06.2022;WZ;8
+Prowadnica ³añcucha rolkowego profil 4;pro øetìz 1/2''x5/16'';m;2022;6.09.2022;WZ;2
+Prowadnica ³añcucha rolkowego profil 4;pro øetìz 1/2''x5/16'';m;2022;20.10.2022;FSL;0
+Prowadnica ³añcucha rolkowego profil 4;pro øetìz 1/2''x5/16'';m;2022;8.11.2022;WZ;8
+Prowadnica ³añcucha rolkowego profil 4;pro øetìz 1/2''x5/16'';m;2022;7.12.2022;WZ;6
+Prowadnica ³añcucha rolkowego profil 4;pro øetìz 1/2''x5/16'';m;2022;13.12.2022;WZ;6
+Prowadnica ³añcucha rolkowego profil 4;pro øetìz 1/2''x5/16'';m;2022 Razem;;;68
+Prowadnica ³añcucha rolkowego profil 4;pro øetìz 1/2''x5/16'';m;2023;5.10.2023;WZ;32
+Prowadnica ³añcucha rolkowego profil 4;pro øetìz 1/2''x5/16'';m;2024;17.01.2024;WZ;4
+Prowadnica ³añcucha rolkowego profil 4;pro øetìz 1/2''x5/16'';m;2024;8.03.2024;WZ;2
+Prowadnica ³añcucha rolkowego profil 4;pro øetìz 1/2''x5/16'';m;2024;8.07.2024;WZ;2
+Prowadnica ³añcucha rolkowego profil 4;pro øetìz 1/2''x5/16'';m;2024 Razem;;;8
+Prowadnica ³añcucha rolkowego profil 4;pro øetìz 1/2''x5/16'';m Razem;;;;158
+Prowadnica ³añcucha rolkowego profil 1;pro øetìz 1''x17,02mm;m;2021;26.03.2021;WZ;18
+Prowadnica ³añcucha rolkowego profil 1;pro øetìz 1''x17,02mm;m;2021;15.04.2021;WZ;2
+Prowadnica ³añcucha rolkowego profil 1;pro øetìz 1''x17,02mm;m;2021 Razem;;;20
+Prowadnica ³añcucha rolkowego profil 1;pro øetìz 1''x17,02mm;m;2022;30.11.2022;WZ;20
+Prowadnica ³añcucha rolkowego profil 1;pro øetìz 1''x17,02mm;m;2023;31.10.2023;FSL;0
+Prowadnica ³añcucha rolkowego profil 1;pro øetìz 1''x17,02mm;m;2023;15.11.2023;WZ;72
+Prowadnica ³añcucha rolkowego profil 1;pro øetìz 1''x17,02mm;m;2023 Razem;;;72
+Prowadnica ³añcucha rolkowego profil 1;pro øetìz 1''x17,02mm;m;2024;22.08.2024;WZ;16
+Prowadnica ³añcucha rolkowego profil 1;pro øetìz 1''x17,02mm;m;2024;13.12.2024;WZ;8
+Prowadnica ³añcucha rolkowego profil 1;pro øetìz 1''x17,02mm;m;2024 Razem;;;24
+Prowadnica ³añcucha rolkowego profil 1;pro øetìz 1''x17,02mm;m;2025;19.09.2025;WZ;16
+Prowadnica ³añcucha rolkowego profil 1;pro øetìz 1''x17,02mm;m Razem;;;;152
+Prowadnica ³añcuchowa 24x30x500 z ceownikiem cynkowanym C10;rys. 46.02.04.101;szt.;2020;31.01.2020;WZ;120
+Prowadnica ³añcucha rolkowego profil 2;pro øetìz 3/4''x7/16'';m;2020;31.03.2020;WZ;18
+Prowadnica ³añcucha rolkowego profil 2;pro øetìz 3/4''x7/16'';m;2020;18.05.2020;WZ;6
+Prowadnica ³añcucha rolkowego profil 2;pro øetìz 3/4''x7/16'';m;2020;21.05.2020;WZ;6
+Prowadnica ³añcucha rolkowego profil 2;pro øetìz 3/4''x7/16'';m;2020;13.11.2020;WZ;8
+Prowadnica ³añcucha rolkowego profil 2;pro øetìz 3/4''x7/16'';m;2020 Razem;;;38
+Prowadnica ³añcucha rolkowego profil 2;pro øetìz 3/4''x7/16'';m;2021;10.09.2021;WZ;10
+Prowadnica ³añcucha rolkowego profil 2;pro øetìz 3/4''x7/16'';m;2021;11.10.2021;WZE;6
+Prowadnica ³añcucha rolkowego profil 2;pro øetìz 3/4''x7/16'';m;2021;8.11.2021;WZ;10
+Prowadnica ³añcucha rolkowego profil 2;pro øetìz 3/4''x7/16'';m;2021 Razem;;;26
+Prowadnica ³añcucha rolkowego profil 2;pro øetìz 3/4''x7/16'';m;2022;18.01.2022;WZ;2
+Prowadnica ³añcucha rolkowego profil 2;pro øetìz 3/4''x7/16'';m;2022;5.10.2022;WZ;6
+Prowadnica ³añcucha rolkowego profil 2;pro øetìz 3/4''x7/16'';m;2022 Razem;;;8
+Prowadnica ³añcucha rolkowego profil 2;pro øetìz 3/4''x7/16'';m;2023;6.06.2023;FSL;0
+Prowadnica ³añcucha rolkowego profil 2;pro øetìz 3/4''x7/16'';m;2023;5.07.2023;WZ;8
+Prowadnica ³añcucha rolkowego profil 2;pro øetìz 3/4''x7/16'';m;2023;14.11.2023;WZ;10
+Prowadnica ³añcucha rolkowego profil 2;pro øetìz 3/4''x7/16'';m;2023 Razem;;;18
+Prowadnica ³añcucha rolkowego profil 2;pro øetìz 3/4''x7/16'';m;2024;3.10.2024;WZ;4
+Prowadnica ³añcucha rolkowego profil 2;pro øetìz 3/4''x7/16'';m;2025;13.03.2025;WZ;4
+Prowadnica ³añcucha rolkowego profil 2;pro øetìz 3/4''x7/16'';m;2025;13.05.2025;WZ;8
+Prowadnica ³añcucha rolkowego profil 2;pro øetìz 3/4''x7/16'';m;2025;19.09.2025;WZ;12
+Prowadnica ³añcucha rolkowego profil 2;pro øetìz 3/4''x7/16'';m;2025 Razem;;;24
+Prowadnica ³añcucha rolkowego profil 2;pro øetìz 3/4''x7/16'';m Razem;;;;118
+Prowadnica ³añcucha rolkowego profil 4;pro øetìz 1''x17,02mm;m;2020;25.08.2020;WZ;4
+Prowadnica ³añcucha rolkowego profil 4;pro øetìz 1''x17,02mm;m;2022;12.01.2022;WZ;12
+Prowadnica ³añcucha rolkowego profil 4;pro øetìz 1''x17,02mm;m;2022;21.04.2022;WZ;20
+Prowadnica ³añcucha rolkowego profil 4;pro øetìz 1''x17,02mm;m;2022;16.11.2022;WZ;18
+Prowadnica ³añcucha rolkowego profil 4;pro øetìz 1''x17,02mm;m;2022 Razem;;;50
+Prowadnica ³añcucha rolkowego profil 4;pro øetìz 1''x17,02mm;m;2024;5.12.2024;WZ;10
+Prowadnica ³añcucha rolkowego profil 4;pro øetìz 1''x17,02mm;m;2025;18.02.2025;WZ;4
+Prowadnica ³añcucha rolkowego profil 4;pro øetìz 1''x17,02mm;m;2025;3.10.2025;FSL;0
+Prowadnica ³añcucha rolkowego profil 4;pro øetìz 1''x17,02mm;m;2025;21.11.2025;WZ;48
+Prowadnica ³añcucha rolkowego profil 4;pro øetìz 1''x17,02mm;m;2025 Razem;;;52
+Prowadnica ³añcucha rolkowego profil 4;pro øetìz 1''x17,02mm;m Razem;;;;116
+Prowadnica ³añcucha rolkowego z C-profilem, profil 8;pro øetìz 1''x17,02mm;m;2021;8.02.2021;WZ;10
+Prowadnica ³añcucha rolkowego z C-profilem, profil 8;pro øetìz 1''x17,02mm;m;2024;19.07.2024;FSL;0
+Prowadnica ³añcucha rolkowego z C-profilem, profil 8;pro øetìz 1''x17,02mm;m;2024;13.08.2024;WZ;104
+Prowadnica ³añcucha rolkowego z C-profilem, profil 8;pro øetìz 1''x17,02mm;m;2024 Razem;;;104
+Prowadnica ³añcucha rolkowego z C-profilem, profil 8;pro øetìz 1''x17,02mm;m Razem;;;;114
+Prowadnica ³añcucha rolkowego profil 2;pro øetìz 1''x17,02mm;m;2020;27.02.2020;WZ;2
+Prowadnica ³añcucha rolkowego profil 2;pro øetìz 1''x17,02mm;m;2020;11.03.2020;WZ;36
+Prowadnica ³añcucha rolkowego profil 2;pro øetìz 1''x17,02mm;m;2020 Razem;;;38
+Prowadnica ³añcucha rolkowego profil 2;pro øetìz 1''x17,02mm;m;2021;4.02.2021;WZ;36
+Prowadnica ³añcucha rolkowego profil 2;pro øetìz 1''x17,02mm;m;2023;8.03.2023;WZ;20
+Prowadnica ³añcucha rolkowego profil 2;pro øetìz 1''x17,02mm;m;2024;29.11.2024;WZ;10
+Prowadnica ³añcucha rolkowego profil 2;pro øetìz 1''x17,02mm;m Razem;;;;104
+Prowadnica ³añcucha rolkowego z C-profilem, profil 6;pro øetìz 5/8''x3/8'';m;2020;15.01.2020;WZ;10
+Prowadnica ³añcucha rolkowego z C-profilem, profil 6;pro øetìz 5/8''x3/8'';m;2021;2.02.2021;WZ;2
+Prowadnica ³añcucha rolkowego z C-profilem, profil 6;pro øetìz 5/8''x3/8'';m;2021;31.08.2021;WZ;2
+Prowadnica ³añcucha rolkowego z C-profilem, profil 6;pro øetìz 5/8''x3/8'';m;2021;9.09.2021;WZ;2
+Prowadnica ³añcucha rolkowego z C-profilem, profil 6;pro øetìz 5/8''x3/8'';m;2021;27.10.2021;WZ;2
+Prowadnica ³añcucha rolkowego z C-profilem, profil 6;pro øetìz 5/8''x3/8'';m;2021 Razem;;;8
+Prowadnica ³añcucha rolkowego z C-profilem, profil 6;pro øetìz 5/8''x3/8'';m;2023;13.09.2023;WZ;8
+Prowadnica ³añcucha rolkowego z C-profilem, profil 6;pro øetìz 5/8''x3/8'';m;2024;3.06.2024;WZ;4
+Prowadnica ³añcucha rolkowego z C-profilem, profil 6;pro øetìz 5/8''x3/8'';m;2024;10.07.2024;WZ;10
+Prowadnica ³añcucha rolkowego z C-profilem, profil 6;pro øetìz 5/8''x3/8'';m;2024;16.10.2024;WZ;2
+Prowadnica ³añcucha rolkowego z C-profilem, profil 6;pro øetìz 5/8''x3/8'';m;2024;19.11.2024;WZ;20
+Prowadnica ³añcucha rolkowego z C-profilem, profil 6;pro øetìz 5/8''x3/8'';m;2024 Razem;;;36
+Prowadnica ³añcucha rolkowego z C-profilem, profil 6;pro øetìz 5/8''x3/8'';m;2025;14.01.2025;WZ;10
+Prowadnica ³añcucha rolkowego z C-profilem, profil 6;pro øetìz 5/8''x3/8'';m;2025;28.03.2025;WZ;26
+Prowadnica ³añcucha rolkowego z C-profilem, profil 6;pro øetìz 5/8''x3/8'';m;2025;9.10.2025;WZ;4
+Prowadnica ³añcucha rolkowego z C-profilem, profil 6;pro øetìz 5/8''x3/8'';m;2025 Razem;;;40
+Prowadnica ³añcucha rolkowego z C-profilem, profil 6;pro øetìz 5/8''x3/8'';m Razem;;;;102
+Suma koñcowa;;;;;;5 894,00
